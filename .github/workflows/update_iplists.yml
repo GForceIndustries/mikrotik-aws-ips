@@ -31,7 +31,7 @@ jobs:
           git rm aws-*-ipv4.rsc --ignore-unmatch
           git rm aws-*-ipv6.rsc --ignore-unmatch
           git status
-          git commit -m "Removed existing IP list files" --alow-empty
+          git commit -m "Removed existing IP list files" --allow-empty
 
       - name: Execute github_actions_aws_ips.py Script
         run: python github_actions_aws_ips.py
