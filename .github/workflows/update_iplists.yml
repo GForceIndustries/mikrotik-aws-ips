@@ -28,8 +28,8 @@ jobs:
         run: |
           git config --local user.email "noreply@github.actions.bot"
           git config --local user.name "GitHub Actions"
-          git rm aws-*-ipv4.rsc
-          git rm aws-*-ipv6.rsc
+          git rm --ignore-unmatch aws-*-ipv4.rsc
+          git rm --ignore-unmatch aws-*-ipv6.rsc
           git status
           git commit -m "Removed existing IP list files"
 
