@@ -1,0 +1,22 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.16/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.20/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.44/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.46/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.48/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.52/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.56/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.58/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.60/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.64/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.68/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.70/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.72/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.76/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.80/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.82/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.84/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.88/30
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.92/31
+add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.96/30

@@ -1,0 +1,23 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.0/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.128/27
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.16/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.160/27
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.192/27
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.224/30
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.228/30
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.232/30
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.24/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.32/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.40/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.8/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.177.224/27
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.217.64/27
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.217.96/27
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.227.0/25
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.227.128/25
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.228.0/25
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.33.16/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.33.24/29
+add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.33.8/29

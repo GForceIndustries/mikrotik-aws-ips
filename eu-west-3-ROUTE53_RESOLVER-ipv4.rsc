@@ -1,0 +1,19 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=13.36.18.0/28
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=13.36.18.32/27
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=13.36.18.64/27
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=13.36.76.0/24
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=13.36.77.0/24
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=13.36.78.0/24
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=15.188.102.0/27
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.1.16/29
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.1.24/29
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.1.32/29
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.1.40/29
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.1.48/29
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.1.56/29
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.1.8/29
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.112.128/27
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=35.180.112.160/27
+add list=eu-west-3-ROUTE53_RESOLVER-ipv4 address=52.47.73.160/27

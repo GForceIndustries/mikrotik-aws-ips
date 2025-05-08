@@ -1,0 +1,23 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=18.196.161.0/27
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=18.196.161.184/29
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=18.196.161.192/29
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=18.196.161.200/29
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=18.196.161.32/27
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=18.196.161.80/29
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=18.196.161.88/29
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.120.181.224/27
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.123.44.0/27
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.123.44.128/27
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.123.44.160/27
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.123.44.80/28
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.123.44.96/27
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.64.1.0/26
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.64.1.128/26
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.64.1.192/29
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.64.1.200/29
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.64.1.64/26
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.65.124.0/22
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.65.128.0/22
+add list=eu-central-1-ROUTE53_RESOLVER-ipv4 address=3.65.132.0/22

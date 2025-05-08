@@ -1,0 +1,22 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=GLOBAL-S3-ipv4 address=76.223.102.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.96.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.230.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.231.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.104.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.99.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.225.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.229.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.97.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.228.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.224.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.95.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.227.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.101.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.100.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.103.0/24
+add list=GLOBAL-S3-ipv4 address=76.223.98.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.232.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.226.0/24
+add list=GLOBAL-S3-ipv4 address=13.248.233.0/24

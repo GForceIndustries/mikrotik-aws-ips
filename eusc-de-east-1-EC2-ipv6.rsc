@@ -1,0 +1,24 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ipv6 firewall address-list
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:1800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc5:8800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:2800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc4:800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:5800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:4800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:6800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:a800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:4800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:7800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc1:8000::/36
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc0:800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:6800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:f800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:8800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:5800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:2800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc6:100::/48
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc2:8000::/36
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:b800::/40

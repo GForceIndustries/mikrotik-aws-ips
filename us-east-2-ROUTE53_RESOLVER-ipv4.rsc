@@ -1,0 +1,21 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.188.9.64/29
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.188.9.80/29
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.188.9.88/29
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.217.41.192/29
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.217.41.200/29
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.217.41.208/29
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.217.41.216/29
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.217.41.64/26
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.139.136.128/27
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.139.136.184/30
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.139.136.192/26
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.140.136.128/27
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.141.252.0/22
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.142.0.0/22
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.142.4.0/22
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.18.132.0/26
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.18.132.64/26
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.19.147.0/25
+add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=3.19.147.128/25

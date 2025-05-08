@@ -1,0 +1,19 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.36.16/29
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.36.32/27
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.36.64/27
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.57.0/24
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.58.0/26
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.59.0/24
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.79.64/26
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.80.51.200/29
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.80.51.208/29
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.80.51.216/29
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.80.51.224/29
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.80.51.240/29
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.80.51.248/29
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.81.113.32/27
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.81.113.64/27
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.81.113.96/27
+add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=52.81.151.0/27

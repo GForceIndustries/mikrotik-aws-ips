@@ -1,0 +1,26 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.1.0/28
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.1.16/28
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.1.32/29
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.110.192/26
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.146.128/28
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.200.160/27
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.32.96/27
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.56.112.168/29
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.57.180.176/29
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.57.180.184/29
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.57.180.208/29
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.57.180.216/29
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.57.180.64/26
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=18.144.76.32/29
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.145.192/27
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.145.224/27
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.156.0/26
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.160.44/30
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.160.48/28
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.161.0/25
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.161.128/25
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.162.0/24
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.163.0/26
+add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=3.101.164.0/24

@@ -1,0 +1,23 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ipv6 firewall address-list
+add list=eu-north-1-EC2-ipv6 address=2a05:d040:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d026::/36
+add list=eu-north-1-EC2-ipv6 address=2a05:d076:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d016::/36
+add list=eu-north-1-EC2-ipv6 address=2a05:d032:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d031:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d03a:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d07f:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2600:f0f0:1:1800::/56
+add list=eu-north-1-EC2-ipv6 address=2a05:d035:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d072:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d07b:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d070:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d074:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d030:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d036:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d077:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d034:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d06f:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d000:6000::/40
+add list=eu-north-1-EC2-ipv6 address=2a05:d038:6000::/40

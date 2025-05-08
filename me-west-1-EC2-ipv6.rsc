@@ -1,0 +1,22 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ipv6 firewall address-list
+add list=me-west-1-EC2-ipv6 address=2a05:d076:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d031:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d032:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d03a:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d038:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d020:8000::/36
+add list=me-west-1-EC2-ipv6 address=2a05:d034:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d06f:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d040:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d030:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d077:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d000:800::/64
+add list=me-west-1-EC2-ipv6 address=2a05:d072:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d07b:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d036:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d07f:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d035:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d010:8000::/36
+add list=me-west-1-EC2-ipv6 address=2a05:d074:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d070:800::/40

@@ -1,0 +1,20 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.126.23.136/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.126.23.144/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.126.23.152/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.126.23.160/27
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.126.23.192/27
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.127.70.128/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.127.70.144/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.127.70.152/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.127.70.160/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.233.177.32/27
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.234.221.136/29
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=13.235.197.96/27
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=65.0.192.176/28
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=65.0.192.224/27
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=65.0.234.0/26
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=65.1.170.0/23
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=65.1.172.0/23
+add list=ap-south-1-ROUTE53_RESOLVER-ipv4 address=65.1.174.0/23

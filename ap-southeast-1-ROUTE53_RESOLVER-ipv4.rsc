@@ -1,0 +1,23 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.212.209.128/26
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.212.209.94/31
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.212.209.96/27
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.213.21.0/24
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.213.22.0/23
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.213.24.0/23
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.229.187.192/27
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.229.187.232/29
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.250.186.0/29
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.250.186.16/29
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.250.186.192/29
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.250.186.200/29
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.250.186.208/29
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=13.250.186.8/29
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=18.136.1.192/27
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=18.136.1.224/27
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=18.139.204.176/28
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=18.139.204.192/27
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=18.140.177.0/26
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=18.140.177.64/26
+add list=ap-southeast-1-ROUTE53_RESOLVER-ipv4 address=3.0.5.224/27

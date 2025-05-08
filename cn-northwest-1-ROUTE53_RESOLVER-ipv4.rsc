@@ -1,0 +1,20 @@
+# Generated on Thu May  8 23:09:40 2025 UTC
+/ip firewall address-list
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=161.189.23.0/27
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=161.189.23.32/27
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.26.192/27
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.26.224/27
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.33.104/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.33.112/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.33.72/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.33.80/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.33.88/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.33.96/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.34.72/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.34.80/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.34.88/29
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=52.83.34.96/27
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=68.79.2.64/27
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=69.230.226.0/24
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=69.230.227.0/24
+add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=69.230.228.0/24
