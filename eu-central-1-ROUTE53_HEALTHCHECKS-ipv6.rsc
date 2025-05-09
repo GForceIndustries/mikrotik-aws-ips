@@ -1,3 +1,3 @@
-# Generated on Thu May  8 23:09:40 2025 UTC
+# Generated on Fri May  9 05:37:52 2025 UTC
 /ipv6 firewall address-list
 add list=eu-central-1-ROUTE53_HEALTHCHECKS-ipv6 address=2600:f0f0:30f::/48
