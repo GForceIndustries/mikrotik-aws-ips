@@ -1,4 +1,4 @@
-# Generated on Fri May  9 05:37:52 2025 UTC
+# Generated on Sat May 10 05:36:29 2025 UTC
 /ip firewall address-list
 add list=us-west-2-AMAZON-ipv4 address=52.94.76.0/22
 add list=us-west-2-AMAZON-ipv4 address=15.230.102.0/24
@@ -26,7 +26,6 @@ add list=us-west-2-AMAZON-ipv4 address=139.56.32.0/23
 add list=us-west-2-AMAZON-ipv4 address=3.4.3.0/24
 add list=us-west-2-AMAZON-ipv4 address=52.93.12.0/24
 add list=us-west-2-AMAZON-ipv4 address=52.94.176.0/20
-add list=us-west-2-AMAZON-ipv4 address=198.41.96.0/24
 add list=us-west-2-AMAZON-ipv4 address=52.93.20.0/24
 add list=us-west-2-AMAZON-ipv4 address=150.222.182.16/32
 add list=us-west-2-AMAZON-ipv4 address=52.94.249.64/28
@@ -69,7 +68,6 @@ add list=us-west-2-AMAZON-ipv4 address=52.12.0.0/15
 add list=us-west-2-AMAZON-ipv4 address=205.251.232.0/22
 add list=us-west-2-AMAZON-ipv4 address=52.75.0.0/16
 add list=us-west-2-AMAZON-ipv4 address=54.218.0.0/16
-add list=us-west-2-AMAZON-ipv4 address=198.41.102.0/24
 add list=us-west-2-AMAZON-ipv4 address=3.5.76.0/22
 add list=us-west-2-AMAZON-ipv4 address=15.181.0.0/20
 add list=us-west-2-AMAZON-ipv4 address=52.93.120.179/32
@@ -129,6 +127,7 @@ add list=us-west-2-AMAZON-ipv4 address=15.181.248.0/24
 add list=us-west-2-AMAZON-ipv4 address=52.144.194.64/26
 add list=us-west-2-AMAZON-ipv4 address=16.149.0.0/16
 add list=us-west-2-AMAZON-ipv4 address=52.95.40.0/24
+add list=us-west-2-AMAZON-ipv4 address=35.55.63.0/24
 add list=us-west-2-AMAZON-ipv4 address=15.193.136.0/22
 add list=us-west-2-AMAZON-ipv4 address=15.253.0.0/16
 add list=us-west-2-AMAZON-ipv4 address=15.181.252.0/24
@@ -157,7 +156,6 @@ add list=us-west-2-AMAZON-ipv4 address=52.218.128.0/17
 add list=us-west-2-AMAZON-ipv4 address=15.220.205.0/24
 add list=us-west-2-AMAZON-ipv4 address=15.230.68.64/26
 add list=us-west-2-AMAZON-ipv4 address=52.88.0.0/15
-add list=us-west-2-AMAZON-ipv4 address=198.41.103.0/24
 add list=us-west-2-AMAZON-ipv4 address=35.96.10.0/24
 add list=us-west-2-AMAZON-ipv4 address=99.77.232.0/24
 add list=us-west-2-AMAZON-ipv4 address=99.78.196.0/22

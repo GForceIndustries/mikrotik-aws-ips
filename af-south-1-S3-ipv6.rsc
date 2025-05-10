@@ -1,4 +1,4 @@
-# Generated on Fri May  9 05:37:52 2025 UTC
+# Generated on Sat May 10 05:36:29 2025 UTC
 /ipv6 firewall address-list
 add list=af-south-1-S3-ipv6 address=2406:da60:1000::/40
 add list=af-south-1-S3-ipv6 address=2406:daf0:1000::/40
