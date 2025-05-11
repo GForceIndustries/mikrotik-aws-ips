@@ -1,4 +1,4 @@
-# Generated on Sat May 10 05:36:29 2025 UTC
+# Generated on Sun May 11 05:37:32 2025 UTC
 /ip firewall address-list
 add list=us-east-1-AMAZON-ipv4 address=15.230.221.0/24
 add list=us-east-1-AMAZON-ipv4 address=52.94.152.9/32
