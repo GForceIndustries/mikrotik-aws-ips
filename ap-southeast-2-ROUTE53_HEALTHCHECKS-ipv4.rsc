@@ -1,4 +1,4 @@
-# Generated on Sun May 11 05:37:32 2025 UTC
+# Generated on Mon May 12 05:38:13 2025 UTC
 /ip firewall address-list
 add list=ap-southeast-2-ROUTE53_HEALTHCHECKS-ipv4 address=54.252.254.192/26
 add list=ap-southeast-2-ROUTE53_HEALTHCHECKS-ipv4 address=54.252.79.128/26
