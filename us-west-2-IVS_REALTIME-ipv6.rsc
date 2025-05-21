@@ -1,8 +1,10 @@
-# Generated on Tue May 20 05:38:05 2025 UTC
+# Generated on Wed May 21 05:38:13 2025 UTC
 /ipv6 firewall address-list
+add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:11fe::/48
 add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:e01::/48
 add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:5516::/48
 add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:5512::/48
+add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:11ff::/48
 add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:5514::/48
 add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:e00::/48
 add list=us-west-2-IVS_REALTIME-ipv6 address=2600:f0f0:5517::/48
