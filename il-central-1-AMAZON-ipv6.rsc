@@ -1,6 +1,7 @@
-# Generated on Wed May 21 05:38:13 2025 UTC
+# Generated on Thu May 22 05:38:07 2025 UTC
 /ipv6 firewall address-list
 add list=il-central-1-AMAZON-ipv6 address=2a05:d034:5000::/40
+add list=il-central-1-AMAZON-ipv6 address=2a05:d059:5000::/40
 add list=il-central-1-AMAZON-ipv6 address=2a05:d035:5000::/40
 add list=il-central-1-AMAZON-ipv6 address=2a05:d030:5000::/40
 add list=il-central-1-AMAZON-ipv6 address=2a05:d032:5000::/40
@@ -17,6 +18,7 @@ add list=il-central-1-AMAZON-ipv6 address=2a05:d070:5000::/40
 add list=il-central-1-AMAZON-ipv6 address=2a05:d000:5000::/40
 add list=il-central-1-AMAZON-ipv6 address=2a05:d025::/36
 add list=il-central-1-AMAZON-ipv6 address=2a05:d040:5000::/40
+add list=il-central-1-AMAZON-ipv6 address=2a05:d06d:5000::/40
 add list=il-central-1-AMAZON-ipv6 address=2a01:578:0:7700::/56
 add list=il-central-1-AMAZON-ipv6 address=2600:f0f0:20::/48
 add list=il-central-1-AMAZON-ipv6 address=2a05:d074:5000::/40

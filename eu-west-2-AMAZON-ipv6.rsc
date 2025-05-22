@@ -1,4 +1,4 @@
-# Generated on Wed May 21 05:38:13 2025 UTC
+# Generated on Thu May 22 05:38:07 2025 UTC
 /ipv6 firewall address-list
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d07a:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d027::/36
@@ -14,6 +14,7 @@ add list=eu-west-2-AMAZON-ipv6 address=2a05:d074:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2606:f40:9400::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d077:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d031:c000::/40
+add list=eu-west-2-AMAZON-ipv6 address=2a05:d06d:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d072:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d038:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d06f:c000::/40
@@ -39,6 +40,7 @@ add list=eu-west-2-AMAZON-ipv6 address=2a05:d02c::/36
 add list=eu-west-2-AMAZON-ipv6 address=2600:f002:8000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d034:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d032:c000::/40
+add list=eu-west-2-AMAZON-ipv6 address=2a05:d059:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d07c:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2a05:d03a:c000::/40
 add list=eu-west-2-AMAZON-ipv6 address=2606:7b40:1b0d:8000::/56

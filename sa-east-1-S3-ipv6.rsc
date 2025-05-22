@@ -1,4 +1,4 @@
-# Generated on Wed May 21 05:38:13 2025 UTC
+# Generated on Thu May 22 05:38:07 2025 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-S3-ipv6 address=2600:1ff9:e000::/40
 add list=sa-east-1-S3-ipv6 address=2600:1ff0:e000::/40
@@ -6,4 +6,5 @@ add list=sa-east-1-S3-ipv6 address=2600:1f60:e000::/40
 add list=sa-east-1-S3-ipv6 address=2600:1fa0:e000::/40
 add list=sa-east-1-S3-ipv6 address=2600:1ffa:e000::/40
 add list=sa-east-1-S3-ipv6 address=2600:1f68:e000::/40
+add list=sa-east-1-S3-ipv6 address=2600:1fed:e000::/40
 add list=sa-east-1-S3-ipv6 address=2600:1ff8:e000::/40

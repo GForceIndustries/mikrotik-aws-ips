@@ -1,4 +1,4 @@
-# Generated on Wed May 21 05:38:13 2025 UTC
+# Generated on Thu May 22 05:38:07 2025 UTC
 /ipv6 firewall address-list
 add list=us-gov-west-1-EC2-ipv6 address=2600:1ff6:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1fff:2000::/40
@@ -9,6 +9,7 @@ add list=us-gov-west-1-EC2-ipv6 address=2600:1f36:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1f12::/36
 add list=us-gov-west-1-EC2-ipv6 address=2600:1ff0:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1f38:2000::/40
+add list=us-gov-west-1-EC2-ipv6 address=2600:1fed:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1f00:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1fef:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1f69:2000::/40
@@ -20,4 +21,5 @@ add list=us-gov-west-1-EC2-ipv6 address=2600:1f32:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1ff2:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1f70:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1f22::/36
+add list=us-gov-west-1-EC2-ipv6 address=2600:1fb9:2000::/40
 add list=us-gov-west-1-EC2-ipv6 address=2600:1f61:2000::/40

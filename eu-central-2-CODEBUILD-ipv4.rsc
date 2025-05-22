@@ -1,3 +1,3 @@
-# Generated on Wed May 21 05:38:13 2025 UTC
+# Generated on Thu May 22 05:38:07 2025 UTC
 /ip firewall address-list
 add list=eu-central-2-CODEBUILD-ipv4 address=16.62.188.224/28

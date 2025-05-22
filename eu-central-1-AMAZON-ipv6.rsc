@@ -1,4 +1,4 @@
-# Generated on Wed May 21 05:38:13 2025 UTC
+# Generated on Thu May 22 05:38:07 2025 UTC
 /ipv6 firewall address-list
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d02f::/36
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d070:b000::/40
@@ -44,10 +44,12 @@ add list=eu-central-1-AMAZON-ipv6 address=2a05:d079:4000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2606:f40:9800::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d072:b000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2606:f40:fff9::/48
+add list=eu-central-1-AMAZON-ipv6 address=2a05:d06d:b000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d030:b000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2600:1ffd:80d0::/48
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d034:4000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2606:7b40:1b0c::/56
+add list=eu-central-1-AMAZON-ipv6 address=2a05:d059:4000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2606:f40:5800::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d07a:4000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d07f:b000::/40
@@ -56,6 +58,7 @@ add list=eu-central-1-AMAZON-ipv6 address=2a05:d078:4000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2600:f0fb:f023::/48
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d050:b000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2600:f00e:600::/40
+add list=eu-central-1-AMAZON-ipv6 address=2a05:d06d:4000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d040:b000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d040:4000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d032:4000::/40
@@ -68,6 +71,7 @@ add list=eu-central-1-AMAZON-ipv6 address=2a05:d038:b000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2406:dafc:ff80::/46
 add list=eu-central-1-AMAZON-ipv6 address=2600:1f01:48f2::/47
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d031:4000::/40
+add list=eu-central-1-AMAZON-ipv6 address=2a05:d059:b000::/40
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d02d::/36
 add list=eu-central-1-AMAZON-ipv6 address=2600:f0f0:5526::/48
 add list=eu-central-1-AMAZON-ipv6 address=2a05:d03a:b000::/40
