@@ -1,3 +1,3 @@
-# Generated on Thu May 22 05:38:07 2025 UTC
+# Generated on Fri May 23 05:38:15 2025 UTC
 /ipv6 firewall address-list
 add list=us-west-1-EC2_INSTANCE_CONNECT-ipv6 address=2600:1f1c:12d:e900::/56
