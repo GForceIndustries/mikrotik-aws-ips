@@ -1,4 +1,4 @@
-# Generated on Sat May 24 05:37:03 2025 UTC
+# Generated on Sun May 25 05:37:04 2025 UTC
 /ip firewall address-list
 add list=us-west-2-EC2-ipv4 address=139.56.16.0/23
 add list=us-west-2-EC2-ipv4 address=35.96.240.0/24

@@ -1,4 +1,4 @@
-# Generated on Sat May 24 05:37:03 2025 UTC
+# Generated on Sun May 25 05:37:04 2025 UTC
 /ip firewall address-list
 add list=eu-central-1-S3-ipv4 address=52.219.170.0/23
 add list=eu-central-1-S3-ipv4 address=52.219.168.0/24
