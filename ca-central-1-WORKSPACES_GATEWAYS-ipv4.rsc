@@ -1,4 +1,4 @@
-# Generated on Sun May 25 05:37:04 2025 UTC
+# Generated on Mon May 26 05:38:49 2025 UTC
 /ip firewall address-list
 add list=ca-central-1-WORKSPACES_GATEWAYS-ipv4 address=15.223.100.0/24
 add list=ca-central-1-WORKSPACES_GATEWAYS-ipv4 address=15.223.102.0/23
