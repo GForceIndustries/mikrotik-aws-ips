@@ -1,4 +1,4 @@
-# Generated on Tue May 27 05:38:33 2025 UTC
+# Generated on Wed May 28 05:38:13 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -674,6 +674,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=eu-west-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=us-west-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=us-east-1-IVS_REALTIME-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=eu-central-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-northeast-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-southeast-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-northeast-3-IVS_REALTIME-ipv6.rsc;\r\
@@ -681,7 +682,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-south-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=us-east-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-north-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=eu-north-1-IVS_REALTIME-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=eu-central-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=eu-west-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=il-central-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=sa-east-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
@@ -764,6 +764,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=us-east-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=ap-east-1-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=ap-southeast-3-GLOBALACCELERATOR-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CHIME_MEETINGS-ipv6.rsc\" mode=https dst-path=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
@@ -1483,6 +1484,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-west-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=us-west-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=us-east-1-IVS_REALTIME-ipv6.rsc;\r\
+    \n/import file-name=eu-central-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-3-IVS_REALTIME-ipv6.rsc;\r\
@@ -1490,7 +1492,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-south-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=us-east-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=eu-north-1-IVS_REALTIME-ipv6.rsc;\r\
-    \n/import file-name=eu-central-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=il-central-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=sa-east-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
@@ -1573,6 +1574,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=ap-east-1-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-3-GLOBALACCELERATOR-ipv6.rsc;\r\
+    \n/import file-name=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
     \n/import file-name=cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\

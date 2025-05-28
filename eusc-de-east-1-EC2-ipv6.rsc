@@ -1,4 +1,4 @@
-# Generated on Tue May 27 05:38:33 2025 UTC
+# Generated on Wed May 28 05:38:13 2025 UTC
 /ipv6 firewall address-list
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:1800::/40
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc5:8800::/40
