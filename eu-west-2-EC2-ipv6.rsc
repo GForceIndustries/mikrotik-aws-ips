@@ -1,4 +1,4 @@
-# Generated on Thu May 29 05:38:42 2025 UTC
+# Generated on Fri May 30 05:37:56 2025 UTC
 /ipv6 firewall address-list
 add list=eu-west-2-EC2-ipv6 address=2a05:d027::/36
 add list=eu-west-2-EC2-ipv6 address=2a05:d017::/36

@@ -1,4 +1,4 @@
-# Generated on Thu May 29 05:38:42 2025 UTC
+# Generated on Fri May 30 05:37:56 2025 UTC
 /ip firewall address-list
 add list=us-west-1-API_GATEWAY-ipv4 address=13.52.201.0/24
 add list=us-west-1-API_GATEWAY-ipv4 address=13.52.202.0/24
