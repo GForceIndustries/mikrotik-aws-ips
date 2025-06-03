@@ -1,4 +1,4 @@
-# Generated on Mon Jun  2 05:39:11 2025 UTC
+# Generated on Tue Jun  3 05:38:52 2025 UTC
 /ip firewall address-list
 add list=eu-west-1-EC2-ipv4 address=18.97.192.0/18
 add list=eu-west-1-EC2-ipv4 address=54.247.0.0/16
@@ -36,6 +36,7 @@ add list=eu-west-1-EC2-ipv4 address=162.213.234.0/23
 add list=eu-west-1-EC2-ipv4 address=18.201.0.0/16
 add list=eu-west-1-EC2-ipv4 address=54.228.0.0/16
 add list=eu-west-1-EC2-ipv4 address=195.17.0.0/24
+add list=eu-west-1-EC2-ipv4 address=35.55.19.0/24
 add list=eu-west-1-EC2-ipv4 address=176.34.64.0/18
 add list=eu-west-1-EC2-ipv4 address=35.50.195.0/24
 add list=eu-west-1-EC2-ipv4 address=208.86.90.0/23
@@ -46,6 +47,7 @@ add list=eu-west-1-EC2-ipv4 address=54.194.0.0/15
 add list=eu-west-1-EC2-ipv4 address=15.177.75.0/24
 add list=eu-west-1-EC2-ipv4 address=3.248.0.0/13
 add list=eu-west-1-EC2-ipv4 address=99.77.133.0/24
+add list=eu-west-1-EC2-ipv4 address=35.55.21.0/24
 add list=eu-west-1-EC2-ipv4 address=54.155.0.0/16
 add list=eu-west-1-EC2-ipv4 address=52.16.0.0/15
 add list=eu-west-1-EC2-ipv4 address=64.252.115.0/24
@@ -60,6 +62,7 @@ add list=eu-west-1-EC2-ipv4 address=176.34.128.0/17
 add list=eu-west-1-EC2-ipv4 address=34.248.0.0/13
 add list=eu-west-1-EC2-ipv4 address=108.128.0.0/13
 add list=eu-west-1-EC2-ipv4 address=64.252.114.0/24
+add list=eu-west-1-EC2-ipv4 address=35.55.20.0/24
 add list=eu-west-1-EC2-ipv4 address=52.18.0.0/15
 add list=eu-west-1-EC2-ipv4 address=151.148.34.0/24
 add list=eu-west-1-EC2-ipv4 address=162.213.233.0/24

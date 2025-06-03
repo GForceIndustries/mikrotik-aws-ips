@@ -1,3 +1,3 @@
-# Generated on Mon Jun  2 05:39:11 2025 UTC
+# Generated on Tue Jun  3 05:38:52 2025 UTC
 /ip firewall address-list
 add list=us-east-2-AURORA_DSQL-ipv4 address=18.97.139.128/25
