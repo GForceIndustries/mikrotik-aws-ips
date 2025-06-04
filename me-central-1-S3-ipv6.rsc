@@ -1,9 +1,11 @@
-# Generated on Tue Jun  3 05:38:52 2025 UTC
+# Generated on Wed Jun  4 05:38:30 2025 UTC
 /ipv6 firewall address-list
 add list=me-central-1-S3-ipv6 address=2406:daed:7000::/40
 add list=me-central-1-S3-ipv6 address=2406:daa0:7000::/40
+add list=me-central-1-S3-ipv6 address=2406:dab9:7000::/40
 add list=me-central-1-S3-ipv6 address=2406:daf9:7000::/40
 add list=me-central-1-S3-ipv6 address=2406:da60:7000::/40
 add list=me-central-1-S3-ipv6 address=2406:da68:7000::/40
+add list=me-central-1-S3-ipv6 address=2406:daf4:7000::/40
 add list=me-central-1-S3-ipv6 address=2406:daf8:7000::/40
 add list=me-central-1-S3-ipv6 address=2406:daf0:7000::/40

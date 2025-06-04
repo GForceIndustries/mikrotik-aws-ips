@@ -1,4 +1,4 @@
-# Generated on Tue Jun  3 05:38:52 2025 UTC
+# Generated on Wed Jun  4 05:38:30 2025 UTC
 /ip firewall address-list
 add list=ca-central-1-ROUTE53_RESOLVER-ipv4 address=15.222.16.32/27
 add list=ca-central-1-ROUTE53_RESOLVER-ipv4 address=15.222.16.8/29

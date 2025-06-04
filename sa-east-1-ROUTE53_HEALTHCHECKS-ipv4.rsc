@@ -1,4 +1,4 @@
-# Generated on Tue Jun  3 05:38:52 2025 UTC
+# Generated on Wed Jun  4 05:38:30 2025 UTC
 /ip firewall address-list
 add list=sa-east-1-ROUTE53_HEALTHCHECKS-ipv4 address=177.71.207.128/26
 add list=sa-east-1-ROUTE53_HEALTHCHECKS-ipv4 address=54.232.40.64/26

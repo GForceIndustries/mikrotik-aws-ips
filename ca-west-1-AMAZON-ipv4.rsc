@@ -1,4 +1,4 @@
-# Generated on Tue Jun  3 05:38:52 2025 UTC
+# Generated on Wed Jun  4 05:38:30 2025 UTC
 /ip firewall address-list
 add list=ca-west-1-AMAZON-ipv4 address=15.177.100.0/24
 add list=ca-west-1-AMAZON-ipv4 address=40.178.0.0/15
@@ -12,7 +12,6 @@ add list=ca-west-1-AMAZON-ipv4 address=150.222.52.96/27
 add list=ca-west-1-AMAZON-ipv4 address=13.248.73.0/24
 add list=ca-west-1-AMAZON-ipv4 address=16.12.58.0/24
 add list=ca-west-1-AMAZON-ipv4 address=56.114.0.0/16
-add list=ca-west-1-AMAZON-ipv4 address=35.96.32.0/20
 add list=ca-west-1-AMAZON-ipv4 address=16.175.0.0/16
 add list=ca-west-1-AMAZON-ipv4 address=15.248.64.0/21
 add list=ca-west-1-AMAZON-ipv4 address=150.222.52.160/27
