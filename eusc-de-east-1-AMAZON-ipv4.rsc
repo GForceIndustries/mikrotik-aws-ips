@@ -1,4 +1,4 @@
-# Generated on Fri Jun  6 05:39:54 2025 UTC
+# Generated on Sat Jun  7 05:37:20 2025 UTC
 /ip firewall address-list
 add list=eusc-de-east-1-AMAZON-ipv4 address=51.0.16.0/21
 add list=eusc-de-east-1-AMAZON-ipv4 address=150.222.54.0/27

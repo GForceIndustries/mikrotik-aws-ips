@@ -1,4 +1,4 @@
-# Generated on Fri Jun  6 05:39:54 2025 UTC
+# Generated on Sat Jun  7 05:37:20 2025 UTC
 /ip firewall address-list
 add list=ap-east-2-AMAZON-ipv4 address=15.190.244.0/22
 add list=ap-east-2-AMAZON-ipv4 address=16.12.80.0/24
