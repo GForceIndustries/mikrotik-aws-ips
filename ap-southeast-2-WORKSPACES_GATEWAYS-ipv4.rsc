@@ -1,4 +1,4 @@
-# Generated on Sat Jun  7 05:37:20 2025 UTC
+# Generated on Sun Jun  8 05:38:25 2025 UTC
 /ip firewall address-list
 add list=ap-southeast-2-WORKSPACES_GATEWAYS-ipv4 address=3.25.248.0/22
 add list=ap-southeast-2-WORKSPACES_GATEWAYS-ipv4 address=3.25.43.0/24

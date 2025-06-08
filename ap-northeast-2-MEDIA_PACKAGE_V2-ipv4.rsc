@@ -1,4 +1,4 @@
-# Generated on Sat Jun  7 05:37:20 2025 UTC
+# Generated on Sun Jun  8 05:38:25 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-2-MEDIA_PACKAGE_V2-ipv4 address=43.201.155.152/29
 add list=ap-northeast-2-MEDIA_PACKAGE_V2-ipv4 address=43.201.155.160/29
