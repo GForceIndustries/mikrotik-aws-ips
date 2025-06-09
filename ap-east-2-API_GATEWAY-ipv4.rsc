@@ -1,3 +1,3 @@
-# Generated on Sun Jun  8 05:38:25 2025 UTC
+# Generated on Mon Jun  9 05:39:28 2025 UTC
 /ip firewall address-list
 add list=ap-east-2-API_GATEWAY-ipv4 address=43.212.16.0/24
