@@ -1,4 +1,4 @@
-# Generated on Mon Jun  9 05:39:28 2025 UTC
+# Generated on Tue Jun 10 05:38:47 2025 UTC
 /ip firewall address-list
 add list=ca-central-1-KINESIS_VIDEO_STREAMS-ipv4 address=15.157.167.134/31
 add list=ca-central-1-KINESIS_VIDEO_STREAMS-ipv4 address=15.157.167.136/30

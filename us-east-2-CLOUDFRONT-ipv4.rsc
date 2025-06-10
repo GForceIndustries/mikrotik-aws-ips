@@ -1,4 +1,4 @@
-# Generated on Mon Jun  9 05:39:28 2025 UTC
+# Generated on Tue Jun 10 05:38:47 2025 UTC
 /ip firewall address-list
 add list=us-east-2-CLOUDFRONT-ipv4 address=13.59.250.0/26
 add list=us-east-2-CLOUDFRONT-ipv4 address=18.216.170.128/25
