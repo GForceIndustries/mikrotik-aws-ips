@@ -1,4 +1,4 @@
-# Generated on Tue Jun 10 05:38:47 2025 UTC
+# Generated on Wed Jun 11 05:39:09 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -771,8 +771,10 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=us-east-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=ap-east-1-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=ap-southeast-3-GLOBALACCELERATOR-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=us-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CHIME_MEETINGS-ipv6.rsc\" mode=https dst-path=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=us-gov-east-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
@@ -1588,8 +1590,10 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=ap-east-1-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-3-GLOBALACCELERATOR-ipv6.rsc;\r\
+    \n/import file-name=us-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
+    \n/import file-name=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/import file-name=cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=us-gov-east-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
