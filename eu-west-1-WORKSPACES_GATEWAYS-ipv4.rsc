@@ -1,4 +1,4 @@
-# Generated on Thu Jun 12 05:38:28 2025 UTC
+# Generated on Fri Jun 13 05:38:27 2025 UTC
 /ip firewall address-list
 add list=eu-west-1-WORKSPACES_GATEWAYS-ipv4 address=3.248.176.0/22
 add list=eu-west-1-WORKSPACES_GATEWAYS-ipv4 address=3.249.28.0/23

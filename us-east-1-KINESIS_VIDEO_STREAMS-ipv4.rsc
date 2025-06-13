@@ -1,4 +1,4 @@
-# Generated on Thu Jun 12 05:38:28 2025 UTC
+# Generated on Fri Jun 13 05:38:27 2025 UTC
 /ip firewall address-list
 add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.16/31
 add list=us-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=44.220.189.20/30

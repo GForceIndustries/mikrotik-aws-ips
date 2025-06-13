@@ -1,4 +1,4 @@
-# Generated on Thu Jun 12 05:38:28 2025 UTC
+# Generated on Fri Jun 13 05:38:27 2025 UTC
 /ip firewall address-list
 add list=us-east-2-S3-ipv4 address=52.219.212.0/22
 add list=us-east-2-S3-ipv4 address=52.219.143.0/24
