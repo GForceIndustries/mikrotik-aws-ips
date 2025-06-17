@@ -1,3 +1,3 @@
-# Generated on Mon Jun 16 05:39:37 2025 UTC
+# Generated on Tue Jun 17 05:39:00 2025 UTC
 /ip firewall address-list
 add list=eusc-de-east-1-DYNAMODB-ipv4 address=51.0.28.0/24
