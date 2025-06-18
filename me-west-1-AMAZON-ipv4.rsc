@@ -1,4 +1,4 @@
-# Generated on Tue Jun 17 05:39:00 2025 UTC
+# Generated on Wed Jun 18 05:38:54 2025 UTC
 /ip firewall address-list
 add list=me-west-1-AMAZON-ipv4 address=51.168.0.0/15
 add list=me-west-1-AMAZON-ipv4 address=35.56.0.0/15
