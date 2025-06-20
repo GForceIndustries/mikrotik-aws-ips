@@ -1,4 +1,4 @@
-# Generated on Thu Jun 19 05:38:29 2025 UTC
+# Generated on Fri Jun 20 05:38:47 2025 UTC
 /ip firewall address-list
 add list=GLOBAL-AMAZON-ipv4 address=120.52.22.96/27
 add list=GLOBAL-AMAZON-ipv4 address=205.251.249.0/24

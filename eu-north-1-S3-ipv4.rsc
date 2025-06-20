@@ -1,4 +1,4 @@
-# Generated on Thu Jun 19 05:38:29 2025 UTC
+# Generated on Fri Jun 20 05:38:47 2025 UTC
 /ip firewall address-list
 add list=eu-north-1-S3-ipv4 address=16.12.10.0/23
 add list=eu-north-1-S3-ipv4 address=52.95.169.0/24

@@ -1,4 +1,4 @@
-# Generated on Thu Jun 19 05:38:29 2025 UTC
+# Generated on Fri Jun 20 05:38:47 2025 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-GLOBALACCELERATOR-ipv6 address=2600:9000:a800::/40
 add list=GLOBAL-GLOBALACCELERATOR-ipv6 address=2600:9000:a700::/40

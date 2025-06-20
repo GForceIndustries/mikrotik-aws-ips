@@ -1,3 +1,3 @@
-# Generated on Thu Jun 19 05:38:29 2025 UTC
+# Generated on Fri Jun 20 05:38:47 2025 UTC
 /ip firewall address-list
 add list=eu-west-3-AURORA_DSQL-ipv4 address=18.98.66.128/25
