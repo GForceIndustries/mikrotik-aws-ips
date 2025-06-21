@@ -1,4 +1,4 @@
-# Generated on Fri Jun 20 05:38:47 2025 UTC
+# Generated on Sat Jun 21 05:37:35 2025 UTC
 /ip firewall address-list
 add list=eu-west-1-KINESIS_VIDEO_STREAMS-ipv4 address=54.247.243.134/31
 add list=eu-west-1-KINESIS_VIDEO_STREAMS-ipv4 address=54.247.243.136/30

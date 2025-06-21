@@ -1,4 +1,4 @@
-# Generated on Fri Jun 20 05:38:47 2025 UTC
+# Generated on Sat Jun 21 05:37:35 2025 UTC
 /ip firewall address-list
 add list=eu-north-1-CODEBUILD-ipv4 address=13.48.4.192/29
 add list=eu-north-1-CODEBUILD-ipv4 address=13.51.253.80/29
