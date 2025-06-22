@@ -1,4 +1,4 @@
-# Generated on Sat Jun 21 05:37:35 2025 UTC
+# Generated on Sun Jun 22 05:38:02 2025 UTC
 /ip firewall address-list
 add list=us-gov-east-1-ROUTE53_RESOLVER-ipv4 address=18.252.144.0/25
 add list=us-gov-east-1-ROUTE53_RESOLVER-ipv4 address=18.252.144.128/25

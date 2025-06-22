@@ -1,4 +1,4 @@
-# Generated on Sat Jun 21 05:37:35 2025 UTC
+# Generated on Sun Jun 22 05:38:02 2025 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-WORKSPACES_GATEWAYS-ipv6 address=2600:1f32:e000::/40
 add list=sa-east-1-WORKSPACES_GATEWAYS-ipv6 address=2600:1f2e:14::/48
