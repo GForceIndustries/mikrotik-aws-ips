@@ -1,4 +1,4 @@
-# Generated on Sun Jun 22 05:38:02 2025 UTC
+# Generated on Mon Jun 23 05:39:22 2025 UTC
 /ipv6 firewall address-list
 add list=us-west-2-ROUTE53_HEALTHCHECKS-ipv6 address=2600:f0f0:30e::/48
 add list=us-west-2-ROUTE53_HEALTHCHECKS-ipv6 address=2600:f0f0:300:100::/56

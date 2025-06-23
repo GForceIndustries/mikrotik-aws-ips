@@ -1,4 +1,4 @@
-# Generated on Sun Jun 22 05:38:02 2025 UTC
+# Generated on Mon Jun 23 05:39:22 2025 UTC
 /ip firewall address-list
 add list=eu-west-1-API_GATEWAY-ipv4 address=108.128.160.0/23
 add list=eu-west-1-API_GATEWAY-ipv4 address=108.128.162.0/24

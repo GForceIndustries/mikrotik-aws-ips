@@ -1,4 +1,4 @@
-# Generated on Sun Jun 22 05:38:02 2025 UTC
+# Generated on Mon Jun 23 05:39:22 2025 UTC
 /ip firewall address-list
 add list=us-west-2-CLOUD9-ipv4 address=34.217.141.224/27
 add list=us-west-2-CLOUD9-ipv4 address=34.218.119.32/27
