@@ -1,4 +1,4 @@
-# Generated on Tue Jun 24 05:39:37 2025 UTC
+# Generated on Wed Jun 25 05:39:11 2025 UTC
 /ip firewall address-list
 add list=ap-southeast-2-CLOUDFRONT-ipv4 address=13.210.67.128/26
 add list=ap-southeast-2-CLOUDFRONT-ipv4 address=13.54.63.128/26
