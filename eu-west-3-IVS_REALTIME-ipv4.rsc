@@ -1,4 +1,4 @@
-# Generated on Thu Jun 26 05:39:07 2025 UTC
+# Generated on Fri Jun 27 05:39:28 2025 UTC
 /ip firewall address-list
 add list=eu-west-3-IVS_REALTIME-ipv4 address=52.129.131.0/24
 add list=eu-west-3-IVS_REALTIME-ipv4 address=35.55.23.0/24

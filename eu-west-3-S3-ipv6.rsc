@@ -1,18 +1,12 @@
-# Generated on Thu Jun 26 05:39:07 2025 UTC
+# Generated on Fri Jun 27 05:39:28 2025 UTC
 /ipv6 firewall address-list
-add list=eu-west-3-S3-ipv6 address=2a05:d059:2000::/56
-add list=eu-west-3-S3-ipv6 address=2a05:d059:20c0::/48
+add list=eu-west-3-S3-ipv6 address=2a05:d074:2000::/40
 add list=eu-west-3-S3-ipv6 address=2a05:d050:2000::/40
-add list=eu-west-3-S3-ipv6 address=2a05:d074:2040::/48
 add list=eu-west-3-S3-ipv6 address=2a05:d034:2000::/40
 add list=eu-west-3-S3-ipv6 address=2a05:d07a:2000::/40
-add list=eu-west-3-S3-ipv6 address=2a05:d059:2080::/48
 add list=eu-west-3-S3-ipv6 address=2a05:d030:2000::/40
-add list=eu-west-3-S3-ipv6 address=2a05:d074:20c0::/48
-add list=eu-west-3-S3-ipv6 address=2a05:d074:2080::/48
 add list=eu-west-3-S3-ipv6 address=2a05:d079:2000::/40
-add list=eu-west-3-S3-ipv6 address=2a05:d074:2000::/56
 add list=eu-west-3-S3-ipv6 address=2a05:d070:2000::/40
 add list=eu-west-3-S3-ipv6 address=2a05:d078:2000::/40
 add list=eu-west-3-S3-ipv6 address=2a05:d06d:2000::/40
-add list=eu-west-3-S3-ipv6 address=2a05:d059:2040::/48
+add list=eu-west-3-S3-ipv6 address=2a05:d059:2000::/40

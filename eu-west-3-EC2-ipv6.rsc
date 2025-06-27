@@ -1,29 +1,24 @@
-# Generated on Thu Jun 26 05:39:07 2025 UTC
+# Generated on Fri Jun 27 05:39:28 2025 UTC
 /ipv6 firewall address-list
-add list=eu-west-3-EC2-ipv6 address=2a05:d059:2000::/56
-add list=eu-west-3-EC2-ipv6 address=2a05:d059:20c0::/48
+add list=eu-west-3-EC2-ipv6 address=2a05:d074:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d077:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d074:2040::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d034:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2606:7b40:1b0d:c000::/56
 add list=eu-west-3-EC2-ipv6 address=2a05:d07b:2000::/40
+add list=eu-west-3-EC2-ipv6 address=2a05:d073:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d036:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d076:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d059:2080::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d032:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d000:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2600:f0f0:410a::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d030:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d074:20c0::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d022::/36
-add list=eu-west-3-EC2-ipv6 address=2a05:d074:2080::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d031:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d06f:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d012::/36
 add list=eu-west-3-EC2-ipv6 address=2600:f0f0:1:1c00::/56
 add list=eu-west-3-EC2-ipv6 address=2600:9000:5213::/48
 add list=eu-west-3-EC2-ipv6 address=2600:f0f0:1115::/48
-add list=eu-west-3-EC2-ipv6 address=2a05:d074:2000::/56
 add list=eu-west-3-EC2-ipv6 address=2600:f0f0:1117::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d070:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2600:f0f0:1116::/48
@@ -31,7 +26,7 @@ add list=eu-west-3-EC2-ipv6 address=2a05:d07f:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d06d:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d035:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d03a:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d059:2040::/48
+add list=eu-west-3-EC2-ipv6 address=2a05:d059:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d038:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d040:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d072:2000::/40

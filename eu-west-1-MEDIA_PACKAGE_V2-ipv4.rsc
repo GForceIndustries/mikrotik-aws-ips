@@ -1,4 +1,4 @@
-# Generated on Thu Jun 26 05:39:07 2025 UTC
+# Generated on Fri Jun 27 05:39:28 2025 UTC
 /ip firewall address-list
 add list=eu-west-1-MEDIA_PACKAGE_V2-ipv4 address=3.253.189.64/29
 add list=eu-west-1-MEDIA_PACKAGE_V2-ipv4 address=3.253.189.72/29
