@@ -1,4 +1,4 @@
-# Generated on Fri Jun 27 05:39:28 2025 UTC
+# Generated on Sat Jun 28 05:38:18 2025 UTC
 /ip firewall address-list
 add list=me-south-1-EBS-ipv4 address=15.184.125.224/29
 add list=me-south-1-EBS-ipv4 address=15.184.125.232/30

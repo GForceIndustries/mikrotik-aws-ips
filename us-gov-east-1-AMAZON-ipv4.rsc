@@ -1,4 +1,4 @@
-# Generated on Fri Jun 27 05:39:28 2025 UTC
+# Generated on Sat Jun 28 05:38:18 2025 UTC
 /ip firewall address-list
 add list=us-gov-east-1-AMAZON-ipv4 address=35.71.115.0/24
 add list=us-gov-east-1-AMAZON-ipv4 address=99.77.183.0/24
