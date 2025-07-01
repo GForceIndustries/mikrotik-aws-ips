@@ -1,4 +1,4 @@
-# Generated on Mon Jun 30 05:39:45 2025 UTC
+# Generated on Tue Jul  1 05:40:09 2025 UTC
 /ip firewall address-list
 add list=us-east-1-CLOUD9-ipv4 address=35.172.155.192/27
 add list=us-east-1-CLOUD9-ipv4 address=35.172.155.96/27
