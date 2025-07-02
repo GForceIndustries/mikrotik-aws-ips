@@ -1,4 +1,4 @@
-# Generated on Tue Jul  1 05:40:09 2025 UTC
+# Generated on Wed Jul  2 05:40:15 2025 UTC
 /ip firewall address-list
 add list=ca-central-1-AMAZON-ipv4 address=15.230.110.0/24
 add list=ca-central-1-AMAZON-ipv4 address=16.49.0.0/16
@@ -50,7 +50,6 @@ add list=ca-central-1-AMAZON-ipv4 address=52.93.193.197/32
 add list=ca-central-1-AMAZON-ipv4 address=136.18.134.0/23
 add list=ca-central-1-AMAZON-ipv4 address=16.53.0.0/16
 add list=ca-central-1-AMAZON-ipv4 address=52.94.14.0/24
-add list=ca-central-1-AMAZON-ipv4 address=35.96.251.0/24
 add list=ca-central-1-AMAZON-ipv4 address=15.230.79.128/26
 add list=ca-central-1-AMAZON-ipv4 address=52.93.193.202/32
 add list=ca-central-1-AMAZON-ipv4 address=52.60.0.0/16
