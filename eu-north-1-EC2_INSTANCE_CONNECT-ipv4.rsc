@@ -1,3 +1,3 @@
-# Generated on Wed Jul  2 05:40:15 2025 UTC
+# Generated on Thu Jul  3 05:40:40 2025 UTC
 /ip firewall address-list
 add list=eu-north-1-EC2_INSTANCE_CONNECT-ipv4 address=13.48.4.200/30
