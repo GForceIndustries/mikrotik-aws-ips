@@ -1,4 +1,4 @@
-# Generated on Thu Jul  3 05:40:40 2025 UTC
+# Generated on Fri Jul  4 05:40:17 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-3-AMAZON-ipv4 address=104.255.59.114/32
 add list=ap-northeast-3-AMAZON-ipv4 address=52.95.182.0/23

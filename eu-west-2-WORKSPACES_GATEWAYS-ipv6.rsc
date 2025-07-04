@@ -1,4 +1,4 @@
-# Generated on Thu Jul  3 05:40:40 2025 UTC
+# Generated on Fri Jul  4 05:40:17 2025 UTC
 /ipv6 firewall address-list
 add list=eu-west-2-WORKSPACES_GATEWAYS-ipv6 address=2a05:d032:c000::/40
 add list=eu-west-2-WORKSPACES_GATEWAYS-ipv6 address=2a05:d02c:8::/48
