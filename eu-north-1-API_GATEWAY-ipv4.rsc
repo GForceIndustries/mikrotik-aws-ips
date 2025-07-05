@@ -1,4 +1,4 @@
-# Generated on Fri Jul  4 05:40:17 2025 UTC
+# Generated on Sat Jul  5 05:37:52 2025 UTC
 /ip firewall address-list
 add list=eu-north-1-API_GATEWAY-ipv4 address=13.48.74.0/24
 add list=eu-north-1-API_GATEWAY-ipv4 address=13.49.42.0/23
