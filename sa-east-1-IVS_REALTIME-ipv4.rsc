@@ -1,4 +1,4 @@
-# Generated on Mon Jul  7 05:40:06 2025 UTC
+# Generated on Tue Jul  8 05:39:30 2025 UTC
 /ip firewall address-list
 add list=sa-east-1-IVS_REALTIME-ipv4 address=35.55.26.0/24
 add list=sa-east-1-IVS_REALTIME-ipv4 address=35.50.176.0/24
