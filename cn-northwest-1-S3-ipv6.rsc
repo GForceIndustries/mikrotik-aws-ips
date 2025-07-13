@@ -1,4 +1,4 @@
-# Generated on Sat Jul 12 05:39:05 2025 UTC
+# Generated on Sun Jul 13 05:39:36 2025 UTC
 /ipv6 firewall address-list
 add list=cn-northwest-1-S3-ipv6 address=240f:80f8:4000::/40
 add list=cn-northwest-1-S3-ipv6 address=240f:80f9:4000::/40

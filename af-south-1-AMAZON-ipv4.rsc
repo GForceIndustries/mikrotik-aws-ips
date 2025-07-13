@@ -1,4 +1,4 @@
-# Generated on Sat Jul 12 05:39:05 2025 UTC
+# Generated on Sun Jul 13 05:39:36 2025 UTC
 /ip firewall address-list
 add list=af-south-1-AMAZON-ipv4 address=15.103.0.0/16
 add list=af-south-1-AMAZON-ipv4 address=99.78.152.0/22
