@@ -1,4 +1,4 @@
-# Generated on Sun Jul 13 05:39:36 2025 UTC
+# Generated on Mon Jul 14 05:41:39 2025 UTC
 /ip firewall address-list
 add list=af-south-1-AMAZON_APPFLOW-ipv4 address=13.245.127.232/30
 add list=af-south-1-AMAZON_APPFLOW-ipv4 address=13.245.166.128/30
