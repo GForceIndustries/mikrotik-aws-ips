@@ -1,4 +1,4 @@
-# Generated on Mon Jul 14 05:41:39 2025 UTC
+# Generated on Tue Jul 15 05:41:15 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -664,6 +664,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-S3-ipv6.rsc\" mode=https dst-path=us-east-2-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-2-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-4-S3-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-S3-ipv6.rsc\" mode=https dst-path=us-east-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-7-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-5-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-S3-ipv6.rsc\" mode=https dst-path=eu-west-1-S3-ipv6.rsc;\r\
@@ -672,7 +673,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-S3-ipv6.rsc\" mode=https dst-path=us-gov-east-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-S3-ipv6.rsc\" mode=https dst-path=eusc-de-east-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-S3-ipv6.rsc\" mode=https dst-path=cn-north-1-S3-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-S3-ipv6.rsc\" mode=https dst-path=us-east-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-S3-ipv6.rsc\" mode=https dst-path=ca-west-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-6-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-west-1-S3-ipv6.rsc\" mode=https dst-path=me-west-1-S3-ipv6.rsc;\r\
@@ -1499,6 +1499,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-2-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-2-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-4-S3-ipv6.rsc;\r\
+    \n/import file-name=us-east-1-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-7-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-5-S3-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-S3-ipv6.rsc;\r\
@@ -1507,7 +1508,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-gov-east-1-S3-ipv6.rsc;\r\
     \n/import file-name=eusc-de-east-1-S3-ipv6.rsc;\r\
     \n/import file-name=cn-north-1-S3-ipv6.rsc;\r\
-    \n/import file-name=us-east-1-S3-ipv6.rsc;\r\
     \n/import file-name=ca-west-1-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-6-S3-ipv6.rsc;\r\
     \n/import file-name=me-west-1-S3-ipv6.rsc;\r\
