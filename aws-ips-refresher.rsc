@@ -1,4 +1,4 @@
-# Generated on Tue Jul 15 05:41:15 2025 UTC
+# Generated on Wed Jul 16 05:41:59 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -782,6 +782,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=ap-northeast-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=us-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=ap-southeast-2-AMAZON_CONNECT-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=af-south-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=ap-southeast-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=ap-northeast-3-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=ap-northeast-1-AMAZON_CONNECT-ipv6.rsc;\r\
@@ -1617,6 +1618,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-northeast-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=us-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-2-AMAZON_CONNECT-ipv6.rsc;\r\
+    \n/import file-name=af-south-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-3-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-1-AMAZON_CONNECT-ipv6.rsc;\r\

@@ -1,3 +1,3 @@
 # Generated on Wed Jul 16 05:41:59 2025 UTC
 /ipv6 firewall address-list
-add list=eu-central-1-AMAZON_CONNECT-ipv6 address=2600:f0f2:7103::/48
+add list=af-south-1-AMAZON_CONNECT-ipv6 address=2600:f0f2:710b::/48
