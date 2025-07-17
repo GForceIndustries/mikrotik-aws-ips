@@ -1,4 +1,4 @@
-# Generated on Wed Jul 16 05:41:59 2025 UTC
+# Generated on Thu Jul 17 05:41:34 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -778,6 +778,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=eu-central-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-2-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=eu-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=us-east-1-AMAZON_CONNECT-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=us-gov-west-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-1-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=ap-south-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=ap-northeast-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=us-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
@@ -1614,6 +1615,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-central-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=eu-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=us-east-1-AMAZON_CONNECT-ipv6.rsc;\r\
+    \n/import file-name=us-gov-west-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-south-1-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-2-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=us-west-2-AMAZON_CONNECT-ipv6.rsc;\r\
