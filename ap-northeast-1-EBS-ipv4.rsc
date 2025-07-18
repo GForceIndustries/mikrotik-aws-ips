@@ -1,4 +1,4 @@
-# Generated on Thu Jul 17 05:41:34 2025 UTC
+# Generated on Fri Jul 18 05:42:36 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-1-EBS-ipv4 address=13.113.244.25/32
 add list=ap-northeast-1-EBS-ipv4 address=35.72.164.212/30

@@ -1,4 +1,4 @@
-# Generated on Thu Jul 17 05:41:34 2025 UTC
+# Generated on Fri Jul 18 05:42:36 2025 UTC
 /ip firewall address-list
 add list=us-gov-west-1-EBS-ipv4 address=3.32.190.244/30
 add list=us-gov-west-1-EBS-ipv4 address=3.32.190.248/29

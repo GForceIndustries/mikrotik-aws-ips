@@ -1,3 +1,3 @@
-# Generated on Thu Jul 17 05:41:34 2025 UTC
+# Generated on Fri Jul 18 05:42:36 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-2-CLOUDFRONT_ORIGIN_FACING-ipv4 address=13.124.199.0/24
