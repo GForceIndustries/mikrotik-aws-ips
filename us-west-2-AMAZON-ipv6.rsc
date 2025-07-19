@@ -1,4 +1,4 @@
-# Generated on Fri Jul 18 05:42:36 2025 UTC
+# Generated on Sat Jul 19 05:39:39 2025 UTC
 /ipv6 firewall address-list
 add list=us-west-2-AMAZON-ipv6 address=2600:f0f2:7017::/48
 add list=us-west-2-AMAZON-ipv6 address=2606:7b40:10ff:d200::/60
@@ -112,6 +112,7 @@ add list=us-west-2-AMAZON-ipv6 address=2606:7b40:10ff:a240::/60
 add list=us-west-2-AMAZON-ipv6 address=2606:7b40:1000:7270::/60
 add list=us-west-2-AMAZON-ipv6 address=2606:7b40:10ff:f000::/56
 add list=us-west-2-AMAZON-ipv6 address=2606:7b40:10ff:9000::/56
+add list=us-west-2-AMAZON-ipv6 address=2606:7b40:1a3f:c200::/60
 add list=us-west-2-AMAZON-ipv6 address=2606:7b40:10ff:a280::/60
 add list=us-west-2-AMAZON-ipv6 address=2606:7b40:10ff:e270::/60
 add list=us-west-2-AMAZON-ipv6 address=2620:107:4000:4201::/64
@@ -180,7 +181,6 @@ add list=us-west-2-AMAZON-ipv6 address=2620:107:4004::/48
 add list=us-west-2-AMAZON-ipv6 address=2606:7b40:9fd::/48
 add list=us-west-2-AMAZON-ipv6 address=2600:1ff1:4000::/39
 add list=us-west-2-AMAZON-ipv6 address=2600:f0f0:1126::/48
-add list=us-west-2-AMAZON-ipv6 address=2600:f0f2:7013::/48
 add list=us-west-2-AMAZON-ipv6 address=2600:9000:5204::/48
 add list=us-west-2-AMAZON-ipv6 address=2600:1f2b:8000::/36
 add list=us-west-2-AMAZON-ipv6 address=2600:f0f0:5511::/48
