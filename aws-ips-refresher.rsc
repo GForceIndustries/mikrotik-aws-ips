@@ -1,4 +1,4 @@
-# Generated on Sat Jul 19 05:39:39 2025 UTC
+# Generated on Sun Jul 20 05:41:06 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
