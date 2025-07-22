@@ -1,9 +1,10 @@
-# Generated on Mon Jul 21 05:42:48 2025 UTC
+# Generated on Tue Jul 22 05:41:34 2025 UTC
 /ipv6 firewall address-list
-add list=us-east-2-EC2-ipv6 address=2600:1fed:6000::/40
+add list=us-east-2-EC2-ipv6 address=2600:1fed:6000::/56
 add list=us-east-2-EC2-ipv6 address=2600:1f70:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1ff3:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:9000:520f::/48
+add list=us-east-2-EC2-ipv6 address=2600:1fed:6080::/48
 add list=us-east-2-EC2-ipv6 address=2600:1f36:6000::/40
 add list=us-east-2-EC2-ipv6 address=2606:f40:800::/40
 add list=us-east-2-EC2-ipv6 address=2600:1f24:c000::/36
@@ -34,6 +35,7 @@ add list=us-east-2-EC2-ipv6 address=2600:1f26::/36
 add list=us-east-2-EC2-ipv6 address=2600:1fb9:6000::/40
 add list=us-east-2-EC2-ipv6 address=2606:7b40:1b0f:4000::/56
 add list=us-east-2-EC2-ipv6 address=2600:1ff4:6000::/40
+add list=us-east-2-EC2-ipv6 address=2600:1fed:6040::/48
 add list=us-east-2-EC2-ipv6 address=2600:f0f0:1122::/48
 add list=us-east-2-EC2-ipv6 address=2600:f0f2:7014::/48
 add list=us-east-2-EC2-ipv6 address=2600:1ffd:833b::/48
@@ -50,4 +52,5 @@ add list=us-east-2-EC2-ipv6 address=2600:f001::/40
 add list=us-east-2-EC2-ipv6 address=2600:1ff7:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1f16:8000::/36
 add list=us-east-2-EC2-ipv6 address=2600:1f61:6000::/40
+add list=us-east-2-EC2-ipv6 address=2600:1fed:60c0::/48
 add list=us-east-2-EC2-ipv6 address=2606:f40:8800::/40
