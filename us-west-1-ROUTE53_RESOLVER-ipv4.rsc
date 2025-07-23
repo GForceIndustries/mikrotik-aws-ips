@@ -1,4 +1,4 @@
-# Generated on Tue Jul 22 05:41:34 2025 UTC
+# Generated on Wed Jul 23 05:43:08 2025 UTC
 /ip firewall address-list
 add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.1.0/28
 add list=us-west-1-ROUTE53_RESOLVER-ipv4 address=13.52.1.16/28
