@@ -1,3 +1,3 @@
-# Generated on Thu Jul 24 05:41:56 2025 UTC
+# Generated on Fri Jul 25 05:42:35 2025 UTC
 /ipv6 firewall address-list
 add list=cn-northwest-1-WORKSPACES_GATEWAYS-ipv6 address=2404:c2c0:c400::/40

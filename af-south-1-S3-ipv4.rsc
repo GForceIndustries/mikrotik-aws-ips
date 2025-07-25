@@ -1,4 +1,4 @@
-# Generated on Thu Jul 24 05:41:56 2025 UTC
+# Generated on Fri Jul 25 05:42:35 2025 UTC
 /ip firewall address-list
 add list=af-south-1-S3-ipv4 address=3.5.228.0/22
 add list=af-south-1-S3-ipv4 address=52.95.176.0/24

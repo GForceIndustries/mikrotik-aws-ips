@@ -1,4 +1,4 @@
-# Generated on Thu Jul 24 05:41:56 2025 UTC
+# Generated on Fri Jul 25 05:42:35 2025 UTC
 /ip firewall address-list
 add list=GLOBAL-CLOUDFRONT-ipv4 address=120.52.22.96/27
 add list=GLOBAL-CLOUDFRONT-ipv4 address=205.251.249.0/24
