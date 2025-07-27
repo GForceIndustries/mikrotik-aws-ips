@@ -1,4 +1,4 @@
-# Generated on Sat Jul 26 05:40:20 2025 UTC
+# Generated on Sun Jul 27 05:41:37 2025 UTC
 /ip firewall address-list
 add list=sa-east-1-ROUTE53_RESOLVER-ipv4 address=15.228.104.0/24
 add list=sa-east-1-ROUTE53_RESOLVER-ipv4 address=15.228.105.0/24
