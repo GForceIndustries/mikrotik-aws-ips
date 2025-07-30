@@ -1,4 +1,4 @@
-# Generated on Tue Jul 29 05:43:35 2025 UTC
+# Generated on Wed Jul 30 05:43:59 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -293,6 +293,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc\" mode=https dst-path=ap-northeast-2-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-central-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc\" mode=https dst-path=me-central-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-IVS_LOW_LATENCY-ipv4.rsc\" mode=https dst-path=GLOBAL-IVS_LOW_LATENCY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-CLOUD9-ipv4.rsc\" mode=https dst-path=cn-north-1-CLOUD9-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-CLOUD9-ipv4.rsc\" mode=https dst-path=cn-northwest-1-CLOUD9-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-CLOUD9-ipv4.rsc\" mode=https dst-path=af-south-1-CLOUD9-ipv4.rsc;\r\
@@ -794,6 +795,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CHIME_MEETINGS-ipv6.rsc\" mode=https dst-path=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-IVS_LOW_LATENCY-ipv6.rsc\" mode=https dst-path=GLOBAL-IVS_LOW_LATENCY-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=us-gov-east-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
@@ -1134,6 +1136,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-2-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/import file-name=me-central-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
+    \n/import file-name=GLOBAL-IVS_LOW_LATENCY-ipv4.rsc;\r\
     \n/import file-name=cn-north-1-CLOUD9-ipv4.rsc;\r\
     \n/import file-name=cn-northwest-1-CLOUD9-ipv4.rsc;\r\
     \n/import file-name=af-south-1-CLOUD9-ipv4.rsc;\r\
@@ -1635,6 +1638,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
+    \n/import file-name=GLOBAL-IVS_LOW_LATENCY-ipv6.rsc;\r\
     \n/import file-name=cn-north-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=us-gov-east-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\

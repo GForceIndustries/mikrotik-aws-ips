@@ -1,4 +1,4 @@
-# Generated on Tue Jul 29 05:43:35 2025 UTC
+# Generated on Wed Jul 30 05:43:59 2025 UTC
 /ip firewall address-list
 add list=cn-north-1-EC2-ipv4 address=54.222.88.0/24
 add list=cn-north-1-EC2-ipv4 address=54.222.64.0/24
@@ -17,6 +17,5 @@ add list=cn-north-1-EC2-ipv4 address=71.132.0.0/18
 add list=cn-north-1-EC2-ipv4 address=71.136.64.0/18
 add list=cn-north-1-EC2-ipv4 address=43.196.0.0/16
 add list=cn-north-1-EC2-ipv4 address=54.222.36.0/22
-add list=cn-north-1-EC2-ipv4 address=52.95.255.144/28
 add list=cn-north-1-EC2-ipv4 address=107.176.0.0/15
 add list=cn-north-1-EC2-ipv4 address=54.222.58.32/28
