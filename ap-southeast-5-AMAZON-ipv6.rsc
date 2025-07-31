@@ -1,4 +1,4 @@
-# Generated on Wed Jul 30 05:43:59 2025 UTC
+# Generated on Thu Jul 31 05:43:23 2025 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:daef:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:dafc:800::/40
@@ -12,7 +12,6 @@ add list=ap-southeast-5-AMAZON-ipv6 address=2406:da60:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:daa0:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:daf9:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2400:6500:0:7c00::/56
-add list=ap-southeast-5-AMAZON-ipv6 address=2406:daed:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:da20:8000::/36
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:dafe:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:da36:800::/40
@@ -21,10 +20,6 @@ add list=ap-southeast-5-AMAZON-ipv6 address=2406:daf6:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:da30:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:da10:8000::/36
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:da32:800::/40
-add list=ap-southeast-5-AMAZON-ipv6 address=2406:da68:800::/40
-add list=ap-southeast-5-AMAZON-ipv6 address=2406:da69:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:daff:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:daf3:800::/40
-add list=ap-southeast-5-AMAZON-ipv6 address=2406:daf7:800::/40
-add list=ap-southeast-5-AMAZON-ipv6 address=2406:dafb:800::/40
 add list=ap-southeast-5-AMAZON-ipv6 address=2406:daf4:800::/40

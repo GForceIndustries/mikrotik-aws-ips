@@ -1,24 +1,19 @@
-# Generated on Wed Jul 30 05:43:59 2025 UTC
+# Generated on Thu Jul 31 05:43:23 2025 UTC
 /ipv6 firewall address-list
 add list=eu-central-2-EC2-ipv6 address=2a05:d074:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d076:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d000:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d032:9000::/40
-add list=eu-central-2-EC2-ipv6 address=2a05:d07b:9000::/40
-add list=eu-central-2-EC2-ipv6 address=2a05:d077:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2606:7b40:1b0c:4000::/56
 add list=eu-central-2-EC2-ipv6 address=2a05:d07f:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d031:9000::/40
-add list=eu-central-2-EC2-ipv6 address=2a05:d035:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d06f:9000::/40
-add list=eu-central-2-EC2-ipv6 address=2a05:d034:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d030:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d059:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d072:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d038:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d040:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d073:9000::/40
-add list=eu-central-2-EC2-ipv6 address=2a05:d06d:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d019::/36
 add list=eu-central-2-EC2-ipv6 address=2a05:d070:9000::/40
 add list=eu-central-2-EC2-ipv6 address=2a05:d029::/36

@@ -1,4 +1,4 @@
-# Generated on Wed Jul 30 05:43:59 2025 UTC
+# Generated on Thu Jul 31 05:43:23 2025 UTC
 /ipv6 firewall address-list
 add list=af-south-1-AMAZON-ipv6 address=2406:dab9:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:daef:1000::/40
@@ -6,9 +6,7 @@ add list=af-south-1-AMAZON-ipv6 address=2406:da61:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:dafe:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da38:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da60:1000::/40
-add list=af-south-1-AMAZON-ipv6 address=2406:daf7:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:daff:1000::/40
-add list=af-south-1-AMAZON-ipv6 address=2406:dafb:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2400:6500:0:7700::/56
 add list=af-south-1-AMAZON-ipv6 address=2406:dafc:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:daf6:1000::/40
@@ -18,20 +16,17 @@ add list=af-south-1-AMAZON-ipv6 address=2406:daf3:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da11::/36
 add list=af-south-1-AMAZON-ipv6 address=2406:daf8:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2600:f0f0:4144::/48
-add list=af-south-1-AMAZON-ipv6 address=2406:daed:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da00:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da21::/36
 add list=af-south-1-AMAZON-ipv6 address=2406:da32:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2600:f0f2:710b::/48
 add list=af-south-1-AMAZON-ipv6 address=2406:da30:1000::/40
-add list=af-south-1-AMAZON-ipv6 address=2406:da69:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da70:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:daf2:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da36:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2606:7b40:1b08::/56
 add list=af-south-1-AMAZON-ipv6 address=2406:daf9:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:daa0:1000::/40
-add list=af-south-1-AMAZON-ipv6 address=2406:da68:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da70:1000:100::/56
 add list=af-south-1-AMAZON-ipv6 address=2406:da70:1000:200::/56
 add list=af-south-1-AMAZON-ipv6 address=2406:da70:1000:400::/56

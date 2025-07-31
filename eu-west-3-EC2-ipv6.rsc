@@ -1,10 +1,7 @@
-# Generated on Wed Jul 30 05:43:59 2025 UTC
+# Generated on Thu Jul 31 05:43:23 2025 UTC
 /ipv6 firewall address-list
 add list=eu-west-3-EC2-ipv6 address=2a05:d074:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d077:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d034:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2606:7b40:1b0d:c000::/56
-add list=eu-west-3-EC2-ipv6 address=2a05:d07b:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d073:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d036:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d076:2000::/40
@@ -23,8 +20,6 @@ add list=eu-west-3-EC2-ipv6 address=2600:f0f0:1117::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d070:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2600:f0f0:1116::/48
 add list=eu-west-3-EC2-ipv6 address=2a05:d07f:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d06d:2000::/40
-add list=eu-west-3-EC2-ipv6 address=2a05:d035:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d03a:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d059:2000::/40
 add list=eu-west-3-EC2-ipv6 address=2a05:d038:2000::/40

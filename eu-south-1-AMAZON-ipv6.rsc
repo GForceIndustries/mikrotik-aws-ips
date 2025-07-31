@@ -1,4 +1,4 @@
-# Generated on Wed Jul 30 05:43:59 2025 UTC
+# Generated on Thu Jul 31 05:43:23 2025 UTC
 /ipv6 firewall address-list
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d07a:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d07c:a000::/40
@@ -8,14 +8,11 @@ add list=eu-south-1-AMAZON-ipv6 address=2a05:d07e:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d070:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d030:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d038:a000::/40
-add list=eu-south-1-AMAZON-ipv6 address=2a05:d077:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d059:a000::/40
-add list=eu-south-1-AMAZON-ipv6 address=2a05:d07b:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d036:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d079:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a01:578:0:7400::/56
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d050:a000::/40
-add list=eu-south-1-AMAZON-ipv6 address=2a05:d035:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d032:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d072:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d06f:a000::/40
@@ -23,7 +20,6 @@ add list=eu-south-1-AMAZON-ipv6 address=2a05:d01a::/36
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d074:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d02a::/36
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d03a:a000::/40
-add list=eu-south-1-AMAZON-ipv6 address=2a05:d06d:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d031:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2606:7b40:1b0c:c000::/56
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d078:a000::/40
@@ -31,7 +27,6 @@ add list=eu-south-1-AMAZON-ipv6 address=2a05:d076:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d07f:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d073:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d040:a000::/40
-add list=eu-south-1-AMAZON-ipv6 address=2a05:d034:a000::/40
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d03a:a000:100::/56
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d03a:a000:200::/56
 add list=eu-south-1-AMAZON-ipv6 address=2a05:d03a:a000:400::/56

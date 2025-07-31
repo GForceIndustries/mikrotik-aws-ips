@@ -1,6 +1,5 @@
-# Generated on Wed Jul 30 05:43:59 2025 UTC
+# Generated on Thu Jul 31 05:43:23 2025 UTC
 /ipv6 firewall address-list
-add list=me-central-1-EC2-ipv6 address=2406:daed:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:da36:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:da61:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:da32:7000::/40
@@ -14,15 +13,11 @@ add list=me-central-1-EC2-ipv6 address=2406:da17::/36
 add list=me-central-1-EC2-ipv6 address=2406:daff:7000::/40
 add list=me-central-1-EC2-ipv6 address=2600:f0f0:5531::/48
 add list=me-central-1-EC2-ipv6 address=2406:daf3:7000::/40
-add list=me-central-1-EC2-ipv6 address=2406:da68:7000::/40
-add list=me-central-1-EC2-ipv6 address=2406:dafb:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:daf6:7000::/40
-add list=me-central-1-EC2-ipv6 address=2406:daf7:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:da27::/36
 add list=me-central-1-EC2-ipv6 address=2406:da70:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:da00:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:da38:7000::/40
-add list=me-central-1-EC2-ipv6 address=2406:da69:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:daf4:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:daf2:7000::/40
 add list=me-central-1-EC2-ipv6 address=2600:f0f0:5532::/48

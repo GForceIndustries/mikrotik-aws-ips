@@ -1,10 +1,8 @@
-# Generated on Wed Jul 30 05:43:59 2025 UTC
+# Generated on Thu Jul 31 05:43:23 2025 UTC
 /ipv6 firewall address-list
-add list=mx-central-1-EC2-ipv6 address=2600:1f69:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1ff0:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f00:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1ff6:7400::/40
-add list=mx-central-1-EC2-ipv6 address=2600:1f68:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f27:4000::/36
 add list=mx-central-1-EC2-ipv6 address=2600:1f32:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f17:4000::/36
@@ -13,13 +11,10 @@ add list=mx-central-1-EC2-ipv6 address=2600:1ff4:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f36:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f70:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f60:7400::/40
-add list=mx-central-1-EC2-ipv6 address=2600:1fed:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1ff3:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1fef:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f61:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f38:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1ff2:7400::/40
-add list=mx-central-1-EC2-ipv6 address=2600:1ffb:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1f30:7400::/40
 add list=mx-central-1-EC2-ipv6 address=2600:1fb9:7400::/40
-add list=mx-central-1-EC2-ipv6 address=2600:1ff7:7400::/40
