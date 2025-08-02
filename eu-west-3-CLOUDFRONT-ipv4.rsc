@@ -1,4 +1,4 @@
-# Generated on Fri Aug  1 05:44:16 2025 UTC
+# Generated on Sat Aug  2 05:41:04 2025 UTC
 /ip firewall address-list
 add list=eu-west-3-CLOUDFRONT-ipv4 address=15.188.184.0/24
 add list=eu-west-3-CLOUDFRONT-ipv4 address=51.44.234.0/23
