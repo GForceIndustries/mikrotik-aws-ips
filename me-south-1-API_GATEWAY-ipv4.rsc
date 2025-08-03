@@ -1,4 +1,4 @@
-# Generated on Sat Aug  2 05:41:04 2025 UTC
+# Generated on Sun Aug  3 05:42:51 2025 UTC
 /ip firewall address-list
 add list=me-south-1-API_GATEWAY-ipv4 address=15.185.144.0/23
 add list=me-south-1-API_GATEWAY-ipv4 address=157.175.140.0/23

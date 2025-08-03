@@ -1,3 +1,3 @@
-# Generated on Sat Aug  2 05:41:04 2025 UTC
+# Generated on Sun Aug  3 05:42:51 2025 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-1-GLOBALACCELERATOR-ipv6 address=2600:1f01:48b0::/47
