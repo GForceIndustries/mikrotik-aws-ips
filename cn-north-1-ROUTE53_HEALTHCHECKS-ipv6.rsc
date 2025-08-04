@@ -1,4 +1,4 @@
-# Generated on Sun Aug  3 05:42:51 2025 UTC
+# Generated on Mon Aug  4 05:46:01 2025 UTC
 /ipv6 firewall address-list
 add list=cn-north-1-ROUTE53_HEALTHCHECKS-ipv6 address=2400:7fc0:83cc:cc00::/56
 add list=cn-north-1-ROUTE53_HEALTHCHECKS-ipv6 address=2400:7fc0:83cc:cd00::/56
