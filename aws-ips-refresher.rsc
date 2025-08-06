@@ -1,4 +1,4 @@
-# Generated on Tue Aug  5 05:43:59 2025 UTC
+# Generated on Wed Aug  6 05:44:22 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -369,6 +369,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-API_GATEWAY-ipv4.rsc\" mode=https dst-path=ap-southeast-3-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-API_GATEWAY-ipv4.rsc\" mode=https dst-path=ap-southeast-4-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-API_GATEWAY-ipv4.rsc\" mode=https dst-path=ap-southeast-5-API_GATEWAY-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-API_GATEWAY-ipv4.rsc\" mode=https dst-path=ap-southeast-6-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-API_GATEWAY-ipv4.rsc\" mode=https dst-path=ap-southeast-7-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=ca-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=ca-west-1-API_GATEWAY-ipv4.rsc;\r\
@@ -1216,6 +1217,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-southeast-3-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-4-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-5-API_GATEWAY-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-6-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-7-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=ca-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=ca-west-1-API_GATEWAY-ipv4.rsc;\r\
