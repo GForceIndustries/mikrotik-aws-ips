@@ -1,4 +1,4 @@
-# Generated on Thu Aug  7 05:43:39 2025 UTC
+# Generated on Fri Aug  8 05:43:37 2025 UTC
 /ip firewall address-list
 add list=sa-east-1-CLOUDFRONT-ipv4 address=18.229.220.192/26
 add list=sa-east-1-CLOUDFRONT-ipv4 address=18.230.229.0/24
