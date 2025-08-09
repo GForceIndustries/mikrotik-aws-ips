@@ -1,4 +1,4 @@
-# Generated on Fri Aug  8 05:43:37 2025 UTC
+# Generated on Sat Aug  9 05:38:48 2025 UTC
 /ipv6 firewall address-list
 add list=eu-north-1-AMAZON-ipv6 address=2a05:d040:6000::/40
 add list=eu-north-1-AMAZON-ipv6 address=2a05:d059:6000::/40

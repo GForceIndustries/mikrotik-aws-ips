@@ -1,4 +1,4 @@
-# Generated on Fri Aug  8 05:43:37 2025 UTC
+# Generated on Sat Aug  9 05:38:48 2025 UTC
 /ip firewall address-list
 add list=eu-west-2-GLOBALACCELERATOR-ipv4 address=13.248.120.0/24
 add list=eu-west-2-GLOBALACCELERATOR-ipv4 address=99.82.169.0/24
