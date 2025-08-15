@@ -1,4 +1,4 @@
-# Generated on Thu Aug 14 05:39:05 2025 UTC
+# Generated on Fri Aug 15 05:39:21 2025 UTC
 /ip firewall address-list
 add list=eu-central-1-AMAZON-ipv4 address=15.230.15.29/32
 add list=eu-central-1-AMAZON-ipv4 address=15.230.15.76/31
@@ -346,3 +346,4 @@ add list=eu-central-1-AMAZON-ipv4 address=3.78.204.0/22
 add list=eu-central-1-AMAZON-ipv4 address=35.159.158.0/23
 add list=eu-central-1-AMAZON-ipv4 address=35.159.206.0/23
 add list=eu-central-1-AMAZON-ipv4 address=35.159.209.0/24
+add list=eu-central-1-AMAZON-ipv4 address=63.179.154.0/23
