@@ -1,4 +1,4 @@
-# Generated on Fri Aug 15 05:39:21 2025 UTC
+# Generated on Sat Aug 16 05:37:48 2025 UTC
 /ipv6 firewall address-list
 add list=ca-west-1-AMAZON-ipv6 address=2600:1f30:a400::/40
 add list=ca-west-1-AMAZON-ipv6 address=2600:1ffe:a400::/40
@@ -9,6 +9,7 @@ add list=ca-west-1-AMAZON-ipv6 address=2600:1f70:a400::/40
 add list=ca-west-1-AMAZON-ipv6 address=2600:1ff2:a400::/40
 add list=ca-west-1-AMAZON-ipv6 address=2600:1f36:a400::/40
 add list=ca-west-1-AMAZON-ipv6 address=2600:1ff4:a400::/40
+add list=ca-west-1-AMAZON-ipv6 address=2600:f0f0:6120::/48
 add list=ca-west-1-AMAZON-ipv6 address=2600:1f2a:4000::/36
 add list=ca-west-1-AMAZON-ipv6 address=2600:1ffc:a400::/40
 add list=ca-west-1-AMAZON-ipv6 address=2600:1f32:a400::/40

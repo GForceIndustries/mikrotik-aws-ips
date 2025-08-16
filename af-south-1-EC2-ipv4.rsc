@@ -1,4 +1,4 @@
-# Generated on Fri Aug 15 05:39:21 2025 UTC
+# Generated on Sat Aug 16 05:37:48 2025 UTC
 /ip firewall address-list
 add list=af-south-1-EC2-ipv4 address=15.103.0.0/16
 add list=af-south-1-EC2-ipv4 address=18.99.144.0/20
@@ -15,6 +15,7 @@ add list=af-south-1-EC2-ipv4 address=16.28.0.0/16
 add list=af-south-1-EC2-ipv4 address=3.43.128.0/18
 add list=af-south-1-EC2-ipv4 address=52.94.249.176/28
 add list=af-south-1-EC2-ipv4 address=99.150.104.0/21
+add list=af-south-1-EC2-ipv4 address=3.2.87.0/24
 add list=af-south-1-EC2-ipv4 address=52.95.229.0/24
 add list=af-south-1-EC2-ipv4 address=96.0.36.0/22
 add list=af-south-1-EC2-ipv4 address=15.177.91.0/24

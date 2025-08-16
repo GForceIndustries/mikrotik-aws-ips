@@ -1,4 +1,4 @@
-# Generated on Fri Aug 15 05:39:21 2025 UTC
+# Generated on Sat Aug 16 05:37:48 2025 UTC
 /ip firewall address-list
 add list=il-central-1-AMAZON-ipv4 address=51.85.0.0/16
 add list=il-central-1-AMAZON-ipv4 address=18.96.160.0/19
@@ -16,6 +16,7 @@ add list=il-central-1-AMAZON-ipv4 address=54.239.1.240/28
 add list=il-central-1-AMAZON-ipv4 address=35.48.0.0/15
 add list=il-central-1-AMAZON-ipv4 address=51.84.0.0/16
 add list=il-central-1-AMAZON-ipv4 address=15.251.0.29/32
+add list=il-central-1-AMAZON-ipv4 address=3.2.95.0/24
 add list=il-central-1-AMAZON-ipv4 address=51.86.0.0/15
 add list=il-central-1-AMAZON-ipv4 address=16.12.12.0/23
 add list=il-central-1-AMAZON-ipv4 address=15.190.16.0/20

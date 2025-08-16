@@ -1,4 +1,4 @@
-# Generated on Fri Aug 15 05:39:21 2025 UTC
+# Generated on Sat Aug 16 05:37:48 2025 UTC
 /ip firewall address-list
 add list=cn-north-1-CODEBUILD-ipv4 address=140.179.113.248/29
 add list=cn-north-1-CODEBUILD-ipv4 address=52.80.198.136/29
