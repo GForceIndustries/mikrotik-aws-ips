@@ -1,4 +1,4 @@
-# Generated on Mon Aug 18 05:40:30 2025 UTC
+# Generated on Tue Aug 19 05:37:37 2025 UTC
 /ip firewall address-list
 add list=ap-southeast-2-ROUTE53_RESOLVER-ipv4 address=13.211.12.160/27
 add list=ap-southeast-2-ROUTE53_RESOLVER-ipv4 address=13.211.12.192/29
