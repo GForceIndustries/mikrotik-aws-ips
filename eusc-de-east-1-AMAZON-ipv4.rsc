@@ -1,4 +1,4 @@
-# Generated on Wed Aug 20 05:37:41 2025 UTC
+# Generated on Thu Aug 21 05:38:09 2025 UTC
 /ip firewall address-list
 add list=eusc-de-east-1-AMAZON-ipv4 address=51.0.31.0/24
 add list=eusc-de-east-1-AMAZON-ipv4 address=35.71.94.0/24
@@ -19,3 +19,10 @@ add list=eusc-de-east-1-AMAZON-ipv4 address=51.0.24.0/22
 add list=eusc-de-east-1-AMAZON-ipv4 address=150.222.54.64/27
 add list=eusc-de-east-1-AMAZON-ipv4 address=51.0.28.0/24
 add list=eusc-de-east-1-AMAZON-ipv4 address=65.176.0.0/14
+add list=eusc-de-east-1-AMAZON-ipv4 address=51.224.182.0/23
+add list=eusc-de-east-1-AMAZON-ipv4 address=51.224.186.0/23
+add list=eusc-de-east-1-AMAZON-ipv4 address=51.224.188.0/23
+add list=eusc-de-east-1-AMAZON-ipv4 address=51.224.190.0/23
+add list=eusc-de-east-1-AMAZON-ipv4 address=51.224.192.0/23
+add list=eusc-de-east-1-AMAZON-ipv4 address=51.224.194.0/23
+add list=eusc-de-east-1-AMAZON-ipv4 address=51.224.196.0/23

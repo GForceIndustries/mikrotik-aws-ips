@@ -1,8 +1,9 @@
-# Generated on Wed Aug 20 05:37:41 2025 UTC
+# Generated on Thu Aug 21 05:38:09 2025 UTC
 /ip firewall address-list
 add list=eu-west-3-EC2-ipv4 address=35.180.0.0/16
 add list=eu-west-3-EC2-ipv4 address=52.47.0.0/16
 add list=eu-west-3-EC2-ipv4 address=13.36.0.0/14
+add list=eu-west-3-EC2-ipv4 address=3.2.89.0/24
 add list=eu-west-3-EC2-ipv4 address=15.188.0.0/16
 add list=eu-west-3-EC2-ipv4 address=64.252.126.0/24
 add list=eu-west-3-EC2-ipv4 address=51.44.0.0/16
