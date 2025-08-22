@@ -1,4 +1,4 @@
-# Generated on Thu Aug 21 05:38:09 2025 UTC
+# Generated on Fri Aug 22 05:37:36 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -571,6 +571,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-2-DYNAMODB-ipv4.rsc\" mode=https dst-path=eu-central-2-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-central-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=me-central-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=ap-east-1-DYNAMODB-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-west-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=sa-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-DYNAMODB-ipv4.rsc\" mode=https dst-path=ap-southeast-3-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=ca-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=eu-south-1-DYNAMODB-ipv4.rsc;\r\
@@ -1421,6 +1422,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-central-2-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=me-central-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=ap-east-1-DYNAMODB-ipv4.rsc;\r\
+    \n/import file-name=sa-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-3-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=ca-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=eu-south-1-DYNAMODB-ipv4.rsc;\r\
