@@ -1,4 +1,4 @@
-# Generated on Sat Aug 23 05:36:10 2025 UTC
+# Generated on Sun Aug 24 05:37:00 2025 UTC
 /ip firewall address-list
 add list=sa-west-1-AMAZON-ipv4 address=23.254.120.0/21
 add list=sa-west-1-AMAZON-ipv4 address=13.248.81.0/24

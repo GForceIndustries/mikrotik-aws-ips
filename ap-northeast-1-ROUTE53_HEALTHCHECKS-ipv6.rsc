@@ -1,4 +1,4 @@
-# Generated on Sat Aug 23 05:36:10 2025 UTC
+# Generated on Sun Aug 24 05:37:00 2025 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-1-ROUTE53_HEALTHCHECKS-ipv6 address=2406:da14:7ff:f800::/56
 add list=ap-northeast-1-ROUTE53_HEALTHCHECKS-ipv6 address=2406:da14:fff:f800::/56
