@@ -1,4 +1,4 @@
-# Generated on Sun Aug 24 05:37:00 2025 UTC
+# Generated on Mon Aug 25 05:38:50 2025 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-3-EC2-ipv6 address=2406:da60:6000::/40
 add list=ap-northeast-3-EC2-ipv6 address=2406:da70:6000::/40
