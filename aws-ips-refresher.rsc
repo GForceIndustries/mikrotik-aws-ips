@@ -1,4 +1,4 @@
-# Generated on Mon Aug 25 05:38:50 2025 UTC
+# Generated on Tue Aug 26 05:38:05 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -592,6 +592,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-west-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=me-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=cn-northwest-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-DYNAMODB-ipv4.rsc\" mode=https dst-path=ap-south-2-DYNAMODB-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-AMAZON-ipv6.rsc\" mode=https dst-path=ap-southeast-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-AMAZON-ipv6.rsc\" mode=https dst-path=ap-northeast-2-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-AMAZON-ipv6.rsc\" mode=https dst-path=us-east-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-AMAZON-ipv6.rsc\" mode=https dst-path=ap-northeast-1-AMAZON-ipv6.rsc;\r\
@@ -604,7 +605,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-AMAZON-ipv6.rsc\" mode=https dst-path=ap-south-2-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-AMAZON-ipv6.rsc\" mode=https dst-path=ap-southeast-2-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON-ipv6.rsc\" mode=https dst-path=GLOBAL-AMAZON-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-AMAZON-ipv6.rsc\" mode=https dst-path=ap-southeast-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AMAZON-ipv6.rsc\" mode=https dst-path=us-west-2-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-AMAZON-ipv6.rsc\" mode=https dst-path=ca-central-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-3-AMAZON-ipv6.rsc\" mode=https dst-path=eu-west-3-AMAZON-ipv6.rsc;\r\
@@ -673,9 +673,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-S3-ipv6.rsc\" mode=https dst-path=ap-northeast-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-2-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-4-S3-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-S3-ipv6.rsc\" mode=https dst-path=us-east-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-S3-ipv6.rsc\" mode=https dst-path=us-east-2-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-S3-ipv6.rsc\" mode=https dst-path=us-west-2-S3-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-S3-ipv6.rsc\" mode=https dst-path=us-east-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-7-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-S3-ipv6.rsc\" mode=https dst-path=ap-southeast-5-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-S3-ipv6.rsc\" mode=https dst-path=ap-south-2-S3-ipv6.rsc;\r\
@@ -1443,6 +1443,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=me-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=cn-northwest-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=ap-south-2-DYNAMODB-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-2-AMAZON-ipv6.rsc;\r\
     \n/import file-name=us-east-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-1-AMAZON-ipv6.rsc;\r\
@@ -1455,7 +1456,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-south-2-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-2-AMAZON-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-AMAZON-ipv6.rsc;\r\
-    \n/import file-name=ap-southeast-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=us-west-2-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ca-central-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=eu-west-3-AMAZON-ipv6.rsc;\r\
@@ -1524,9 +1524,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-northeast-1-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-2-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-4-S3-ipv6.rsc;\r\
-    \n/import file-name=us-east-1-S3-ipv6.rsc;\r\
     \n/import file-name=us-east-2-S3-ipv6.rsc;\r\
     \n/import file-name=us-west-2-S3-ipv6.rsc;\r\
+    \n/import file-name=us-east-1-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-7-S3-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-5-S3-ipv6.rsc;\r\
     \n/import file-name=ap-south-2-S3-ipv6.rsc;\r\
