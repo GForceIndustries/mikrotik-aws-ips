@@ -1,4 +1,4 @@
-# Generated on Tue Sep  2 05:37:40 2025 UTC
+# Generated on Wed Sep  3 05:35:55 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-1-WORKSPACES_GATEWAYS-ipv4 address=18.180.178.0/24
 add list=ap-northeast-1-WORKSPACES_GATEWAYS-ipv4 address=18.180.180.0/23

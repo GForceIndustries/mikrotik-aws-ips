@@ -1,4 +1,4 @@
-# Generated on Tue Sep  2 05:37:40 2025 UTC
+# Generated on Wed Sep  3 05:35:55 2025 UTC
 /ipv6 firewall address-list
 add list=ca-central-1-EC2-ipv6 address=2600:f0f2:7104::/48
 add list=ca-central-1-EC2-ipv6 address=2600:1f60:1000::/40
@@ -9,6 +9,7 @@ add list=ca-central-1-EC2-ipv6 address=2600:1fb9:1000::/40
 add list=ca-central-1-EC2-ipv6 address=2600:1f70:1000::/40
 add list=ca-central-1-EC2-ipv6 address=2606:7b40:1b0e::/56
 add list=ca-central-1-EC2-ipv6 address=2600:1ff2:1000::/40
+add list=ca-central-1-EC2-ipv6 address=2600:f0fb:f108::/48
 add list=ca-central-1-EC2-ipv6 address=2600:1ffd:8188::/48
 add list=ca-central-1-EC2-ipv6 address=2600:1f38:1000::/40
 add list=ca-central-1-EC2-ipv6 address=2600:1f61:1000::/40

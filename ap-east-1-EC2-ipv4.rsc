@@ -1,8 +1,9 @@
-# Generated on Tue Sep  2 05:37:40 2025 UTC
+# Generated on Wed Sep  3 05:35:55 2025 UTC
 /ip firewall address-list
 add list=ap-east-1-EC2-ipv4 address=216.244.32.0/22
 add list=ap-east-1-EC2-ipv4 address=18.99.176.0/20
 add list=ap-east-1-EC2-ipv4 address=52.95.226.0/24
+add list=ap-east-1-EC2-ipv4 address=35.54.51.0/24
 add list=ap-east-1-EC2-ipv4 address=52.94.249.144/28
 add list=ap-east-1-EC2-ipv4 address=216.244.6.0/24
 add list=ap-east-1-EC2-ipv4 address=15.177.86.0/24
