@@ -1,3 +1,3 @@
-# Generated on Sat Sep  6 05:35:16 2025 UTC
+# Generated on Sun Sep  7 05:35:34 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-2-GLOBALACCELERATOR-ipv4 address=99.82.168.0/24
