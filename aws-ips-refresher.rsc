@@ -1,4 +1,4 @@
-# Generated on Wed Sep 10 05:36:28 2025 UTC
+# Generated on Thu Sep 11 05:36:30 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -604,6 +604,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-AMAZON-ipv6.rsc\" mode=https dst-path=eu-west-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-AMAZON-ipv6.rsc\" mode=https dst-path=ap-south-2-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-AMAZON-ipv6.rsc\" mode=https dst-path=ap-southeast-2-AMAZON-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-AMAZON-ipv6.rsc\" mode=https dst-path=eu-central-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON-ipv6.rsc\" mode=https dst-path=GLOBAL-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AMAZON-ipv6.rsc\" mode=https dst-path=us-west-2-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-AMAZON-ipv6.rsc\" mode=https dst-path=ca-central-1-AMAZON-ipv6.rsc;\r\
@@ -611,7 +612,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-AMAZON-ipv6.rsc\" mode=https dst-path=ap-southeast-3-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-AMAZON-ipv6.rsc\" mode=https dst-path=mx-central-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-1-AMAZON-ipv6.rsc\" mode=https dst-path=ap-south-1-AMAZON-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-AMAZON-ipv6.rsc\" mode=https dst-path=eu-central-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-north-1-AMAZON-ipv6.rsc\" mode=https dst-path=eu-north-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-AMAZON-ipv6.rsc\" mode=https dst-path=sa-east-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-AMAZON-ipv6.rsc\" mode=https dst-path=us-gov-west-1-AMAZON-ipv6.rsc;\r\
@@ -632,8 +632,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-AMAZON-ipv6.rsc\" mode=https dst-path=af-south-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-AMAZON-ipv6.rsc\" mode=https dst-path=ca-west-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-AMAZON-ipv6.rsc\" mode=https dst-path=us-east-2-AMAZON-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-AMAZON-ipv6.rsc\" mode=https dst-path=cn-north-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-west-1-AMAZON-ipv6.rsc\" mode=https dst-path=sa-west-1-AMAZON-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-AMAZON-ipv6.rsc\" mode=https dst-path=cn-north-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-ROUTE53_HEALTHCHECKS-ipv6.rsc\" mode=https dst-path=eu-central-1-ROUTE53_HEALTHCHECKS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-ROUTE53_HEALTHCHECKS-ipv6.rsc\" mode=https dst-path=us-west-2-ROUTE53_HEALTHCHECKS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-ROUTE53_HEALTHCHECKS-ipv6.rsc\" mode=https dst-path=eusc-de-east-1-ROUTE53_HEALTHCHECKS-ipv6.rsc;\r\
@@ -682,6 +682,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-S3-ipv6.rsc\" mode=https dst-path=eu-west-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-2-S3-ipv6.rsc\" mode=https dst-path=ap-east-2-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-S3-ipv6.rsc\" mode=https dst-path=us-gov-east-1-S3-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-west-1-S3-ipv6.rsc\" mode=https dst-path=sa-west-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-S3-ipv6.rsc\" mode=https dst-path=eusc-de-east-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-S3-ipv6.rsc\" mode=https dst-path=cn-north-1-S3-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-S3-ipv6.rsc\" mode=https dst-path=ca-west-1-S3-ipv6.rsc;\r\
@@ -732,12 +733,12 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-EC2-ipv6.rsc\" mode=https dst-path=ap-south-2-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-EC2-ipv6.rsc\" mode=https dst-path=eu-west-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-EC2-ipv6.rsc\" mode=https dst-path=ap-southeast-2-EC2-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-EC2-ipv6.rsc\" mode=https dst-path=eu-central-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-EC2-ipv6.rsc\" mode=https dst-path=ap-southeast-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-EC2-ipv6.rsc\" mode=https dst-path=us-west-2-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-EC2-ipv6.rsc\" mode=https dst-path=ca-central-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-EC2-ipv6.rsc\" mode=https dst-path=mx-central-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-1-EC2-ipv6.rsc\" mode=https dst-path=ap-south-1-EC2-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-EC2-ipv6.rsc\" mode=https dst-path=eu-central-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-north-1-EC2-ipv6.rsc\" mode=https dst-path=eu-north-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-EC2-ipv6.rsc\" mode=https dst-path=sa-east-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-EC2-ipv6.rsc\" mode=https dst-path=us-gov-west-1-EC2-ipv6.rsc;\r\
@@ -762,8 +763,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-EC2-ipv6.rsc\" mode=https dst-path=ca-west-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-EC2-ipv6.rsc\" mode=https dst-path=us-east-2-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-EC2-ipv6.rsc\" mode=https dst-path=GLOBAL-EC2-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-EC2-ipv6.rsc\" mode=https dst-path=cn-north-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-west-1-EC2-ipv6.rsc\" mode=https dst-path=sa-west-1-EC2-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-EC2-ipv6.rsc\" mode=https dst-path=cn-north-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT-ipv6.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=us-west-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=eu-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
@@ -1455,6 +1456,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-west-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-south-2-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-2-AMAZON-ipv6.rsc;\r\
+    \n/import file-name=eu-central-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-AMAZON-ipv6.rsc;\r\
     \n/import file-name=us-west-2-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ca-central-1-AMAZON-ipv6.rsc;\r\
@@ -1462,7 +1464,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-southeast-3-AMAZON-ipv6.rsc;\r\
     \n/import file-name=mx-central-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-south-1-AMAZON-ipv6.rsc;\r\
-    \n/import file-name=eu-central-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=eu-north-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=sa-east-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=us-gov-west-1-AMAZON-ipv6.rsc;\r\
@@ -1483,8 +1484,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=af-south-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ca-west-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=us-east-2-AMAZON-ipv6.rsc;\r\
-    \n/import file-name=cn-north-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=sa-west-1-AMAZON-ipv6.rsc;\r\
+    \n/import file-name=cn-north-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=eu-central-1-ROUTE53_HEALTHCHECKS-ipv6.rsc;\r\
     \n/import file-name=us-west-2-ROUTE53_HEALTHCHECKS-ipv6.rsc;\r\
     \n/import file-name=eusc-de-east-1-ROUTE53_HEALTHCHECKS-ipv6.rsc;\r\
@@ -1533,6 +1534,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-west-1-S3-ipv6.rsc;\r\
     \n/import file-name=ap-east-2-S3-ipv6.rsc;\r\
     \n/import file-name=us-gov-east-1-S3-ipv6.rsc;\r\
+    \n/import file-name=sa-west-1-S3-ipv6.rsc;\r\
     \n/import file-name=eusc-de-east-1-S3-ipv6.rsc;\r\
     \n/import file-name=cn-north-1-S3-ipv6.rsc;\r\
     \n/import file-name=ca-west-1-S3-ipv6.rsc;\r\
@@ -1583,12 +1585,12 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-south-2-EC2-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-EC2-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-2-EC2-ipv6.rsc;\r\
+    \n/import file-name=eu-central-1-EC2-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-1-EC2-ipv6.rsc;\r\
     \n/import file-name=us-west-2-EC2-ipv6.rsc;\r\
     \n/import file-name=ca-central-1-EC2-ipv6.rsc;\r\
     \n/import file-name=mx-central-1-EC2-ipv6.rsc;\r\
     \n/import file-name=ap-south-1-EC2-ipv6.rsc;\r\
-    \n/import file-name=eu-central-1-EC2-ipv6.rsc;\r\
     \n/import file-name=eu-north-1-EC2-ipv6.rsc;\r\
     \n/import file-name=sa-east-1-EC2-ipv6.rsc;\r\
     \n/import file-name=us-gov-west-1-EC2-ipv6.rsc;\r\
@@ -1613,8 +1615,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ca-west-1-EC2-ipv6.rsc;\r\
     \n/import file-name=us-east-2-EC2-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-EC2-ipv6.rsc;\r\
-    \n/import file-name=cn-north-1-EC2-ipv6.rsc;\r\
     \n/import file-name=sa-west-1-EC2-ipv6.rsc;\r\
+    \n/import file-name=cn-north-1-EC2-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT-ipv6.rsc;\r\
     \n/import file-name=us-west-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
