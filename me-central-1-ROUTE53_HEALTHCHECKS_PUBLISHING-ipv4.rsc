@@ -1,3 +1,3 @@
-# Generated on Fri Sep 12 05:36:11 2025 UTC
+# Generated on Sat Sep 13 05:35:22 2025 UTC
 /ip firewall address-list
 add list=me-central-1-ROUTE53_HEALTHCHECKS_PUBLISHING-ipv4 address=15.177.93.0/24
