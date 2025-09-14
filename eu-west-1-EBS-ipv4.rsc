@@ -1,4 +1,4 @@
-# Generated on Sat Sep 13 05:35:22 2025 UTC
+# Generated on Sun Sep 14 05:35:24 2025 UTC
 /ip firewall address-list
 add list=eu-west-1-EBS-ipv4 address=18.200.73.58/31
 add list=eu-west-1-EBS-ipv4 address=18.200.73.60/30

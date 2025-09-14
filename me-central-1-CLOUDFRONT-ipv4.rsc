@@ -1,4 +1,4 @@
-# Generated on Sat Sep 13 05:35:22 2025 UTC
+# Generated on Sun Sep 14 05:35:24 2025 UTC
 /ip firewall address-list
 add list=me-central-1-CLOUDFRONT-ipv4 address=3.29.40.128/26
 add list=me-central-1-CLOUDFRONT-ipv4 address=3.29.40.192/26
