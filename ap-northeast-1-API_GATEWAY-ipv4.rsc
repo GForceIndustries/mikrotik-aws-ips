@@ -1,4 +1,4 @@
-# Generated on Mon Sep 15 05:37:00 2025 UTC
+# Generated on Tue Sep 16 05:36:07 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-1-API_GATEWAY-ipv4 address=18.180.88.0/23
 add list=ap-northeast-1-API_GATEWAY-ipv4 address=3.112.162.0/23
