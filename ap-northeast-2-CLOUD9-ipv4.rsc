@@ -1,4 +1,4 @@
-# Generated on Tue Sep 16 05:36:07 2025 UTC
+# Generated on Wed Sep 17 05:36:31 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-2-CLOUD9-ipv4 address=15.164.243.192/27
 add list=ap-northeast-2-CLOUD9-ipv4 address=15.164.243.32/27

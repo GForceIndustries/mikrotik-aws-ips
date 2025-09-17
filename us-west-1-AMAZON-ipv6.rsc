@@ -1,4 +1,4 @@
-# Generated on Tue Sep 16 05:36:07 2025 UTC
+# Generated on Wed Sep 17 05:36:31 2025 UTC
 /ipv6 firewall address-list
 add list=us-west-1-AMAZON-ipv6 address=2620:107:4000:9018::/64
 add list=us-west-1-AMAZON-ipv6 address=2620:107:4000:9011::/64
@@ -20,6 +20,7 @@ add list=us-west-1-AMAZON-ipv6 address=2600:1fef:c000::/40
 add list=us-west-1-AMAZON-ipv6 address=2620:107:4000:4100::/62
 add list=us-west-1-AMAZON-ipv6 address=2620:107:4000:4104::/64
 add list=us-west-1-AMAZON-ipv6 address=2620:107:4000:2::/64
+add list=us-west-1-AMAZON-ipv6 address=2600:1fbb:c000::/40
 add list=us-west-1-AMAZON-ipv6 address=2600:f00d::/40
 add list=us-west-1-AMAZON-ipv6 address=2600:1f2c::/36
 add list=us-west-1-AMAZON-ipv6 address=2620:107:4000:4204::/64

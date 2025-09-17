@@ -1,6 +1,7 @@
-# Generated on Tue Sep 16 05:36:07 2025 UTC
+# Generated on Wed Sep 17 05:36:31 2025 UTC
 /ipv6 firewall address-list
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f15::/36
+add list=us-gov-east-1-EC2-ipv6 address=2600:1fbb:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f00:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f38:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f60:5000::/40
