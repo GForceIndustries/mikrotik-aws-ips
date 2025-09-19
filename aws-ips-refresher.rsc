@@ -1,4 +1,4 @@
-# Generated on Thu Sep 18 05:36:30 2025 UTC
+# Generated on Fri Sep 19 05:36:14 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -204,6 +204,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-EC2-ipv4.rsc\" mode=https dst-path=ca-central-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-EC2-ipv4.rsc\" mode=https dst-path=GLOBAL-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-ROUTE53-ipv4.rsc\" mode=https dst-path=GLOBAL-ROUTE53-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-DATADEPOT-ipv4.rsc\" mode=https dst-path=GLOBAL-DATADEPOT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=ap-northeast-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=ap-northeast-2-CLOUDFRONT-ipv4.rsc;\r\
@@ -1056,6 +1057,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ca-central-1-EC2-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-EC2-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-ROUTE53-ipv4.rsc;\r\
+    \n/import file-name=GLOBAL-DATADEPOT-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-2-CLOUDFRONT-ipv4.rsc;\r\
