@@ -1,4 +1,4 @@
-# Generated on Fri Sep 19 05:36:14 2025 UTC
+# Generated on Sat Sep 20 05:35:55 2025 UTC
 /ipv6 firewall address-list
 add list=us-west-2-EC2-ipv6 address=2600:f0f2:7017::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d200::/60
@@ -183,6 +183,7 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:1f00::/40
 add list=us-west-2-EC2-ipv6 address=2600:f0fb:e200::/40
 add list=us-west-2-EC2-ipv6 address=2600:1fef:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:9000:5202::/48
+add list=us-west-2-EC2-ipv6 address=2606:7b40:1b0f:f800::/56
 add list=us-west-2-EC2-ipv6 address=2620:107:4005::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:3000::/56
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:7000::/56

@@ -1,3 +1,3 @@
-# Generated on Fri Sep 19 05:36:14 2025 UTC
+# Generated on Sat Sep 20 05:35:55 2025 UTC
 /ip firewall address-list
 add list=me-central-1-EC2_INSTANCE_CONNECT-ipv4 address=3.29.147.40/29

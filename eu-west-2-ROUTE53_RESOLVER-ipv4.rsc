@@ -1,4 +1,4 @@
-# Generated on Fri Sep 19 05:36:14 2025 UTC
+# Generated on Sat Sep 20 05:35:55 2025 UTC
 /ip firewall address-list
 add list=eu-west-2-ROUTE53_RESOLVER-ipv4 address=18.134.255.160/27
 add list=eu-west-2-ROUTE53_RESOLVER-ipv4 address=18.134.255.192/27
