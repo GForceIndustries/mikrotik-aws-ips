@@ -1,4 +1,4 @@
-# Generated on Sat Sep 20 05:35:55 2025 UTC
+# Generated on Sun Sep 21 05:35:56 2025 UTC
 /ip firewall address-list
 add list=us-gov-west-1-ROUTE53_HEALTHCHECKS-ipv4 address=160.1.55.0/25
 add list=us-gov-west-1-ROUTE53_HEALTHCHECKS-ipv4 address=160.1.55.128/25
