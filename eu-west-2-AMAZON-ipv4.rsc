@@ -1,4 +1,4 @@
-# Generated on Tue Sep 23 05:36:41 2025 UTC
+# Generated on Wed Sep 24 05:36:14 2025 UTC
 /ip firewall address-list
 add list=eu-west-2-AMAZON-ipv4 address=52.93.153.170/32
 add list=eu-west-2-AMAZON-ipv4 address=52.95.150.0/24
