@@ -1,4 +1,4 @@
-# Generated on Mon Sep 29 05:37:37 2025 UTC
+# Generated on Tue Sep 30 05:36:32 2025 UTC
 /ipv6 firewall address-list
 add list=us-west-2-EC2-ipv6 address=2600:f0f2:7017::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d200::/60
@@ -91,6 +91,7 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:e000::/56
 add list=us-west-2-EC2-ipv6 address=2600:1f26:c000::/36
 add list=us-west-2-EC2-ipv6 address=2600:1ffd:4000::/39
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a4f:c320::/60
+add list=us-west-2-EC2-ipv6 address=2631:1:4ff0::/48
 add list=us-west-2-EC2-ipv6 address=2600:1f00:4000::/40
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:5514::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:a240::/60
@@ -156,6 +157,7 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:a230::/60
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:5502::/48
 add list=us-west-2-EC2-ipv6 address=2620:107:4004::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:9fd::/48
+add list=us-west-2-EC2-ipv6 address=2606:7b40:a3e:200::/60
 add list=us-west-2-EC2-ipv6 address=2600:1ff1:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:1126::/48
 add list=us-west-2-EC2-ipv6 address=2600:f0f2:7013::/48
@@ -173,6 +175,7 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:f000:1600::/56
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a2f:c320::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b00:700::/56
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d2f0::/60
+add list=us-west-2-EC2-ipv6 address=2606:7b40:a3e:280::/60
 add list=us-west-2-EC2-ipv6 address=2600:1fb9:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:5500::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:2270::/60
@@ -192,4 +195,5 @@ add list=us-west-2-EC2-ipv6 address=2600:1f1b:8000::/36
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:c001::/48
 add list=us-west-2-EC2-ipv6 address=2600:1f36:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:1ff2:4000::/39
+add list=us-west-2-EC2-ipv6 address=2606:7b40:a3e:270::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b0f:f300::/56

@@ -1,4 +1,4 @@
-# Generated on Mon Sep 29 05:37:37 2025 UTC
+# Generated on Tue Sep 30 05:36:32 2025 UTC
 /ip firewall address-list
 add list=cn-northwest-1-EC2-ipv4 address=52.82.169.0/28
 add list=cn-northwest-1-EC2-ipv4 address=43.193.0.0/18
