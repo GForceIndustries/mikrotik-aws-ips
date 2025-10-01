@@ -1,4 +1,4 @@
-# Generated on Tue Sep 30 05:36:32 2025 UTC
+# Generated on Wed Oct  1 05:37:01 2025 UTC
 /ip firewall address-list
 add list=us-west-2-CHIME_VOICECONNECTOR-ipv4 address=99.77.253.0/24
 add list=us-west-2-CHIME_VOICECONNECTOR-ipv4 address=99.77.232.0/24
