@@ -1,4 +1,4 @@
-# Generated on Sun Oct  5 05:35:24 2025 UTC
+# Generated on Mon Oct  6 05:36:39 2025 UTC
 /ip firewall address-list
 add list=cn-northwest-1-CLOUD9-ipv4 address=52.83.25.128/27
 add list=cn-northwest-1-CLOUD9-ipv4 address=52.83.25.160/27
