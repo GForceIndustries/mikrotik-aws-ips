@@ -1,4 +1,4 @@
-# Generated on Thu Oct  9 05:36:48 2025 UTC
+# Generated on Fri Oct 10 05:36:52 2025 UTC
 /ip firewall address-list
 add list=cn-north-1-CLOUD9-ipv4 address=140.179.1.64/27
 add list=cn-north-1-CLOUD9-ipv4 address=140.179.1.96/27
