@@ -1,4 +1,4 @@
-# Generated on Fri Oct 10 05:36:52 2025 UTC
+# Generated on Sat Oct 11 05:35:41 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -695,9 +695,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=us-west-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=eu-west-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=us-east-1-IVS_REALTIME-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-southeast-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-south-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=eu-central-1-IVS_REALTIME-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-southeast-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-northeast-3-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-central-1-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=me-central-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-IVS_REALTIME-ipv6.rsc\" mode=https dst-path=ap-southeast-2-IVS_REALTIME-ipv6.rsc;\r\
@@ -1547,9 +1547,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-west-2-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=us-east-1-IVS_REALTIME-ipv6.rsc;\r\
+    \n/import file-name=ap-southeast-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=ap-south-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=eu-central-1-IVS_REALTIME-ipv6.rsc;\r\
-    \n/import file-name=ap-southeast-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-3-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=me-central-1-IVS_REALTIME-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-2-IVS_REALTIME-ipv6.rsc;\r\
