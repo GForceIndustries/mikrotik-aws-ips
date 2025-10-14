@@ -1,17 +1,17 @@
-# Generated on Mon Oct 13 05:37:38 2025 UTC
+# Generated on Tue Oct 14 05:36:16 2025 UTC
 /ip firewall address-list
 add list=eu-central-1-EC2-ipv4 address=35.50.192.0/24
 add list=eu-central-1-EC2-ipv4 address=18.96.32.0/19
 add list=eu-central-1-EC2-ipv4 address=35.55.17.0/24
 add list=eu-central-1-EC2-ipv4 address=35.96.52.0/24
 add list=eu-central-1-EC2-ipv4 address=3.5.136.0/22
+add list=eu-central-1-EC2-ipv4 address=35.96.48.0/24
 add list=eu-central-1-EC2-ipv4 address=18.192.0.0/15
 add list=eu-central-1-EC2-ipv4 address=136.18.142.0/23
 add list=eu-central-1-EC2-ipv4 address=64.252.89.0/24
 add list=eu-central-1-EC2-ipv4 address=63.176.0.0/14
 add list=eu-central-1-EC2-ipv4 address=35.54.46.0/23
 add list=eu-central-1-EC2-ipv4 address=99.77.136.0/24
-add list=eu-central-1-EC2-ipv4 address=35.96.18.0/23
 add list=eu-central-1-EC2-ipv4 address=1.178.10.0/24
 add list=eu-central-1-EC2-ipv4 address=15.145.2.0/23
 add list=eu-central-1-EC2-ipv4 address=63.180.0.0/14
@@ -74,7 +74,6 @@ add list=eu-central-1-EC2-ipv4 address=35.55.18.0/24
 add list=eu-central-1-EC2-ipv4 address=18.89.0.0/18
 add list=eu-central-1-EC2-ipv4 address=18.194.0.0/15
 add list=eu-central-1-EC2-ipv4 address=52.46.184.0/22
-add list=eu-central-1-EC2-ipv4 address=35.96.20.0/23
 add list=eu-central-1-EC2-ipv4 address=15.193.152.0/22
 add list=eu-central-1-EC2-ipv4 address=216.244.14.0/23
 add list=eu-central-1-EC2-ipv4 address=35.71.105.0/24
