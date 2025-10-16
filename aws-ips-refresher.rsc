@@ -1,4 +1,4 @@
-# Generated on Wed Oct 15 05:36:46 2025 UTC
+# Generated on Thu Oct 16 05:36:35 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -354,6 +354,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-CODEBUILD-ipv4.rsc\" mode=https dst-path=us-west-2-CODEBUILD-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=cn-north-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=cn-northwest-1-API_GATEWAY-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=eusc-de-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=us-gov-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=us-gov-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=af-south-1-API_GATEWAY-ipv4.rsc;\r\
@@ -1206,6 +1207,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-west-2-CODEBUILD-ipv4.rsc;\r\
     \n/import file-name=cn-north-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=cn-northwest-1-API_GATEWAY-ipv4.rsc;\r\
+    \n/import file-name=eusc-de-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=us-gov-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=us-gov-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=af-south-1-API_GATEWAY-ipv4.rsc;\r\

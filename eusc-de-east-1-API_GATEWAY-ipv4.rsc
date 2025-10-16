@@ -1,3 +1,3 @@
 # Generated on Thu Oct 16 05:36:35 2025 UTC
 /ip firewall address-list
-add list=eu-west-1-AURORA_DSQL-ipv4 address=18.97.198.128/25
+add list=eusc-de-east-1-API_GATEWAY-ipv4 address=51.224.184.0/24
