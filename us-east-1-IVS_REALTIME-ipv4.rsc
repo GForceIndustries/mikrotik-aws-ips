@@ -1,5 +1,8 @@
-# Generated on Fri Oct 17 05:36:39 2025 UTC
+# Generated on Sat Oct 18 05:35:57 2025 UTC
 /ip firewall address-list
+add list=us-east-1-IVS_REALTIME-ipv4 address=35.50.139.0/24
 add list=us-east-1-IVS_REALTIME-ipv4 address=35.55.30.0/24
+add list=us-east-1-IVS_REALTIME-ipv4 address=35.50.137.0/24
+add list=us-east-1-IVS_REALTIME-ipv4 address=35.50.141.0/24
 add list=us-east-1-IVS_REALTIME-ipv4 address=35.55.29.0/24
 add list=us-east-1-IVS_REALTIME-ipv4 address=35.55.32.0/24

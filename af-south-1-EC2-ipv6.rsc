@@ -1,4 +1,4 @@
-# Generated on Fri Oct 17 05:36:39 2025 UTC
+# Generated on Sat Oct 18 05:35:57 2025 UTC
 /ipv6 firewall address-list
 add list=af-south-1-EC2-ipv6 address=2406:dabb:1000::/40
 add list=af-south-1-EC2-ipv6 address=2406:dab9:1000::/40
@@ -15,6 +15,7 @@ add list=af-south-1-EC2-ipv6 address=2406:dafd:1000::/40
 add list=af-south-1-EC2-ipv6 address=2600:f0f0:6119::/48
 add list=af-south-1-EC2-ipv6 address=2406:da11::/36
 add list=af-south-1-EC2-ipv6 address=2600:f0f0:4144::/48
+add list=af-south-1-EC2-ipv6 address=2631:1:4800::/48
 add list=af-south-1-EC2-ipv6 address=2406:da00:1000::/40
 add list=af-south-1-EC2-ipv6 address=2406:da21::/36
 add list=af-south-1-EC2-ipv6 address=2406:da32:1000::/40
