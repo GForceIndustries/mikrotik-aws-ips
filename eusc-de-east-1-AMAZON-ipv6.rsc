@@ -1,4 +1,4 @@
-# Generated on Tue Oct 21 05:37:14 2025 UTC
+# Generated on Wed Oct 22 05:37:38 2025 UTC
 /ipv6 firewall address-list
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc7:1800::/40
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc5:8800::/40
@@ -15,6 +15,7 @@ add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc1:8000::/36
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc7:e800::/40
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc0:800::/40
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc7:6800::/40
+add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc6:8::/45
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc7:f800::/40
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc7:a800::/40
 add list=eusc-de-east-1-AMAZON-ipv6 address=2001:3fc3:8800::/40
