@@ -1,7 +1,5 @@
-# Generated on Wed Oct 22 05:37:38 2025 UTC
+# Generated on Thu Oct 23 05:37:07 2025 UTC
 /ipv6 firewall address-list
-add list=cn-north-1-EC2-ipv6 address=2400:7fc0:fd80::/48
-add list=cn-north-1-EC2-ipv6 address=2400:7fc0:fda0::/48
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:2f00::/40
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:2100::/40
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:4000::/40
@@ -15,8 +13,6 @@ add list=cn-north-1-EC2-ipv6 address=2400:7fc0:c000::/36
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:bb00::/40
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:8000::/36
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:ef00::/40
-add list=cn-north-1-EC2-ipv6 address=2400:7fc0:fd40::/48
-add list=cn-north-1-EC2-ipv6 address=2400:7fc0:fdc0::/48
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0::/40
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:2200::/40
 add list=cn-north-1-EC2-ipv6 address=240f:8018::/36

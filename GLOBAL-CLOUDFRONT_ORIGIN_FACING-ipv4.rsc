@@ -1,4 +1,4 @@
-# Generated on Wed Oct 22 05:37:38 2025 UTC
+# Generated on Thu Oct 23 05:37:07 2025 UTC
 /ip firewall address-list
 add list=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4 address=130.176.88.0/21
 add list=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4 address=54.239.134.0/23

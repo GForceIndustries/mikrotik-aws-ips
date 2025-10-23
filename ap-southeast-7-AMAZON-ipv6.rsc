@@ -1,4 +1,4 @@
-# Generated on Wed Oct 22 05:37:38 2025 UTC
+# Generated on Thu Oct 23 05:37:07 2025 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-7-AMAZON-ipv6 address=2406:daef:4800::/40
 add list=ap-southeast-7-AMAZON-ipv6 address=2406:da00:4800::/40
@@ -25,4 +25,3 @@ add list=ap-southeast-7-AMAZON-ipv6 address=2406:da30:4800::/40
 add list=ap-southeast-7-AMAZON-ipv6 address=2406:da61:4800::/40
 add list=ap-southeast-7-AMAZON-ipv6 address=2406:daf3:4800::/40
 add list=ap-southeast-7-AMAZON-ipv6 address=2406:dafe:4800::/40
-add list=ap-southeast-7-AMAZON-ipv6 address=2406:dafd:4800::/40
