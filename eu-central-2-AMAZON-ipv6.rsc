@@ -1,4 +1,4 @@
-# Generated on Thu Oct 23 05:37:07 2025 UTC
+# Generated on Fri Oct 24 05:36:41 2025 UTC
 /ipv6 firewall address-list
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d074:9000::/40
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d05b:9000::/40
@@ -11,6 +11,7 @@ add list=eu-central-2-AMAZON-ipv6 address=2a05:d079:9000::/40
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d07f:9000::/40
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d031:9000::/40
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d07e:9000::/40
+add list=eu-central-2-AMAZON-ipv6 address=2631:1:4c40::/48
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d078:9000::/40
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d06f:9000::/40
 add list=eu-central-2-AMAZON-ipv6 address=2a05:d050:9000::/40
