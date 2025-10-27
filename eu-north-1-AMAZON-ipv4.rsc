@@ -1,4 +1,4 @@
-# Generated on Sun Oct 26 05:36:51 2025 UTC
+# Generated on Mon Oct 27 05:38:55 2025 UTC
 /ip firewall address-list
 add list=eu-north-1-AMAZON-ipv4 address=52.46.220.0/22
 add list=eu-north-1-AMAZON-ipv4 address=15.230.68.192/26
@@ -20,6 +20,7 @@ add list=eu-north-1-AMAZON-ipv4 address=52.95.169.0/24
 add list=eu-north-1-AMAZON-ipv4 address=150.222.203.0/24
 add list=eu-north-1-AMAZON-ipv4 address=15.230.96.0/24
 add list=eu-north-1-AMAZON-ipv4 address=150.222.42.64/26
+add list=eu-north-1-AMAZON-ipv4 address=150.247.42.0/24
 add list=eu-north-1-AMAZON-ipv4 address=99.77.137.0/24
 add list=eu-north-1-AMAZON-ipv4 address=52.95.227.0/24
 add list=eu-north-1-AMAZON-ipv4 address=13.50.0.0/16
