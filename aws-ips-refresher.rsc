@@ -1,4 +1,4 @@
-# Generated on Thu Oct 30 05:37:23 2025 UTC
+# Generated on Fri Oct 31 05:37:49 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -109,6 +109,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-north-1-S3-ipv4.rsc\" mode=https dst-path=eu-north-1-S3-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-S3-ipv4.rsc\" mode=https dst-path=eu-west-1-S3-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-3-S3-ipv4.rsc\" mode=https dst-path=eu-west-3-S3-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-west-1-S3-ipv4.rsc\" mode=https dst-path=sa-west-1-S3-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-S3-ipv4.rsc\" mode=https dst-path=ca-central-1-S3-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-S3-ipv4.rsc\" mode=https dst-path=af-south-1-S3-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-S3-ipv4.rsc\" mode=https dst-path=us-gov-east-1-S3-ipv4.rsc;\r\
@@ -967,6 +968,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-north-1-S3-ipv4.rsc;\r\
     \n/import file-name=eu-west-1-S3-ipv4.rsc;\r\
     \n/import file-name=eu-west-3-S3-ipv4.rsc;\r\
+    \n/import file-name=sa-west-1-S3-ipv4.rsc;\r\
     \n/import file-name=ca-central-1-S3-ipv4.rsc;\r\
     \n/import file-name=af-south-1-S3-ipv4.rsc;\r\
     \n/import file-name=us-gov-east-1-S3-ipv4.rsc;\r\
