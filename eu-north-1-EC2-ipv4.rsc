@@ -1,4 +1,4 @@
-# Generated on Tue Nov 11 05:37:56 2025 UTC
+# Generated on Wed Nov 12 05:38:00 2025 UTC
 /ip firewall address-list
 add list=eu-north-1-EC2-ipv4 address=96.0.32.0/22
 add list=eu-north-1-EC2-ipv4 address=15.220.168.0/21

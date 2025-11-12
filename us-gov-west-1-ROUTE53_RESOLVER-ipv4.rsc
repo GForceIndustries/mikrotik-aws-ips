@@ -1,4 +1,4 @@
-# Generated on Tue Nov 11 05:37:56 2025 UTC
+# Generated on Wed Nov 12 05:38:00 2025 UTC
 /ip firewall address-list
 add list=us-gov-west-1-ROUTE53_RESOLVER-ipv4 address=15.200.141.128/25
 add list=us-gov-west-1-ROUTE53_RESOLVER-ipv4 address=15.200.176.0/25
