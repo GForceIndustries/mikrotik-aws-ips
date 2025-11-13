@@ -1,4 +1,4 @@
-# Generated on Wed Nov 12 05:38:00 2025 UTC
+# Generated on Thu Nov 13 05:38:13 2025 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-2-WORKSPACES_GATEWAYS-ipv6 address=2406:da32:2000::/40
 add list=ap-northeast-2-WORKSPACES_GATEWAYS-ipv6 address=2406:da22:4::/48
