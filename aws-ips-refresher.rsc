@@ -1,4 +1,4 @@
-# Generated on Fri Nov 14 05:37:56 2025 UTC
+# Generated on Sat Nov 15 05:37:09 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -15,6 +15,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-AMAZON-ipv4.rsc\" mode=https dst-path=us-west-1-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AMAZON-ipv4.rsc\" mode=https dst-path=us-west-2-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-AMAZON-ipv4.rsc\" mode=https dst-path=ap-southeast-2-AMAZON-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-AMAZON-ipv4.rsc\" mode=https dst-path=eu-south-1-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON-ipv4.rsc\" mode=https dst-path=GLOBAL-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-AMAZON-ipv4.rsc\" mode=https dst-path=us-east-2-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-west-1-AMAZON-ipv4.rsc\" mode=https dst-path=me-west-1-AMAZON-ipv4.rsc;\r\
@@ -29,7 +30,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-AMAZON-ipv4.rsc\" mode=https dst-path=ca-central-1-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-AMAZON-ipv4.rsc\" mode=https dst-path=cn-north-1-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-AMAZON-ipv4.rsc\" mode=https dst-path=sa-east-1-AMAZON-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-AMAZON-ipv4.rsc\" mode=https dst-path=eu-south-1-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-AMAZON-ipv4.rsc\" mode=https dst-path=ap-southeast-3-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-AMAZON-ipv4.rsc\" mode=https dst-path=ap-northeast-3-AMAZON-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-AMAZON-ipv4.rsc\" mode=https dst-path=us-gov-east-1-AMAZON-ipv4.rsc;\r\
@@ -874,6 +874,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-west-1-AMAZON-ipv4.rsc;\r\
     \n/import file-name=us-west-2-AMAZON-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-2-AMAZON-ipv4.rsc;\r\
+    \n/import file-name=eu-south-1-AMAZON-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-AMAZON-ipv4.rsc;\r\
     \n/import file-name=us-east-2-AMAZON-ipv4.rsc;\r\
     \n/import file-name=me-west-1-AMAZON-ipv4.rsc;\r\
@@ -888,7 +889,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ca-central-1-AMAZON-ipv4.rsc;\r\
     \n/import file-name=cn-north-1-AMAZON-ipv4.rsc;\r\
     \n/import file-name=sa-east-1-AMAZON-ipv4.rsc;\r\
-    \n/import file-name=eu-south-1-AMAZON-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-3-AMAZON-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-3-AMAZON-ipv4.rsc;\r\
     \n/import file-name=us-gov-east-1-AMAZON-ipv4.rsc;\r\

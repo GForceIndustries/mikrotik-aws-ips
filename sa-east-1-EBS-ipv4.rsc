@@ -1,4 +1,4 @@
-# Generated on Fri Nov 14 05:37:56 2025 UTC
+# Generated on Sat Nov 15 05:37:09 2025 UTC
 /ip firewall address-list
 add list=sa-east-1-EBS-ipv4 address=15.228.103.240/29
 add list=sa-east-1-EBS-ipv4 address=15.228.126.48/30

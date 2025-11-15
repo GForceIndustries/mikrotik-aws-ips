@@ -1,4 +1,4 @@
-# Generated on Fri Nov 14 05:37:56 2025 UTC
+# Generated on Sat Nov 15 05:37:09 2025 UTC
 /ip firewall address-list
 add list=us-west-2-CLOUDFRONT-ipv4 address=34.216.51.0/25
 add list=us-west-2-CLOUDFRONT-ipv4 address=34.223.12.224/27
