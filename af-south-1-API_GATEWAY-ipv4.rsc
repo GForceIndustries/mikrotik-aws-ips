@@ -1,4 +1,4 @@
-# Generated on Sat Nov 15 05:37:09 2025 UTC
+# Generated on Sun Nov 16 05:37:10 2025 UTC
 /ip firewall address-list
 add list=af-south-1-API_GATEWAY-ipv4 address=13.244.132.0/23
 add list=af-south-1-API_GATEWAY-ipv4 address=13.246.70.0/23
