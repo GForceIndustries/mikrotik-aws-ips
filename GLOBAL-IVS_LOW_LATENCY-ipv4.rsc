@@ -1,3 +1,3 @@
-# Generated on Mon Nov 17 05:38:27 2025 UTC
+# Generated on Tue Nov 18 05:38:06 2025 UTC
 /ip firewall address-list
 add list=GLOBAL-IVS_LOW_LATENCY-ipv4 address=35.55.0.0/17
