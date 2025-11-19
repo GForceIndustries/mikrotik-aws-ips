@@ -1,3 +1,3 @@
-# Generated on Tue Nov 18 05:38:06 2025 UTC
+# Generated on Wed Nov 19 05:38:16 2025 UTC
 /ip firewall address-list
 add list=eusc-de-east-1-ROUTE53_HEALTHCHECKS-ipv4 address=51.0.252.0/24
