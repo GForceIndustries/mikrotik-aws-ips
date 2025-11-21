@@ -1,4 +1,4 @@
-# Generated on Thu Nov 20 05:38:31 2025 UTC
+# Generated on Fri Nov 21 05:38:18 2025 UTC
 /ip firewall address-list
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.169.16/28
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.169.0/28
@@ -12,7 +12,6 @@ add list=cn-northwest-1-AMAZON-ipv4 address=69.231.128.0/18
 add list=cn-northwest-1-AMAZON-ipv4 address=69.230.192.0/18
 add list=cn-northwest-1-AMAZON-ipv4 address=52.93.127.99/32
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.168.0/24
-add list=cn-northwest-1-AMAZON-ipv4 address=52.82.176.0/22
 add list=cn-northwest-1-AMAZON-ipv4 address=52.93.127.105/32
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.184.0/23
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.170.0/24
@@ -27,7 +26,6 @@ add list=cn-northwest-1-AMAZON-ipv4 address=52.93.127.92/32
 add list=cn-northwest-1-AMAZON-ipv4 address=43.192.0.0/16
 add list=cn-northwest-1-AMAZON-ipv4 address=52.93.127.95/32
 add list=cn-northwest-1-AMAZON-ipv4 address=52.93.127.100/32
-add list=cn-northwest-1-AMAZON-ipv4 address=52.82.180.0/22
 add list=cn-northwest-1-AMAZON-ipv4 address=161.189.0.0/16
 add list=cn-northwest-1-AMAZON-ipv4 address=52.93.127.102/32
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.0.0/17
