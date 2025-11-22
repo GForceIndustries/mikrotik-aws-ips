@@ -1,4 +1,4 @@
-# Generated on Fri Nov 21 05:38:18 2025 UTC
+# Generated on Sat Nov 22 05:36:36 2025 UTC
 /ip firewall address-list
 add list=us-gov-east-1-ROUTE53_HEALTHCHECKS-ipv4 address=18.253.167.0/25
 add list=us-gov-east-1-ROUTE53_HEALTHCHECKS-ipv4 address=18.253.167.128/25
