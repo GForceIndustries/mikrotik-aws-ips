@@ -1,4 +1,4 @@
-# Generated on Sat Nov 22 05:36:36 2025 UTC
+# Generated on Sun Nov 23 05:37:06 2025 UTC
 /ip firewall address-list
 add list=ca-central-1-CODEBUILD-ipv4 address=3.98.171.224/29
 add list=ca-central-1-CODEBUILD-ipv4 address=35.182.14.48/29

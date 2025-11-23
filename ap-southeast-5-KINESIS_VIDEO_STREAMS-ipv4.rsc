@@ -1,4 +1,4 @@
-# Generated on Sat Nov 22 05:36:36 2025 UTC
+# Generated on Sun Nov 23 05:37:06 2025 UTC
 /ip firewall address-list
 add list=ap-southeast-5-KINESIS_VIDEO_STREAMS-ipv4 address=43.216.226.176/30
 add list=ap-southeast-5-KINESIS_VIDEO_STREAMS-ipv4 address=43.216.87.56/31

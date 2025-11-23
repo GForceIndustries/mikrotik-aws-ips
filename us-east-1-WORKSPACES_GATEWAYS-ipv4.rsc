@@ -1,4 +1,4 @@
-# Generated on Sat Nov 22 05:36:36 2025 UTC
+# Generated on Sun Nov 23 05:37:06 2025 UTC
 /ip firewall address-list
 add list=us-east-1-WORKSPACES_GATEWAYS-ipv4 address=3.217.228.0/22
 add list=us-east-1-WORKSPACES_GATEWAYS-ipv4 address=3.227.4.0/22
