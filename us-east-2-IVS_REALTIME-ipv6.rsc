@@ -1,4 +1,4 @@
-# Generated on Sun Nov 23 05:37:06 2025 UTC
+# Generated on Mon Nov 24 05:39:18 2025 UTC
 /ipv6 firewall address-list
 add list=us-east-2-IVS_REALTIME-ipv6 address=2600:f0f0:1121::/48
 add list=us-east-2-IVS_REALTIME-ipv6 address=2600:f0f0:551e::/48

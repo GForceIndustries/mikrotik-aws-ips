@@ -1,3 +1,3 @@
-# Generated on Sun Nov 23 05:37:06 2025 UTC
+# Generated on Mon Nov 24 05:39:18 2025 UTC
 /ip firewall address-list
 add list=GLOBAL-CHIME_MEETINGS-ipv4 address=99.77.128.0/18

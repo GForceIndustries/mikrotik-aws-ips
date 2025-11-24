@@ -1,3 +1,3 @@
-# Generated on Sun Nov 23 05:37:06 2025 UTC
+# Generated on Mon Nov 24 05:39:18 2025 UTC
 /ipv6 firewall address-list
 add list=cn-north-1-EC2_INSTANCE_CONNECT-ipv6 address=2400:7fc0:86fd:e00::/56
