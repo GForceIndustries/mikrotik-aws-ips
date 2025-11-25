@@ -1,3 +1,3 @@
-# Generated on Mon Nov 24 05:39:18 2025 UTC
+# Generated on Tue Nov 25 05:38:26 2025 UTC
 /ipv6 firewall address-list
 add list=eu-west-1-AURORA_DSQL-ipv6 address=2a05:d018:b3d:8200::/56
