@@ -1,4 +1,4 @@
-# Generated on Thu Nov 27 05:38:41 2025 UTC
+# Generated on Fri Nov 28 05:38:23 2025 UTC
 /ipv6 firewall address-list
 add list=mx-central-1-S3-ipv6 address=2600:1ff0:7400::/40
 add list=mx-central-1-S3-ipv6 address=2600:1ff4:7400::/40
