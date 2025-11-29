@@ -1,4 +1,4 @@
-# Generated on Fri Nov 28 05:38:23 2025 UTC
+# Generated on Sat Nov 29 05:37:46 2025 UTC
 /ip firewall address-list
 add list=cn-north-1-ROUTE53_HEALTHCHECKS-ipv4 address=52.80.197.0/25
 add list=cn-north-1-ROUTE53_HEALTHCHECKS-ipv4 address=52.80.197.128/25
