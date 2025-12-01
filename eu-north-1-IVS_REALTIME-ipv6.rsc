@@ -1,4 +1,4 @@
-# Generated on Sun Nov 30 05:37:59 2025 UTC
+# Generated on Mon Dec  1 05:42:49 2025 UTC
 /ipv6 firewall address-list
 add list=eu-north-1-IVS_REALTIME-ipv6 address=2600:f0f0:1128::/48
 add list=eu-north-1-IVS_REALTIME-ipv6 address=2600:f0f0:1127::/48
