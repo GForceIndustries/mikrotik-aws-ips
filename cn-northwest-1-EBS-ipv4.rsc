@@ -1,4 +1,4 @@
-# Generated on Mon Dec  1 05:42:49 2025 UTC
+# Generated on Tue Dec  2 05:38:50 2025 UTC
 /ip firewall address-list
 add list=cn-northwest-1-EBS-ipv4 address=43.192.155.130/31
 add list=cn-northwest-1-EBS-ipv4 address=43.192.155.140/30
