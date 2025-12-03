@@ -1,4 +1,4 @@
-# Generated on Tue Dec  2 05:38:50 2025 UTC
+# Generated on Wed Dec  3 05:38:31 2025 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -337,6 +337,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-CODEBUILD-ipv4.rsc\" mode=https dst-path=ap-southeast-2-CODEBUILD-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-CODEBUILD-ipv4.rsc\" mode=https dst-path=ap-southeast-3-CODEBUILD-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-CODEBUILD-ipv4.rsc\" mode=https dst-path=ap-southeast-4-CODEBUILD-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-CODEBUILD-ipv4.rsc\" mode=https dst-path=ap-southeast-5-CODEBUILD-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-CODEBUILD-ipv4.rsc\" mode=https dst-path=ap-southeast-6-CODEBUILD-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-CODEBUILD-ipv4.rsc\" mode=https dst-path=ap-southeast-7-CODEBUILD-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-CODEBUILD-ipv4.rsc\" mode=https dst-path=ca-central-1-CODEBUILD-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-CODEBUILD-ipv4.rsc\" mode=https dst-path=eu-central-1-CODEBUILD-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-2-CODEBUILD-ipv4.rsc\" mode=https dst-path=eu-central-2-CODEBUILD-ipv4.rsc;\r\
@@ -1197,6 +1200,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-southeast-2-CODEBUILD-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-3-CODEBUILD-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-4-CODEBUILD-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-5-CODEBUILD-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-6-CODEBUILD-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-7-CODEBUILD-ipv4.rsc;\r\
     \n/import file-name=ca-central-1-CODEBUILD-ipv4.rsc;\r\
     \n/import file-name=eu-central-1-CODEBUILD-ipv4.rsc;\r\
     \n/import file-name=eu-central-2-CODEBUILD-ipv4.rsc;\r\
