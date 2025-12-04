@@ -1,4 +1,4 @@
-# Generated on Wed Dec  3 05:38:31 2025 UTC
+# Generated on Thu Dec  4 05:38:48 2025 UTC
 /ip firewall address-list
 add list=us-gov-west-1-AMAZON-ipv4 address=52.119.208.0/23
 add list=us-gov-west-1-AMAZON-ipv4 address=15.205.0.0/16
@@ -18,6 +18,7 @@ add list=us-gov-west-1-AMAZON-ipv4 address=52.94.152.190/32
 add list=us-gov-west-1-AMAZON-ipv4 address=52.94.152.191/32
 add list=us-gov-west-1-AMAZON-ipv4 address=52.46.224.0/20
 add list=us-gov-west-1-AMAZON-ipv4 address=52.61.0.0/16
+add list=us-gov-west-1-AMAZON-ipv4 address=3.45.64.0/18
 add list=us-gov-west-1-AMAZON-ipv4 address=40.39.0.0/16
 add list=us-gov-west-1-AMAZON-ipv4 address=52.94.248.224/28
 add list=us-gov-west-1-AMAZON-ipv4 address=56.139.0.0/16

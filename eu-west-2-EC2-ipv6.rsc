@@ -1,4 +1,4 @@
-# Generated on Wed Dec  3 05:38:31 2025 UTC
+# Generated on Thu Dec  4 05:38:48 2025 UTC
 /ipv6 firewall address-list
 add list=eu-west-2-EC2-ipv6 address=2a05:d06a:c000::/40
 add list=eu-west-2-EC2-ipv6 address=2600:f0f0:c045::/48
@@ -27,6 +27,7 @@ add list=eu-west-2-EC2-ipv6 address=2a05:d076:c000::/40
 add list=eu-west-2-EC2-ipv6 address=2a05:d07f:c000::/40
 add list=eu-west-2-EC2-ipv6 address=2a05:d040:c000::/40
 add list=eu-west-2-EC2-ipv6 address=2600:f0fb:f029::/48
+add list=eu-west-2-EC2-ipv6 address=2600:f0f0:8140::/48
 add list=eu-west-2-EC2-ipv6 address=2a05:d000:c000::/40
 add list=eu-west-2-EC2-ipv6 address=2a05:d036:c000::/40
 add list=eu-west-2-EC2-ipv6 address=2600:f0f0:1:1b00::/56

@@ -1,4 +1,4 @@
-# Generated on Wed Dec  3 05:38:31 2025 UTC
+# Generated on Thu Dec  4 05:38:48 2025 UTC
 /ipv6 firewall address-list
 add list=ap-south-1-AMAZON-ipv6 address=2600:f0fb:f10d::/48
 add list=ap-south-1-AMAZON-ipv6 address=2406:daf9:a000::/40
@@ -29,6 +29,7 @@ add list=ap-south-1-AMAZON-ipv6 address=2600:1f01:4912::/47
 add list=ap-south-1-AMAZON-ipv6 address=2406:da38:a000::/40
 add list=ap-south-1-AMAZON-ipv6 address=2406:daf4:a000::/40
 add list=ap-south-1-AMAZON-ipv6 address=2600:1f01:4800::/47
+add list=ap-south-1-AMAZON-ipv6 address=2600:f0f0:8102::/48
 add list=ap-south-1-AMAZON-ipv6 address=2600:f0f0:87::/48
 add list=ap-south-1-AMAZON-ipv6 address=2400:6500:0:7500::/56
 add list=ap-south-1-AMAZON-ipv6 address=2406:dafc:a000::/40
