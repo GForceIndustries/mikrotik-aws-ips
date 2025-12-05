@@ -1,4 +1,4 @@
-# Generated on Thu Dec  4 05:38:48 2025 UTC
+# Generated on Fri Dec  5 05:38:54 2025 UTC
 /ip firewall address-list
 add list=sa-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=15.229.206.224/31
 add list=sa-east-1-KINESIS_VIDEO_STREAMS-ipv4 address=15.229.206.228/30
