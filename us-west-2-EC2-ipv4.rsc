@@ -1,4 +1,4 @@
-# Generated on Fri Dec  5 05:38:54 2025 UTC
+# Generated on Sat Dec  6 05:37:41 2025 UTC
 /ip firewall address-list
 add list=us-west-2-EC2-ipv4 address=35.111.254.0/24
 add list=us-west-2-EC2-ipv4 address=139.56.16.0/23
@@ -13,6 +13,7 @@ add list=us-west-2-EC2-ipv4 address=35.55.126.0/24
 add list=us-west-2-EC2-ipv4 address=3.42.128.0/17
 add list=us-west-2-EC2-ipv4 address=35.96.11.0/24
 add list=us-west-2-EC2-ipv4 address=18.236.0.0/15
+add list=us-west-2-EC2-ipv4 address=35.96.60.0/23
 add list=us-west-2-EC2-ipv4 address=54.200.0.0/15
 add list=us-west-2-EC2-ipv4 address=35.50.133.0/24
 add list=us-west-2-EC2-ipv4 address=64.252.72.0/24
