@@ -1,4 +1,4 @@
-# Generated on Sun Dec  7 05:36:46 2025 UTC
+# Generated on Mon Dec  8 05:40:04 2025 UTC
 /ip firewall address-list
 add list=cn-north-1-API_GATEWAY-ipv4 address=140.179.144.128/25
 add list=cn-north-1-API_GATEWAY-ipv4 address=140.179.176.0/23
