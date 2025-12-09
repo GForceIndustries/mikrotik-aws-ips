@@ -1,4 +1,4 @@
-# Generated on Mon Dec  8 05:40:04 2025 UTC
+# Generated on Tue Dec  9 05:38:56 2025 UTC
 /ipv6 firewall address-list
 add list=us-east-1-GLOBALACCELERATOR-ipv6 address=2600:1f01:4806::/47
 add list=us-east-1-GLOBALACCELERATOR-ipv6 address=2600:1f01:4850::/47
