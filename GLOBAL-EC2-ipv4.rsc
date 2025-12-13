@@ -1,7 +1,8 @@
-# Generated on Fri Dec 12 05:39:48 2025 UTC
+# Generated on Sat Dec 13 05:39:03 2025 UTC
 /ip firewall address-list
 add list=GLOBAL-EC2-ipv4 address=23.228.197.0/24
 add list=GLOBAL-EC2-ipv4 address=159.248.232.0/21
+add list=GLOBAL-EC2-ipv4 address=40.168.226.0/24
 add list=GLOBAL-EC2-ipv4 address=3.4.8.0/24
 add list=GLOBAL-EC2-ipv4 address=159.248.240.0/21
 add list=GLOBAL-EC2-ipv4 address=35.97.0.0/20
