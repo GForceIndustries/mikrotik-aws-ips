@@ -1,4 +1,4 @@
-# Generated on Sat Dec 13 05:39:03 2025 UTC
+# Generated on Sun Dec 14 05:38:10 2025 UTC
 /ip firewall address-list
 add list=GLOBAL-ROUTE53-ipv4 address=205.251.200.0/23
 add list=GLOBAL-ROUTE53-ipv4 address=52.95.110.0/24
