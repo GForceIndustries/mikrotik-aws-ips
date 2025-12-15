@@ -1,4 +1,4 @@
-# Generated on Sun Dec 14 05:38:10 2025 UTC
+# Generated on Mon Dec 15 05:41:39 2025 UTC
 /ipv6 firewall address-list
 add list=me-central-1-EC2-ipv6 address=2406:da36:7000::/40
 add list=me-central-1-EC2-ipv6 address=2406:da61:7000::/40

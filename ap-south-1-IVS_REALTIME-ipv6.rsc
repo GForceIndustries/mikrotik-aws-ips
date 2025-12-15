@@ -1,4 +1,4 @@
-# Generated on Sun Dec 14 05:38:10 2025 UTC
+# Generated on Mon Dec 15 05:41:39 2025 UTC
 /ipv6 firewall address-list
 add list=ap-south-1-IVS_REALTIME-ipv6 address=2600:f0f0:110d::/48
 add list=ap-south-1-IVS_REALTIME-ipv6 address=2600:f0f0:553a::/48
