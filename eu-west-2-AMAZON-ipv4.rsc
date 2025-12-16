@@ -1,4 +1,4 @@
-# Generated on Mon Dec 15 05:41:39 2025 UTC
+# Generated on Tue Dec 16 05:40:10 2025 UTC
 /ip firewall address-list
 add list=eu-west-2-AMAZON-ipv4 address=52.93.153.170/32
 add list=eu-west-2-AMAZON-ipv4 address=52.95.150.0/24
@@ -81,6 +81,7 @@ add list=eu-west-2-AMAZON-ipv4 address=52.93.153.100/32
 add list=eu-west-2-AMAZON-ipv4 address=52.93.138.0/24
 add list=eu-west-2-AMAZON-ipv4 address=52.93.229.103/32
 add list=eu-west-2-AMAZON-ipv4 address=150.222.134.0/24
+add list=eu-west-2-AMAZON-ipv4 address=35.34.96.0/24
 add list=eu-west-2-AMAZON-ipv4 address=52.93.153.102/32
 add list=eu-west-2-AMAZON-ipv4 address=52.144.211.128/26
 add list=eu-west-2-AMAZON-ipv4 address=52.93.153.132/32
@@ -197,6 +198,7 @@ add list=eu-west-2-AMAZON-ipv4 address=51.202.0.0/15
 add list=eu-west-2-AMAZON-ipv4 address=3.5.244.0/22
 add list=eu-west-2-AMAZON-ipv4 address=52.93.153.67/32
 add list=eu-west-2-AMAZON-ipv4 address=52.93.229.68/32
+add list=eu-west-2-AMAZON-ipv4 address=69.107.11.40/29
 add list=eu-west-2-AMAZON-ipv4 address=52.93.153.173/32
 add list=eu-west-2-AMAZON-ipv4 address=52.93.229.102/32
 add list=eu-west-2-AMAZON-ipv4 address=52.93.152.199/32
@@ -228,6 +230,7 @@ add list=eu-west-2-AMAZON-ipv4 address=54.239.100.0/23
 add list=eu-west-2-AMAZON-ipv4 address=150.222.45.128/25
 add list=eu-west-2-AMAZON-ipv4 address=3.4.12.44/32
 add list=eu-west-2-AMAZON-ipv4 address=216.39.152.0/21
+add list=eu-west-2-AMAZON-ipv4 address=69.107.11.32/29
 add list=eu-west-2-AMAZON-ipv4 address=15.230.190.0/25
 add list=eu-west-2-AMAZON-ipv4 address=13.134.208.0/23
 add list=eu-west-2-AMAZON-ipv4 address=13.40.1.192/26
