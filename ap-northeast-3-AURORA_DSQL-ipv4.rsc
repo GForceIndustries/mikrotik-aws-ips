@@ -1,3 +1,3 @@
-# Generated on Tue Dec 16 05:40:10 2025 UTC
+# Generated on Wed Dec 17 05:40:24 2025 UTC
 /ip firewall address-list
 add list=ap-northeast-3-AURORA_DSQL-ipv4 address=18.96.17.0/25
