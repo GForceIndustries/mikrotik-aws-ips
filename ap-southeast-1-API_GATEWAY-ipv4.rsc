@@ -1,4 +1,4 @@
-# Generated on Thu Dec 18 05:40:12 2025 UTC
+# Generated on Fri Dec 19 05:39:48 2025 UTC
 /ip firewall address-list
 add list=ap-southeast-1-API_GATEWAY-ipv4 address=13.214.224.0/23
 add list=ap-southeast-1-API_GATEWAY-ipv4 address=13.214.228.0/22
