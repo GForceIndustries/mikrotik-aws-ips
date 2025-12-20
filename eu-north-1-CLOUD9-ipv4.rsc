@@ -1,4 +1,4 @@
-# Generated on Fri Dec 19 05:39:48 2025 UTC
+# Generated on Sat Dec 20 05:38:24 2025 UTC
 /ip firewall address-list
 add list=eu-north-1-CLOUD9-ipv4 address=13.48.186.128/27
 add list=eu-north-1-CLOUD9-ipv4 address=13.48.186.160/27
