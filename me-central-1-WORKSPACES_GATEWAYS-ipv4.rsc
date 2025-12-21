@@ -1,3 +1,3 @@
-# Generated on Sat Dec 20 05:38:24 2025 UTC
+# Generated on Sun Dec 21 05:38:54 2025 UTC
 /ip firewall address-list
 add list=me-central-1-WORKSPACES_GATEWAYS-ipv4 address=51.112.196.0/22
