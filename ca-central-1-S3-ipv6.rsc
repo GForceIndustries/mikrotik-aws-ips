@@ -1,4 +1,4 @@
-# Generated on Mon Dec 22 05:40:38 2025 UTC
+# Generated on Tue Dec 23 05:41:09 2025 UTC
 /ipv6 firewall address-list
 add list=ca-central-1-S3-ipv6 address=2600:1f60:1000::/40
 add list=ca-central-1-S3-ipv6 address=2600:1fb9:1000::/40
