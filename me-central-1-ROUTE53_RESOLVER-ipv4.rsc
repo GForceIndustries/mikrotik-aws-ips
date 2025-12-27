@@ -1,4 +1,4 @@
-# Generated on Fri Dec 26 05:40:02 2025 UTC
+# Generated on Sat Dec 27 05:39:26 2025 UTC
 /ip firewall address-list
 add list=me-central-1-ROUTE53_RESOLVER-ipv4 address=3.28.63.128/26
 add list=me-central-1-ROUTE53_RESOLVER-ipv4 address=3.28.63.192/26
