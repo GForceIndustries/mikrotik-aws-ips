@@ -1,3 +1,3 @@
-# Generated on Sat Dec 27 05:39:26 2025 UTC
+# Generated on Sun Dec 28 05:41:03 2025 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-GLOBALACCELERATOR-ipv6 address=2600:1f01:4840::/47

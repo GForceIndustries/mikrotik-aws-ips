@@ -1,3 +1,3 @@
-# Generated on Sat Dec 27 05:39:26 2025 UTC
+# Generated on Sun Dec 28 05:41:03 2025 UTC
 /ip firewall address-list
 add list=eu-south-1-WORKSPACES_GATEWAYS-ipv4 address=35.152.232.0/22
