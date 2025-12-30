@@ -1,4 +1,4 @@
-# Generated on Mon Dec 29 05:43:43 2025 UTC
+# Generated on Tue Dec 30 05:40:45 2025 UTC
 /ipv6 firewall address-list
 add list=eu-west-1-GLOBALACCELERATOR-ipv6 address=2600:1f01:4802::/47
 add list=eu-west-1-GLOBALACCELERATOR-ipv6 address=2600:1f01:4820::/47
