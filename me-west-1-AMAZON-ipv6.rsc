@@ -1,4 +1,4 @@
-# Generated on Tue Dec 30 05:40:45 2025 UTC
+# Generated on Wed Dec 31 05:41:40 2025 UTC
 /ipv6 firewall address-list
 add list=me-west-1-AMAZON-ipv6 address=2a05:d076:800::/40
 add list=me-west-1-AMAZON-ipv6 address=2a05:d031:800::/40
