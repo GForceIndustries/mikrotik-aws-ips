@@ -1,3 +1,3 @@
-# Generated on Wed Dec 31 05:41:40 2025 UTC
+# Generated on Thu Jan  1 05:42:29 2026 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-5-WORKSPACES_GATEWAYS-ipv6 address=2406:da20:8018::/48
