@@ -1,4 +1,4 @@
-# Generated on Fri Jan  2 05:41:44 2026 UTC
+# Generated on Sat Jan  3 05:39:41 2026 UTC
 /ip firewall address-list
 add list=eu-south-2-AMAZON-ipv4 address=18.96.192.0/19
 add list=eu-south-2-AMAZON-ipv4 address=150.222.50.32/27
