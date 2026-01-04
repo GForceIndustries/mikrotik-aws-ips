@@ -1,3 +1,3 @@
-# Generated on Sat Jan  3 05:39:41 2026 UTC
+# Generated on Sun Jan  4 05:41:54 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-EC2_INSTANCE_CONNECT-ipv4 address=35.183.92.176/29
