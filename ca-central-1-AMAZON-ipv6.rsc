@@ -1,4 +1,4 @@
-# Generated on Tue Jan  6 05:41:25 2026 UTC
+# Generated on Wed Jan  7 05:41:37 2026 UTC
 /ipv6 firewall address-list
 add list=ca-central-1-AMAZON-ipv6 address=2600:f0f2:7104::/48
 add list=ca-central-1-AMAZON-ipv6 address=2600:1f60:1000::/40
@@ -14,6 +14,7 @@ add list=ca-central-1-AMAZON-ipv6 address=2620:107:4000:a::/64
 add list=ca-central-1-AMAZON-ipv6 address=2600:1ffc:1000::/40
 add list=ca-central-1-AMAZON-ipv6 address=2606:7b40:1b0e::/56
 add list=ca-central-1-AMAZON-ipv6 address=2620:107:4000:4800::/62
+add list=ca-central-1-AMAZON-ipv6 address=2600:f0f1:4580::/42
 add list=ca-central-1-AMAZON-ipv6 address=2600:1fea:1000::/40
 add list=ca-central-1-AMAZON-ipv6 address=2600:1ff2:1000::/40
 add list=ca-central-1-AMAZON-ipv6 address=2600:f0fb:f108::/48

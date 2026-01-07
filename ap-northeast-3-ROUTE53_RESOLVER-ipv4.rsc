@@ -1,4 +1,4 @@
-# Generated on Tue Jan  6 05:41:25 2026 UTC
+# Generated on Wed Jan  7 05:41:37 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.0/29
 add list=ap-northeast-3-ROUTE53_RESOLVER-ipv4 address=13.208.131.128/27

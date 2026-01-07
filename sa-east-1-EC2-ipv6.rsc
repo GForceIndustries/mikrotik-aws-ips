@@ -1,9 +1,10 @@
-# Generated on Tue Jan  6 05:41:25 2026 UTC
+# Generated on Wed Jan  7 05:41:37 2026 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-EC2-ipv6 address=2600:1f2e::/36
 add list=sa-east-1-EC2-ipv6 address=2600:1fea:e000::/40
 add list=sa-east-1-EC2-ipv6 address=2600:1ff4:e000::/40
 add list=sa-east-1-EC2-ipv6 address=2600:f0f0:5523::/48
+add list=sa-east-1-EC2-ipv6 address=2600:f0f1:81::/48
 add list=sa-east-1-EC2-ipv6 address=2600:1f30:e000::/40
 add list=sa-east-1-EC2-ipv6 address=2600:1f36:e000::/40
 add list=sa-east-1-EC2-ipv6 address=2600:1ff0:e000::/40
@@ -35,6 +36,7 @@ add list=sa-east-1-EC2-ipv6 address=2600:1ff3:e000::/40
 add list=sa-east-1-EC2-ipv6 address=2600:f0f0:e17::/48
 add list=sa-east-1-EC2-ipv6 address=2606:7b40:10ff:40::/59
 add list=sa-east-1-EC2-ipv6 address=2600:f0f0:610c::/48
+add list=sa-east-1-EC2-ipv6 address=2600:f0f1:4240::/42
 add list=sa-east-1-EC2-ipv6 address=2600:1ff2:e000::/40
 add list=sa-east-1-EC2-ipv6 address=2600:f0f0:1:1e00::/56
 add list=sa-east-1-EC2-ipv6 address=2600:1f38:e000::/40

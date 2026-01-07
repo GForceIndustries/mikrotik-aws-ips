@@ -1,4 +1,4 @@
-# Generated on Tue Jan  6 05:41:25 2026 UTC
+# Generated on Wed Jan  7 05:41:37 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-EC2-ipv4 address=64.252.81.0/24
 add list=sa-east-1-EC2-ipv4 address=216.198.237.0/24
@@ -13,6 +13,7 @@ add list=sa-east-1-EC2-ipv4 address=18.96.64.0/19
 add list=sa-east-1-EC2-ipv4 address=18.229.0.0/16
 add list=sa-east-1-EC2-ipv4 address=18.230.0.0/16
 add list=sa-east-1-EC2-ipv4 address=35.55.26.0/24
+add list=sa-east-1-EC2-ipv4 address=1.178.95.0/24
 add list=sa-east-1-EC2-ipv4 address=99.77.234.0/24
 add list=sa-east-1-EC2-ipv4 address=56.124.0.0/17
 add list=sa-east-1-EC2-ipv4 address=35.96.43.0/24
