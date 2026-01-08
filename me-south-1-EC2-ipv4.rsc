@@ -1,4 +1,4 @@
-# Generated on Wed Jan  7 05:41:37 2026 UTC
+# Generated on Thu Jan  8 05:41:53 2026 UTC
 /ip firewall address-list
 add list=me-south-1-EC2-ipv4 address=15.185.0.0/16
 add list=me-south-1-EC2-ipv4 address=35.71.99.0/24
@@ -9,6 +9,7 @@ add list=me-south-1-EC2-ipv4 address=35.50.208.0/24
 add list=me-south-1-EC2-ipv4 address=13.152.0.0/16
 add list=me-south-1-EC2-ipv4 address=35.50.213.0/24
 add list=me-south-1-EC2-ipv4 address=35.50.210.0/24
+add list=me-south-1-EC2-ipv4 address=1.178.16.0/24
 add list=me-south-1-EC2-ipv4 address=99.77.147.0/24
 add list=me-south-1-EC2-ipv4 address=99.77.236.0/24
 add list=me-south-1-EC2-ipv4 address=3.43.192.0/18
