@@ -1,4 +1,4 @@
-# Generated on Thu Jan  8 05:41:53 2026 UTC
+# Generated on Fri Jan  9 05:41:47 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-CLOUD9-ipv4 address=18.184.138.224/27
 add list=eu-central-1-CLOUD9-ipv4 address=18.184.203.128/27
