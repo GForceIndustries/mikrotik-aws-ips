@@ -1,4 +1,4 @@
-# Generated on Fri Jan  9 05:41:47 2026 UTC
+# Generated on Sat Jan 10 05:39:02 2026 UTC
 /ipv6 firewall address-list
 add list=eu-west-1-EC2-ipv6 address=2600:f0f0:1:1a00::/56
 add list=eu-west-1-EC2-ipv6 address=2a05:d06a:8000::/40

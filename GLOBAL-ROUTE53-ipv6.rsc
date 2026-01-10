@@ -1,4 +1,4 @@
-# Generated on Fri Jan  9 05:41:47 2026 UTC
+# Generated on Sat Jan 10 05:39:02 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-ROUTE53-ipv6 address=2600:f0f2:7000::/44
 add list=GLOBAL-ROUTE53-ipv6 address=2600:9000:f530::/46
