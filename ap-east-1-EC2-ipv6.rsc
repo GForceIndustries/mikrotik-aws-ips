@@ -1,4 +1,4 @@
-# Generated on Sun Jan 11 05:41:15 2026 UTC
+# Generated on Mon Jan 12 05:44:01 2026 UTC
 /ipv6 firewall address-list
 add list=ap-east-1-EC2-ipv6 address=2600:f0f1:4280::/42
 add list=ap-east-1-EC2-ipv6 address=2406:daef:e000::/40
