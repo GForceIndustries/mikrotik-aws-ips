@@ -1,4 +1,4 @@
-# Generated on Mon Jan 12 05:44:01 2026 UTC
+# Generated on Tue Jan 13 05:41:37 2026 UTC
 /ip firewall address-list
 add list=us-west-1-GLOBALACCELERATOR-ipv4 address=99.83.97.0/24
 add list=us-west-1-GLOBALACCELERATOR-ipv4 address=99.82.172.0/24
