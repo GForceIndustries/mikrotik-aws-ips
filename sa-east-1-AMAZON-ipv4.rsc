@@ -1,4 +1,4 @@
-# Generated on Tue Jan 13 05:41:37 2026 UTC
+# Generated on Wed Jan 14 05:41:40 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-AMAZON-ipv4 address=64.252.81.0/24
 add list=sa-east-1-AMAZON-ipv4 address=150.222.228.0/24

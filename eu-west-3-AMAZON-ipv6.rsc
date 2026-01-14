@@ -1,4 +1,4 @@
-# Generated on Tue Jan 13 05:41:37 2026 UTC
+# Generated on Wed Jan 14 05:41:40 2026 UTC
 /ipv6 firewall address-list
 add list=eu-west-3-AMAZON-ipv6 address=2600:f0f0:8108::/48
 add list=eu-west-3-AMAZON-ipv6 address=2a01:578:0:7301::1/128
@@ -14,6 +14,7 @@ add list=eu-west-3-AMAZON-ipv6 address=2600:1f01:4810::/47
 add list=eu-west-3-AMAZON-ipv6 address=2a05:d073:2000::/40
 add list=eu-west-3-AMAZON-ipv6 address=2a05:d06a:2000::/40
 add list=eu-west-3-AMAZON-ipv6 address=2a05:d036:2000::/40
+add list=eu-west-3-AMAZON-ipv6 address=2a05:d06b:2000::/40
 add list=eu-west-3-AMAZON-ipv6 address=2a05:d076:2000::/40
 add list=eu-west-3-AMAZON-ipv6 address=2600:f0f1:4100::/42
 add list=eu-west-3-AMAZON-ipv6 address=2a05:d032:2000::/40
