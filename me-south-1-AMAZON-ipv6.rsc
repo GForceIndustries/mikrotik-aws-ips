@@ -1,4 +1,4 @@
-# Generated on Wed Jan 14 05:41:40 2026 UTC
+# Generated on Thu Jan 15 05:41:58 2026 UTC
 /ipv6 firewall address-list
 add list=me-south-1-AMAZON-ipv6 address=2a05:d070:e000::/40
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:e06::/48
@@ -14,6 +14,7 @@ add list=me-south-1-AMAZON-ipv6 address=2a05:d07a:e000::/40
 add list=me-south-1-AMAZON-ipv6 address=2a05:d02e::/36
 add list=me-south-1-AMAZON-ipv6 address=2a05:d072:e000::/40
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:552c::/48
+add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:e1e::/48
 add list=me-south-1-AMAZON-ipv6 address=2a05:d031:e000::/40
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:552f::/48
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:552b::/48
@@ -25,6 +26,7 @@ add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:e07::/48
 add list=me-south-1-AMAZON-ipv6 address=2a05:d040:e000::/40
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:e04::/48
 add list=me-south-1-AMAZON-ipv6 address=2a05:d074:e000::/40
+add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:e1f::/48
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:552d::/48
 add list=me-south-1-AMAZON-ipv6 address=2a05:d06f:e000::/40
 add list=me-south-1-AMAZON-ipv6 address=2a05:d038:e000::/40
@@ -33,6 +35,7 @@ add list=me-south-1-AMAZON-ipv6 address=2600:1f01:48e0::/47
 add list=me-south-1-AMAZON-ipv6 address=2a01:578:0:7600::1/128
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:6111::/48
 add list=me-south-1-AMAZON-ipv6 address=2a05:d07e:e000::/40
+add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:e20::/48
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:8107::/48
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f0:552a::/48
 add list=me-south-1-AMAZON-ipv6 address=2600:f0f1:4040::/42
