@@ -1,4 +1,4 @@
-# Generated on Sat Jan 17 05:38:58 2026 UTC
+# Generated on Sun Jan 18 05:39:59 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-WORKSPACES_GATEWAYS-ipv4 address=15.228.64.0/22
 add list=sa-east-1-WORKSPACES_GATEWAYS-ipv4 address=18.230.103.0/24

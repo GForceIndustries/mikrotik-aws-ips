@@ -1,4 +1,4 @@
-# Generated on Sat Jan 17 05:38:58 2026 UTC
+# Generated on Sun Jan 18 05:39:59 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-WORKSPACES_GATEWAYS-ipv4 address=18.156.52.0/24
 add list=eu-central-1-WORKSPACES_GATEWAYS-ipv4 address=18.156.54.0/23
