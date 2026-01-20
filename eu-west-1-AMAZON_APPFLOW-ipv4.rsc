@@ -1,4 +1,4 @@
-# Generated on Mon Jan 19 05:44:46 2026 UTC
+# Generated on Tue Jan 20 05:43:59 2026 UTC
 /ip firewall address-list
 add list=eu-west-1-AMAZON_APPFLOW-ipv4 address=3.248.186.92/30
 add list=eu-west-1-AMAZON_APPFLOW-ipv4 address=3.248.244.240/30
