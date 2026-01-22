@@ -1,4 +1,4 @@
-# Generated on Wed Jan 21 05:43:59 2026 UTC
+# Generated on Thu Jan 22 05:44:13 2026 UTC
 /ip firewall address-list
 add list=us-gov-east-1-WORKSPACES_GATEWAYS-ipv4 address=18.254.140.0/22
 add list=us-gov-east-1-WORKSPACES_GATEWAYS-ipv4 address=18.254.148.0/22

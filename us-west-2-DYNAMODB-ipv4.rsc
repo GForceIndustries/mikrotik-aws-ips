@@ -1,4 +1,4 @@
-# Generated on Wed Jan 21 05:43:59 2026 UTC
+# Generated on Thu Jan 22 05:44:13 2026 UTC
 /ip firewall address-list
 add list=us-west-2-DYNAMODB-ipv4 address=52.119.252.0/22
 add list=us-west-2-DYNAMODB-ipv4 address=52.94.10.0/24

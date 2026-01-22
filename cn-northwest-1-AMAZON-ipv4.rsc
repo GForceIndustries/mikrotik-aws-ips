@@ -1,4 +1,4 @@
-# Generated on Wed Jan 21 05:43:59 2026 UTC
+# Generated on Thu Jan 22 05:44:13 2026 UTC
 /ip firewall address-list
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.169.16/28
 add list=cn-northwest-1-AMAZON-ipv4 address=52.82.169.0/28
