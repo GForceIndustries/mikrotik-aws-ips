@@ -1,3 +1,3 @@
-# Generated on Thu Jan 22 05:44:13 2026 UTC
+# Generated on Fri Jan 23 05:43:10 2026 UTC
 /ip firewall address-list
 add list=il-central-1-WORKSPACES_GATEWAYS-ipv4 address=51.17.72.0/22

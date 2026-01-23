@@ -1,8 +1,9 @@
-# Generated on Thu Jan 22 05:44:13 2026 UTC
+# Generated on Fri Jan 23 05:43:10 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-3-S3-ipv4 address=52.95.178.0/23
 add list=ap-southeast-3-S3-ipv4 address=3.5.36.0/22
 add list=ap-southeast-3-S3-ipv4 address=52.95.177.0/24
+add list=ap-southeast-3-S3-ipv4 address=1.178.19.0/24
 add list=ap-southeast-3-S3-ipv4 address=108.136.154.16/28
 add list=ap-southeast-3-S3-ipv4 address=108.136.154.32/28
 add list=ap-southeast-3-S3-ipv4 address=108.136.154.48/28

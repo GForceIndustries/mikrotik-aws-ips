@@ -1,10 +1,11 @@
-# Generated on Thu Jan 22 05:44:13 2026 UTC
+# Generated on Fri Jan 23 05:43:10 2026 UTC
 /ip firewall address-list
 add list=GLOBAL-AMAZON-ipv4 address=120.52.22.96/27
 add list=GLOBAL-AMAZON-ipv4 address=23.228.222.0/24
 add list=GLOBAL-AMAZON-ipv4 address=205.251.249.0/24
 add list=GLOBAL-AMAZON-ipv4 address=15.197.34.0/23
 add list=GLOBAL-AMAZON-ipv4 address=15.197.36.0/22
+add list=GLOBAL-AMAZON-ipv4 address=40.168.227.0/24
 add list=GLOBAL-AMAZON-ipv4 address=180.163.57.128/26
 add list=GLOBAL-AMAZON-ipv4 address=99.181.64.0/18
 add list=GLOBAL-AMAZON-ipv4 address=23.228.220.0/24
@@ -41,6 +42,7 @@ add list=GLOBAL-AMAZON-ipv4 address=15.197.8.0/22
 add list=GLOBAL-AMAZON-ipv4 address=70.132.0.0/18
 add list=GLOBAL-AMAZON-ipv4 address=45.113.128.0/22
 add list=GLOBAL-AMAZON-ipv4 address=15.158.0.0/16
+add list=GLOBAL-AMAZON-ipv4 address=40.168.225.0/24
 add list=GLOBAL-AMAZON-ipv4 address=111.13.171.192/26
 add list=GLOBAL-AMAZON-ipv4 address=15.197.18.0/23
 add list=GLOBAL-AMAZON-ipv4 address=13.249.0.0/16
@@ -76,6 +78,7 @@ add list=GLOBAL-AMAZON-ipv4 address=111.13.185.32/27
 add list=GLOBAL-AMAZON-ipv4 address=64.252.128.0/18
 add list=GLOBAL-AMAZON-ipv4 address=205.251.254.0/24
 add list=GLOBAL-AMAZON-ipv4 address=40.168.224.0/24
+add list=GLOBAL-AMAZON-ipv4 address=40.168.231.0/24
 add list=GLOBAL-AMAZON-ipv4 address=3.166.0.0/15
 add list=GLOBAL-AMAZON-ipv4 address=54.230.224.0/19
 add list=GLOBAL-AMAZON-ipv4 address=71.152.0.0/17
@@ -130,8 +133,10 @@ add list=GLOBAL-AMAZON-ipv4 address=99.82.176.0/21
 add list=GLOBAL-AMAZON-ipv4 address=119.147.182.0/25
 add list=GLOBAL-AMAZON-ipv4 address=120.232.236.0/25
 add list=GLOBAL-AMAZON-ipv4 address=111.13.185.64/27
+add list=GLOBAL-AMAZON-ipv4 address=40.168.228.0/24
 add list=GLOBAL-AMAZON-ipv4 address=3.164.0.0/18
 add list=GLOBAL-AMAZON-ipv4 address=99.83.128.0/17
+add list=GLOBAL-AMAZON-ipv4 address=40.168.230.0/24
 add list=GLOBAL-AMAZON-ipv4 address=3.172.64.0/18
 add list=GLOBAL-AMAZON-ipv4 address=54.182.0.0/16
 add list=GLOBAL-AMAZON-ipv4 address=58.254.138.128/26
@@ -174,6 +179,7 @@ add list=GLOBAL-AMAZON-ipv4 address=120.232.236.128/26
 add list=GLOBAL-AMAZON-ipv4 address=52.223.192.0/18
 add list=GLOBAL-AMAZON-ipv4 address=3.33.128.0/17
 add list=GLOBAL-AMAZON-ipv4 address=199.9.248.0/21
+add list=GLOBAL-AMAZON-ipv4 address=40.168.229.0/24
 add list=GLOBAL-AMAZON-ipv4 address=204.246.176.0/20
 add list=GLOBAL-AMAZON-ipv4 address=15.197.24.0/22
 add list=GLOBAL-AMAZON-ipv4 address=65.8.0.0/16
