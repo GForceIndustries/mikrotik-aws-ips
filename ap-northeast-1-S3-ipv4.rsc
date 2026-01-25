@@ -1,4 +1,4 @@
-# Generated on Sat Jan 24 05:39:29 2026 UTC
+# Generated on Sun Jan 25 05:42:54 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-S3-ipv4 address=52.219.68.0/22
 add list=ap-northeast-1-S3-ipv4 address=52.219.162.0/23
