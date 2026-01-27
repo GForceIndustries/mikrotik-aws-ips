@@ -1,4 +1,4 @@
-# Generated on Mon Jan 26 05:44:42 2026 UTC
+# Generated on Tue Jan 27 05:43:01 2026 UTC
 /ip firewall address-list
 add list=cn-north-1-EBS-ipv4 address=140.179.58.88/29
 add list=cn-north-1-EBS-ipv4 address=140.179.79.244/30

@@ -1,4 +1,4 @@
-# Generated on Mon Jan 26 05:44:42 2026 UTC
+# Generated on Tue Jan 27 05:43:01 2026 UTC
 /ip firewall address-list
 add list=us-east-1-S3-ipv4 address=18.34.0.0/19
 add list=us-east-1-S3-ipv4 address=16.15.192.0/18
@@ -13,5 +13,6 @@ add list=us-east-1-S3-ipv4 address=1.178.5.0/24
 add list=us-east-1-S3-ipv4 address=1.178.6.0/24
 add list=us-east-1-S3-ipv4 address=3.2.64.0/24
 add list=us-east-1-S3-ipv4 address=3.2.65.0/24
+add list=us-east-1-S3-ipv4 address=3.2.74.0/24
 add list=us-east-1-S3-ipv4 address=44.192.134.240/28
 add list=us-east-1-S3-ipv4 address=44.192.140.64/28

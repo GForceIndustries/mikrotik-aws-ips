@@ -1,4 +1,4 @@
-# Generated on Mon Jan 26 05:44:42 2026 UTC
+# Generated on Tue Jan 27 05:43:01 2026 UTC
 /ip firewall address-list
 add list=us-west-2-S3-ipv4 address=16.12.96.0/21
 add list=us-west-2-S3-ipv4 address=16.12.104.0/21
@@ -13,5 +13,6 @@ add list=us-west-2-S3-ipv4 address=52.218.128.0/17
 add list=us-west-2-S3-ipv4 address=52.92.128.0/17
 add list=us-west-2-S3-ipv4 address=1.178.65.0/24
 add list=us-west-2-S3-ipv4 address=1.178.9.0/24
+add list=us-west-2-S3-ipv4 address=3.2.68.0/24
 add list=us-west-2-S3-ipv4 address=35.80.36.208/28
 add list=us-west-2-S3-ipv4 address=35.80.36.224/28
