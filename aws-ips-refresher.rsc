@@ -1,4 +1,4 @@
-# Generated on Thu Jan 29 05:48:09 2026 UTC
+# Generated on Fri Jan 30 05:48:55 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -540,6 +540,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=ap-southeast-2-AURORA_DSQL-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=ap-southeast-4-AURORA_DSQL-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=ca-central-1-AURORA_DSQL-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=ca-west-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=eu-central-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=eu-west-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-2-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=eu-west-2-AURORA_DSQL-ipv4.rsc;\r\
@@ -869,6 +870,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=ap-southeast-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=ap-southeast-4-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=ca-central-1-AURORA_DSQL-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=ca-west-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=eu-central-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=eu-west-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-2-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=eu-west-2-AURORA_DSQL-ipv6.rsc;\r\
@@ -1418,6 +1420,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-southeast-2-AURORA_DSQL-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-4-AURORA_DSQL-ipv4.rsc;\r\
     \n/import file-name=ca-central-1-AURORA_DSQL-ipv4.rsc;\r\
+    \n/import file-name=ca-west-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/import file-name=eu-central-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/import file-name=eu-west-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/import file-name=eu-west-2-AURORA_DSQL-ipv4.rsc;\r\
@@ -1747,6 +1750,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-southeast-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-4-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=ca-central-1-AURORA_DSQL-ipv6.rsc;\r\
+    \n/import file-name=ca-west-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=eu-central-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=eu-west-2-AURORA_DSQL-ipv6.rsc;\r\

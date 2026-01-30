@@ -1,7 +1,8 @@
-# Generated on Thu Jan 29 05:48:09 2026 UTC
+# Generated on Fri Jan 30 05:48:55 2026 UTC
 /ip firewall address-list
 add list=ap-east-2-S3-ipv4 address=16.12.80.0/24
 add list=ap-east-2-S3-ipv4 address=3.5.196.0/22
 add list=ap-east-2-S3-ipv4 address=16.12.78.0/23
+add list=ap-east-2-S3-ipv4 address=1.178.31.0/24
 add list=ap-east-2-S3-ipv4 address=43.212.135.0/28
 add list=ap-east-2-S3-ipv4 address=43.212.135.16/28
