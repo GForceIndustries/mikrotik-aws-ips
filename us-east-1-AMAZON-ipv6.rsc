@@ -1,4 +1,4 @@
-# Generated on Fri Jan 30 05:48:55 2026 UTC
+# Generated on Sat Jan 31 05:47:30 2026 UTC
 /ipv6 firewall address-list
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4900:500::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:2::/48
@@ -125,12 +125,12 @@ add list=us-east-1-AMAZON-ipv6 address=2600:1ff8:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:1fff:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:ec00::/40
 add list=us-east-1-AMAZON-ipv6 address=2606:f40::/39
+add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:8a00::/44
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4890::/47
 add list=us-east-1-AMAZON-ipv6 address=2600:1f38:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:1f13:8000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:f00:100::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:1f1c:8000::/36
-add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:8a00::/40
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:8b00::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:0:208::/62
@@ -143,6 +143,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:0:200::/62
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:80::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:1f15:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f1a:c000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:8a10::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:1f1c:c000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f2c:8000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f15:8000::/36
