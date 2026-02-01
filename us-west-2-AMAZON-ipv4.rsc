@@ -1,4 +1,4 @@
-# Generated on Sat Jan 31 05:47:30 2026 UTC
+# Generated on Sun Feb  1 05:51:43 2026 UTC
 /ip firewall address-list
 add list=us-west-2-AMAZON-ipv4 address=52.94.76.0/22
 add list=us-west-2-AMAZON-ipv4 address=15.230.102.0/24
