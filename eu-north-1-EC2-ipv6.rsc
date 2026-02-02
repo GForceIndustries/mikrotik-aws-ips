@@ -1,4 +1,4 @@
-# Generated on Sun Feb  1 05:51:43 2026 UTC
+# Generated on Mon Feb  2 05:53:35 2026 UTC
 /ipv6 firewall address-list
 add list=eu-north-1-EC2-ipv6 address=2a05:d040:6000::/40
 add list=eu-north-1-EC2-ipv6 address=2a05:d06a:6000::/40
