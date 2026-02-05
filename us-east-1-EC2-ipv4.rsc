@@ -1,4 +1,4 @@
-# Generated on Wed Feb  4 05:48:53 2026 UTC
+# Generated on Thu Feb  5 05:50:25 2026 UTC
 /ip firewall address-list
 add list=us-east-1-EC2-ipv4 address=15.181.232.0/21
 add list=us-east-1-EC2-ipv4 address=216.244.7.0/24
@@ -88,6 +88,7 @@ add list=us-east-1-EC2-ipv4 address=52.54.0.0/15
 add list=us-east-1-EC2-ipv4 address=16.56.64.0/18
 add list=us-east-1-EC2-ipv4 address=136.18.160.0/23
 add list=us-east-1-EC2-ipv4 address=35.54.32.0/21
+add list=us-east-1-EC2-ipv4 address=35.71.76.0/22
 add list=us-east-1-EC2-ipv4 address=3.4.10.0/24
 add list=us-east-1-EC2-ipv4 address=99.77.129.0/24
 add list=us-east-1-EC2-ipv4 address=18.96.0.0/24
@@ -176,7 +177,6 @@ add list=us-east-1-EC2-ipv4 address=173.83.200.0/22
 add list=us-east-1-EC2-ipv4 address=3.2.2.0/24
 add list=us-east-1-EC2-ipv4 address=64.252.66.0/24
 add list=us-east-1-EC2-ipv4 address=3.3.5.0/24
-add list=us-east-1-EC2-ipv4 address=1.178.86.0/23
 add list=us-east-1-EC2-ipv4 address=52.2.0.0/15
 add list=us-east-1-EC2-ipv4 address=155.146.64.0/20
 add list=us-east-1-EC2-ipv4 address=184.72.64.0/18
