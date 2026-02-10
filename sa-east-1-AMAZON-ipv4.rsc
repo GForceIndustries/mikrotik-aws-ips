@@ -1,4 +1,4 @@
-# Generated on Mon Feb  9 05:56:51 2026 UTC
+# Generated on Tue Feb 10 05:59:51 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-AMAZON-ipv4 address=56.1.0.0/16
 add list=sa-east-1-AMAZON-ipv4 address=56.5.0.0/16
