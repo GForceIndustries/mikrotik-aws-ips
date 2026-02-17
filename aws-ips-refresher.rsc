@@ -1,4 +1,4 @@
-# Generated on Mon Feb 16 05:56:12 2026 UTC
+# Generated on Tue Feb 17 05:50:42 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -185,9 +185,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-EC2-ipv4.rsc\" mode=https dst-path=mx-central-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-EC2-ipv4.rsc\" mode=https dst-path=us-west-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-EC2-ipv4.rsc\" mode=https dst-path=us-gov-west-1-EC2-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-EC2-ipv4.rsc\" mode=https dst-path=ap-northeast-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-EC2-ipv4.rsc\" mode=https dst-path=af-south-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-EC2-ipv4.rsc\" mode=https dst-path=ca-west-1-EC2-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-EC2-ipv4.rsc\" mode=https dst-path=ap-northeast-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-south-1-EC2-ipv4.rsc\" mode=https dst-path=me-south-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-2-EC2-ipv4.rsc\" mode=https dst-path=eu-south-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-EC2-ipv4.rsc\" mode=https dst-path=GLOBAL-EC2-ipv4.rsc;\r\
@@ -1065,9 +1065,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=mx-central-1-EC2-ipv4.rsc;\r\
     \n/import file-name=us-west-1-EC2-ipv4.rsc;\r\
     \n/import file-name=us-gov-west-1-EC2-ipv4.rsc;\r\
+    \n/import file-name=ap-northeast-1-EC2-ipv4.rsc;\r\
     \n/import file-name=af-south-1-EC2-ipv4.rsc;\r\
     \n/import file-name=ca-west-1-EC2-ipv4.rsc;\r\
-    \n/import file-name=ap-northeast-1-EC2-ipv4.rsc;\r\
     \n/import file-name=me-south-1-EC2-ipv4.rsc;\r\
     \n/import file-name=eu-south-2-EC2-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-EC2-ipv4.rsc;\r\
