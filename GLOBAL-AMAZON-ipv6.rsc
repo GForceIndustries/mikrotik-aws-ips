@@ -1,4 +1,4 @@
-# Generated on Tue Feb 17 05:50:42 2026 UTC
+# Generated on Wed Feb 18 05:51:32 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:3000::/36
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:f600::/39
@@ -24,7 +24,6 @@ add list=GLOBAL-AMAZON-ipv6 address=2600:9000:aa00::/40
 add list=GLOBAL-AMAZON-ipv6 address=2620:107:3001::/48
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:f538::/45
 add list=GLOBAL-AMAZON-ipv6 address=2606:7b40:1b40::/44
-add list=GLOBAL-AMAZON-ipv6 address=2600:f0f2:7000::/44
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:5380::/41
 add list=GLOBAL-AMAZON-ipv6 address=2600:f0f0:5504::/46
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:1000::/36
@@ -45,8 +44,8 @@ add list=GLOBAL-AMAZON-ipv6 address=2600:9000:5308::/45
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:f534::/46
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:a900::/40
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:a200::/40
-add list=GLOBAL-AMAZON-ipv6 address=2600:f0f0:400::/44
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:ad00::/40
+add list=GLOBAL-AMAZON-ipv6 address=2600:f0f0:601::/48
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:5300::/45
 add list=GLOBAL-AMAZON-ipv6 address=2606:7b40:1b70::/44
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:f520::/44
@@ -57,6 +56,7 @@ add list=GLOBAL-AMAZON-ipv6 address=2600:9000:5320::/43
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:5310::/44
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:f580::/41
 add list=GLOBAL-AMAZON-ipv6 address=2605:9cc0:1ff0:2800::/56
+add list=GLOBAL-AMAZON-ipv6 address=2600:f0f0:602::/47
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:5340::/42
 add list=GLOBAL-AMAZON-ipv6 address=2605:9cc0:1ff0:2300::/56
 add list=GLOBAL-AMAZON-ipv6 address=2600:9000:eee::/48

@@ -1,4 +1,4 @@
-# Generated on Tue Feb 17 05:50:42 2026 UTC
+# Generated on Wed Feb 18 05:51:32 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -789,6 +789,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-EC2-ipv6.rsc\" mode=https dst-path=cn-north-1-EC2-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-ROUTE53-ipv6.rsc\" mode=https dst-path=GLOBAL-ROUTE53-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-ROUTE53-ipv6.rsc\" mode=https dst-path=eusc-de-east-1-ROUTE53-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-ROUTE53-ipv6.rsc\" mode=https dst-path=us-gov-east-1-ROUTE53-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT-ipv6.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=us-west-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=eu-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
@@ -1669,6 +1670,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=cn-north-1-EC2-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-ROUTE53-ipv6.rsc;\r\
     \n/import file-name=eusc-de-east-1-ROUTE53-ipv6.rsc;\r\
+    \n/import file-name=us-gov-east-1-ROUTE53-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT-ipv6.rsc;\r\
     \n/import file-name=us-west-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
