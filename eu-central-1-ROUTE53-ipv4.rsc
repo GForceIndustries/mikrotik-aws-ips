@@ -1,4 +1,4 @@
-# Generated on Wed Feb 18 05:51:32 2026 UTC
+# Generated on Thu Feb 19 05:50:49 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-ROUTE53-ipv4 address=18.196.222.0/24
 add list=eu-central-1-ROUTE53-ipv4 address=52.46.184.0/22
