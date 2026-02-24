@@ -1,4 +1,4 @@
-# Generated on Mon Feb 23 05:55:27 2026 UTC
+# Generated on Tue Feb 24 05:51:14 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -513,6 +513,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-KINESIS_VIDEO_STREAMS-ipv4.rsc\" mode=https dst-path=eu-west-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-2-KINESIS_VIDEO_STREAMS-ipv4.rsc\" mode=https dst-path=eu-west-2-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-3-KINESIS_VIDEO_STREAMS-ipv4.rsc\" mode=https dst-path=eu-west-3-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-KINESIS_VIDEO_STREAMS-ipv4.rsc\" mode=https dst-path=il-central-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-south-1-KINESIS_VIDEO_STREAMS-ipv4.rsc\" mode=https dst-path=me-south-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-KINESIS_VIDEO_STREAMS-ipv4.rsc\" mode=https dst-path=sa-east-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-KINESIS_VIDEO_STREAMS-ipv4.rsc\" mode=https dst-path=us-east-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
@@ -1395,6 +1396,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-west-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/import file-name=eu-west-2-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/import file-name=eu-west-3-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
+    \n/import file-name=il-central-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/import file-name=me-south-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/import file-name=sa-east-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
     \n/import file-name=us-east-1-KINESIS_VIDEO_STREAMS-ipv4.rsc;\r\
