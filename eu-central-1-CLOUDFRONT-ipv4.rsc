@@ -1,4 +1,4 @@
-# Generated on Thu Feb 26 05:50:31 2026 UTC
+# Generated on Fri Feb 27 05:49:18 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-CLOUDFRONT-ipv4 address=18.192.142.0/23
 add list=eu-central-1-CLOUDFRONT-ipv4 address=18.199.68.0/22
