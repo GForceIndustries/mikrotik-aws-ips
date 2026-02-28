@@ -1,4 +1,4 @@
-# Generated on Fri Feb 27 05:49:18 2026 UTC
+# Generated on Sat Feb 28 05:44:52 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-AMAZON_APPFLOW-ipv4 address=18.176.203.120/30
 add list=ap-northeast-1-AMAZON_APPFLOW-ipv4 address=3.113.218.76/30
