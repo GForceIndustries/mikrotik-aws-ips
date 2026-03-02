@@ -1,4 +1,4 @@
-# Generated on Sun Mar  1 05:49:15 2026 UTC
+# Generated on Mon Mar  2 05:49:31 2026 UTC
 /ip firewall address-list
 add list=me-central-1-AMAZON-ipv4 address=15.230.177.0/24
 add list=me-central-1-AMAZON-ipv4 address=40.172.0.0/16
