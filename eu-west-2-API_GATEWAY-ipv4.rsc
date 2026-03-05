@@ -1,7 +1,10 @@
-# Generated on Wed Mar  4 05:47:56 2026 UTC
+# Generated on Thu Mar  5 05:49:12 2026 UTC
 /ip firewall address-list
 add list=eu-west-2-API_GATEWAY-ipv4 address=13.40.202.0/23
 add list=eu-west-2-API_GATEWAY-ipv4 address=13.40.204.0/22
+add list=eu-west-2-API_GATEWAY-ipv4 address=16.60.222.0/23
+add list=eu-west-2-API_GATEWAY-ipv4 address=16.60.224.0/22
+add list=eu-west-2-API_GATEWAY-ipv4 address=16.60.228.0/25
 add list=eu-west-2-API_GATEWAY-ipv4 address=18.168.133.0/24
 add list=eu-west-2-API_GATEWAY-ipv4 address=3.10.17.0/25
 add list=eu-west-2-API_GATEWAY-ipv4 address=3.9.94.0/24
