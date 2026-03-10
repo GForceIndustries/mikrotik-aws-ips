@@ -1,4 +1,4 @@
-# Generated on Mon Mar  9 05:50:37 2026 UTC
+# Generated on Tue Mar 10 05:48:07 2026 UTC
 /ipv6 firewall address-list
 add list=mx-central-1-AMAZON-ipv6 address=2600:1ff0:7400::/40
 add list=mx-central-1-AMAZON-ipv6 address=2600:1ffc:7400::/40
