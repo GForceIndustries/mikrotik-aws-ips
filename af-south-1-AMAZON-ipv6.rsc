@@ -1,5 +1,6 @@
-# Generated on Wed Mar 11 05:48:35 2026 UTC
+# Generated on Fri Mar 13 05:49:00 2026 UTC
 /ipv6 firewall address-list
+add list=af-south-1-AMAZON-ipv6 address=2406:daba:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:dabb:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:daea:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:dab9:1000::/40
@@ -19,6 +20,7 @@ add list=af-south-1-AMAZON-ipv6 address=2406:daf4:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2606:7b40:1b08:100::/56
 add list=af-south-1-AMAZON-ipv6 address=2406:daf3:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2600:f0f0:6119::/48
+add list=af-south-1-AMAZON-ipv6 address=2406:da33:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:daeb:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2600:f0f1:4180::/42
 add list=af-south-1-AMAZON-ipv6 address=2406:da11::/36
@@ -26,6 +28,7 @@ add list=af-south-1-AMAZON-ipv6 address=2406:daf8:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2600:f0f0:4144::/48
 add list=af-south-1-AMAZON-ipv6 address=2406:da00:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2600:f0f1:88::/48
+add list=af-south-1-AMAZON-ipv6 address=2406:dae9:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2406:da21::/36
 add list=af-south-1-AMAZON-ipv6 address=2406:da32:1000::/40
 add list=af-south-1-AMAZON-ipv6 address=2600:f0f2:710b::/48

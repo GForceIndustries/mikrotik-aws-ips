@@ -1,4 +1,4 @@
-# Generated on Wed Mar 11 05:48:35 2026 UTC
+# Generated on Fri Mar 13 05:49:00 2026 UTC
 /ipv6 firewall address-list
 add list=ap-east-2-AMAZON-ipv6 address=2406:daea:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:da32:c800::/40
@@ -6,9 +6,11 @@ add list=ap-east-2-AMAZON-ipv6 address=2406:da61:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:da1c:8000::/36
 add list=ap-east-2-AMAZON-ipv6 address=2406:daf8:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:da30:c800::/40
+add list=ap-east-2-AMAZON-ipv6 address=2406:dae9:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:daf3:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:da60:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:dab9:c800::/40
+add list=ap-east-2-AMAZON-ipv6 address=2406:daba:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:daf0:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:daf9:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:da00:c800::/40
@@ -17,6 +19,7 @@ add list=ap-east-2-AMAZON-ipv6 address=2406:daf2:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:daeb:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:daf6:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:daef:c800::/40
+add list=ap-east-2-AMAZON-ipv6 address=2406:da33:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2400:6500:0:7e00::/56
 add list=ap-east-2-AMAZON-ipv6 address=2406:dabb:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:da2c:8000::/36

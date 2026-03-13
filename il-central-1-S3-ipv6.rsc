@@ -1,9 +1,10 @@
-# Generated on Wed Mar 11 05:48:35 2026 UTC
+# Generated on Fri Mar 13 05:49:00 2026 UTC
 /ipv6 firewall address-list
 add list=il-central-1-S3-ipv6 address=2a05:d059:5000::/40
 add list=il-central-1-S3-ipv6 address=2a05:d030:5000::/40
 add list=il-central-1-S3-ipv6 address=2a05:d079:5000::/40
 add list=il-central-1-S3-ipv6 address=2a05:d078:5000::/40
+add list=il-central-1-S3-ipv6 address=2a05:d06f:5000::/40
 add list=il-central-1-S3-ipv6 address=2a05:d050:5000::/40
 add list=il-central-1-S3-ipv6 address=2a05:d070:5000::/40
 add list=il-central-1-S3-ipv6 address=2a05:d074:5000::/40

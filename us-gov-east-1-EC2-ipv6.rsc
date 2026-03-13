@@ -1,9 +1,10 @@
-# Generated on Wed Mar 11 05:48:35 2026 UTC
+# Generated on Fri Mar 13 05:49:00 2026 UTC
 /ipv6 firewall address-list
 add list=us-gov-east-1-EC2-ipv6 address=2600:1feb:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f15::/36
 add list=us-gov-east-1-EC2-ipv6 address=2600:1fbb:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:f0f2:7028::/48
+add list=us-gov-east-1-EC2-ipv6 address=2600:1f33:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f00:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f38:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f60:5000::/40
@@ -16,10 +17,12 @@ add list=us-gov-east-1-EC2-ipv6 address=2600:f0f0:6124::/48
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f30:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f61:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:f0f0:400::/44
+add list=us-gov-east-1-EC2-ipv6 address=2600:1fba:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f32:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1fea:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1ff4:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:f0f0:78::/45
+add list=us-gov-east-1-EC2-ipv6 address=2600:1fe9:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1f25::/36
 add list=us-gov-east-1-EC2-ipv6 address=2600:1ff6:5000::/40
 add list=us-gov-east-1-EC2-ipv6 address=2600:1ff2:5000::/40

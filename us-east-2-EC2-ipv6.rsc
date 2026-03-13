@@ -1,6 +1,7 @@
-# Generated on Wed Mar 11 05:48:35 2026 UTC
+# Generated on Fri Mar 13 05:49:00 2026 UTC
 /ipv6 firewall address-list
 add list=us-east-2-EC2-ipv6 address=2600:f0f0:e14::/48
+add list=us-east-2-EC2-ipv6 address=2600:1f13:c000::/36
 add list=us-east-2-EC2-ipv6 address=2600:1feb:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1f70:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1fea:6000::/40
@@ -12,6 +13,7 @@ add list=us-east-2-EC2-ipv6 address=2606:7b40:1b0f:4300::/56
 add list=us-east-2-EC2-ipv6 address=2606:f40:800::/40
 add list=us-east-2-EC2-ipv6 address=2600:1f24:c000::/36
 add list=us-east-2-EC2-ipv6 address=2600:1f14:c000::/36
+add list=us-east-2-EC2-ipv6 address=2600:1f23:c000::/36
 add list=us-east-2-EC2-ipv6 address=2600:1f30:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1ff0:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1fef:6000::/40
@@ -29,9 +31,11 @@ add list=us-east-2-EC2-ipv6 address=2600:f0f0:81::/48
 add list=us-east-2-EC2-ipv6 address=2600:1ff6:6000::/40
 add list=us-east-2-EC2-ipv6 address=2606:7b40:1b00:600::/56
 add list=us-east-2-EC2-ipv6 address=2600:1f18:c000::/36
+add list=us-east-2-EC2-ipv6 address=2600:1fe9:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:f0f0:1:2000::/56
 add list=us-east-2-EC2-ipv6 address=2600:f0f0:5520::/48
 add list=us-east-2-EC2-ipv6 address=2600:1f28:c000::/36
+add list=us-east-2-EC2-ipv6 address=2600:1fba:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1f00:6000::/40
 add list=us-east-2-EC2-ipv6 address=2606:7b40:1b0f:4200::/56
 add list=us-east-2-EC2-ipv6 address=2600:1f26::/36
@@ -49,6 +53,7 @@ add list=us-east-2-EC2-ipv6 address=2600:f0f0:30::/44
 add list=us-east-2-EC2-ipv6 address=2600:1f32:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:1fff:6000::/40
 add list=us-east-2-EC2-ipv6 address=2600:f0f0:1120::/48
+add list=us-east-2-EC2-ipv6 address=2600:1f33:6000::/40
 add list=us-east-2-EC2-ipv6 address=2606:7b40:10ff:20::/59
 add list=us-east-2-EC2-ipv6 address=2600:f0fb:f020::/48
 add list=us-east-2-EC2-ipv6 address=2600:1ffd:831b::/48
