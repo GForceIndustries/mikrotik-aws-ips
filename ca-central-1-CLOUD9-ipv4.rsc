@@ -1,4 +1,4 @@
-# Generated on Fri Mar 13 05:49:00 2026 UTC
+# Generated on Sat Mar 14 05:48:11 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-CLOUD9-ipv4 address=15.222.16.96/27
 add list=ca-central-1-CLOUD9-ipv4 address=15.222.43.0/27
