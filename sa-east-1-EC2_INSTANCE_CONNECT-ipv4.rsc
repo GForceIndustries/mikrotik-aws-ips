@@ -1,3 +1,3 @@
-# Generated on Sat Mar 14 05:48:11 2026 UTC
+# Generated on Sun Mar 15 05:56:19 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-EC2_INSTANCE_CONNECT-ipv4 address=18.228.70.32/29

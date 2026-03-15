@@ -1,3 +1,3 @@
-# Generated on Sat Mar 14 05:48:11 2026 UTC
+# Generated on Sun Mar 15 05:56:19 2026 UTC
 /ipv6 firewall address-list
 add list=me-central-1-WORKSPACES_GATEWAYS-ipv6 address=2406:da27:4::/48
