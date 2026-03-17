@@ -1,4 +1,4 @@
-# Generated on Mon Mar 16 06:04:26 2026 UTC
+# Generated on Tue Mar 17 05:51:16 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-S3-ipv4 address=16.12.2.0/24
 add list=sa-east-1-S3-ipv4 address=52.95.164.0/23
@@ -8,3 +8,4 @@ add list=sa-east-1-S3-ipv4 address=3.5.232.0/22
 add list=sa-east-1-S3-ipv4 address=1.178.95.0/24
 add list=sa-east-1-S3-ipv4 address=15.228.107.0/28
 add list=sa-east-1-S3-ipv4 address=15.228.107.16/28
+add list=sa-east-1-S3-ipv4 address=3.2.80.0/24

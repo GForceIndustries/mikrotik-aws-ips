@@ -1,8 +1,9 @@
-# Generated on Mon Mar 16 06:04:26 2026 UTC
+# Generated on Tue Mar 17 05:51:16 2026 UTC
 /ip firewall address-list
 add list=il-central-1-S3-ipv4 address=16.12.12.0/23
 add list=il-central-1-S3-ipv4 address=16.12.14.0/24
 add list=il-central-1-S3-ipv4 address=3.5.56.0/22
 add list=il-central-1-S3-ipv4 address=1.178.25.0/24
+add list=il-central-1-S3-ipv4 address=3.2.95.0/24
 add list=il-central-1-S3-ipv4 address=51.17.129.160/28
 add list=il-central-1-S3-ipv4 address=51.17.129.176/28
