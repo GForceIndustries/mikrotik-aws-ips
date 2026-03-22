@@ -1,4 +1,4 @@
-# Generated on Sat Mar 21 05:47:30 2026 UTC
+# Generated on Sun Mar 22 05:49:42 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-EBS-ipv4 address=15.157.167.28/30
 add list=ca-central-1-EBS-ipv4 address=3.97.192.112/29

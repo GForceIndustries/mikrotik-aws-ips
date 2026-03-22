@@ -1,4 +1,4 @@
-# Generated on Sat Mar 21 05:47:30 2026 UTC
+# Generated on Sun Mar 22 05:49:42 2026 UTC
 /ipv6 firewall address-list
 add list=eu-central-1-IVS_REALTIME-ipv6 address=2600:f0f0:110f::/48
 add list=eu-central-1-IVS_REALTIME-ipv6 address=2600:f0f0:e18::/48

@@ -1,4 +1,4 @@
-# Generated on Sat Mar 21 05:47:30 2026 UTC
+# Generated on Sun Mar 22 05:49:42 2026 UTC
 /ip firewall address-list
 add list=ap-south-1-GLOBALACCELERATOR-ipv4 address=13.248.117.0/24
 add list=ap-south-1-GLOBALACCELERATOR-ipv4 address=13.248.105.0/24
