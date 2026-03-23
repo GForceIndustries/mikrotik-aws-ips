@@ -1,4 +1,4 @@
-# Generated on Sun Mar 22 05:49:42 2026 UTC
+# Generated on Mon Mar 23 05:58:25 2026 UTC
 /ipv6 firewall address-list
 add list=eusc-de-east-1-ROUTE53-ipv6 address=2001:3fc6:8::/47
 add list=eusc-de-east-1-ROUTE53-ipv6 address=2001:3fc6:a::/47

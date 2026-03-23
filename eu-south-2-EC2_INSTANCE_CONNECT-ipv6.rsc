@@ -1,3 +1,3 @@
-# Generated on Sun Mar 22 05:49:42 2026 UTC
+# Generated on Mon Mar 23 05:58:25 2026 UTC
 /ipv6 firewall address-list
 add list=eu-south-2-EC2_INSTANCE_CONNECT-ipv6 address=2a05:d011:cbe:f700::/56

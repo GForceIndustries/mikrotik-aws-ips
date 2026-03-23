@@ -1,4 +1,4 @@
-# Generated on Sun Mar 22 05:49:42 2026 UTC
+# Generated on Mon Mar 23 05:58:25 2026 UTC
 /ipv6 firewall address-list
 add list=me-south-1-IVS_REALTIME-ipv6 address=2600:f0f0:e06::/48
 add list=me-south-1-IVS_REALTIME-ipv6 address=2600:f0f0:552e::/48
