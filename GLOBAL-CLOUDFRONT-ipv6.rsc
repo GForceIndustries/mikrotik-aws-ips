@@ -1,4 +1,4 @@
-# Generated on Sat Mar 28 05:50:19 2026 UTC
+# Generated on Sun Mar 29 06:00:11 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:3000::/36
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:f600::/39
