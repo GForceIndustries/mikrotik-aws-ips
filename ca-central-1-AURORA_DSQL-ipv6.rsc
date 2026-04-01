@@ -1,3 +1,3 @@
-# Generated on Tue Mar 31 06:03:02 2026 UTC
+# Generated on Wed Apr  1 06:06:49 2026 UTC
 /ipv6 firewall address-list
 add list=ca-central-1-AURORA_DSQL-ipv6 address=2600:1f11:e4a:df00::/56
