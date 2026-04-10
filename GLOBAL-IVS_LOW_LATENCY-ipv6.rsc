@@ -1,3 +1,3 @@
-# Generated on Thu Apr  9 06:05:05 2026 UTC
+# Generated on Fri Apr 10 06:09:33 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-IVS_LOW_LATENCY-ipv6 address=2600:f0f0:1100::/40
