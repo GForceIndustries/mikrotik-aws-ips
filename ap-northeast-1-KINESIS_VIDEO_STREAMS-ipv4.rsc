@@ -1,4 +1,4 @@
-# Generated on Fri Apr 10 06:09:33 2026 UTC
+# Generated on Sat Apr 11 05:51:07 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-KINESIS_VIDEO_STREAMS-ipv4 address=35.72.36.140/31
 add list=ap-northeast-1-KINESIS_VIDEO_STREAMS-ipv4 address=35.72.36.142/31

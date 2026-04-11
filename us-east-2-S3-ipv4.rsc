@@ -1,5 +1,6 @@
-# Generated on Fri Apr 10 06:09:33 2026 UTC
+# Generated on Sat Apr 11 05:51:07 2026 UTC
 /ip firewall address-list
+add list=us-east-2-S3-ipv4 address=3.5.100.0/22
 add list=us-east-2-S3-ipv4 address=52.219.212.0/22
 add list=us-east-2-S3-ipv4 address=3.5.92.0/23
 add list=us-east-2-S3-ipv4 address=52.219.143.0/24
@@ -10,7 +11,9 @@ add list=us-east-2-S3-ipv4 address=3.5.128.0/22
 add list=us-east-2-S3-ipv4 address=52.219.142.0/24
 add list=us-east-2-S3-ipv4 address=52.219.96.0/20
 add list=us-east-2-S3-ipv4 address=3.5.132.0/23
+add list=us-east-2-S3-ipv4 address=3.5.104.0/22
 add list=us-east-2-S3-ipv4 address=52.219.232.0/22
+add list=us-east-2-S3-ipv4 address=3.5.108.0/22
 add list=us-east-2-S3-ipv4 address=18.34.252.0/22
 add list=us-east-2-S3-ipv4 address=16.12.64.0/22
 add list=us-east-2-S3-ipv4 address=52.219.176.0/22
