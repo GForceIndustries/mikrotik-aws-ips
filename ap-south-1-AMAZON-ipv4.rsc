@@ -1,4 +1,4 @@
-# Generated on Mon Apr 13 06:18:00 2026 UTC
+# Generated on Tue Apr 14 06:10:50 2026 UTC
 /ip firewall address-list
 add list=ap-south-1-AMAZON-ipv4 address=16.4.0.0/16
 add list=ap-south-1-AMAZON-ipv4 address=3.108.0.0/14
@@ -60,6 +60,7 @@ add list=ap-south-1-AMAZON-ipv4 address=52.144.223.128/26
 add list=ap-south-1-AMAZON-ipv4 address=15.230.1.0/24
 add list=ap-south-1-AMAZON-ipv4 address=13.232.0.0/14
 add list=ap-south-1-AMAZON-ipv4 address=52.93.116.0/24
+add list=ap-south-1-AMAZON-ipv4 address=64.73.214.0/24
 add list=ap-south-1-AMAZON-ipv4 address=99.83.76.0/22
 add list=ap-south-1-AMAZON-ipv4 address=15.220.136.0/21
 add list=ap-south-1-AMAZON-ipv4 address=52.93.126.205/32
@@ -77,6 +78,7 @@ add list=ap-south-1-AMAZON-ipv4 address=15.206.0.0/15
 add list=ap-south-1-AMAZON-ipv4 address=150.222.83.0/24
 add list=ap-south-1-AMAZON-ipv4 address=52.93.127.129/32
 add list=ap-south-1-AMAZON-ipv4 address=150.222.8.0/24
+add list=ap-south-1-AMAZON-ipv4 address=64.73.216.0/24
 add list=ap-south-1-AMAZON-ipv4 address=52.93.99.0/24
 add list=ap-south-1-AMAZON-ipv4 address=13.200.0.0/15
 add list=ap-south-1-AMAZON-ipv4 address=15.248.24.0/22
@@ -111,6 +113,7 @@ add list=ap-south-1-AMAZON-ipv4 address=52.144.228.2/31
 add list=ap-south-1-AMAZON-ipv4 address=52.93.127.130/32
 add list=ap-south-1-AMAZON-ipv4 address=64.252.98.0/24
 add list=ap-south-1-AMAZON-ipv4 address=52.95.80.0/20
+add list=ap-south-1-AMAZON-ipv4 address=64.73.215.0/24
 add list=ap-south-1-AMAZON-ipv4 address=43.249.46.0/24
 add list=ap-south-1-AMAZON-ipv4 address=15.230.194.0/24
 add list=ap-south-1-AMAZON-ipv4 address=52.95.96.0/22
