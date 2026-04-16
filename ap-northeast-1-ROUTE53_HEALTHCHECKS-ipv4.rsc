@@ -1,4 +1,4 @@
-# Generated on Wed Apr 15 06:10:53 2026 UTC
+# Generated on Thu Apr 16 06:12:20 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-ROUTE53_HEALTHCHECKS-ipv4 address=54.248.220.0/26
 add list=ap-northeast-1-ROUTE53_HEALTHCHECKS-ipv4 address=54.250.253.192/26
