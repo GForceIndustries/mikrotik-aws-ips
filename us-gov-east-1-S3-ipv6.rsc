@@ -1,8 +1,9 @@
-# Generated on Mon Apr 20 06:18:12 2026 UTC
+# Generated on Tue Apr 21 06:12:35 2026 UTC
 /ipv6 firewall address-list
 add list=us-gov-east-1-S3-ipv6 address=2600:1f60:5000::/40
 add list=us-gov-east-1-S3-ipv6 address=2600:1ff8:5000::/36
 add list=us-gov-east-1-S3-ipv6 address=2600:1fb9:5000::/40
+add list=us-gov-east-1-S3-ipv6 address=2600:f0f0:6124::/48
 add list=us-gov-east-1-S3-ipv6 address=2600:1ff9:5000::/40
 add list=us-gov-east-1-S3-ipv6 address=2600:1ff4:5000::/40
 add list=us-gov-east-1-S3-ipv6 address=2600:1fa0:5000::/40
