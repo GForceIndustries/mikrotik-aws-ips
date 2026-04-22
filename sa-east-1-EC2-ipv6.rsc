@@ -1,4 +1,4 @@
-# Generated on Tue Apr 21 06:12:35 2026 UTC
+# Generated on Wed Apr 22 06:10:56 2026 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-EC2-ipv6 address=2600:1f2e::/36
 add list=sa-east-1-EC2-ipv6 address=2600:1fea:e000::/40
