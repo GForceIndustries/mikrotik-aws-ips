@@ -1,3 +1,3 @@
-# Generated on Wed Apr 22 06:10:56 2026 UTC
+# Generated on Thu Apr 23 06:15:07 2026 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-1-EC2_INSTANCE_CONNECT-ipv6 address=2406:da18:752:6600::/56
