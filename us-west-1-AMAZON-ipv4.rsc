@@ -1,4 +1,4 @@
-# Generated on Fri Apr 24 06:17:02 2026 UTC
+# Generated on Sat Apr 25 06:04:36 2026 UTC
 /ip firewall address-list
 add list=us-west-1-AMAZON-ipv4 address=52.93.178.234/32
 add list=us-west-1-AMAZON-ipv4 address=150.222.234.54/31
@@ -295,6 +295,7 @@ add list=us-west-1-AMAZON-ipv4 address=52.93.178.199/32
 add list=us-west-1-AMAZON-ipv4 address=52.93.55.154/31
 add list=us-west-1-AMAZON-ipv4 address=54.239.102.0/25
 add list=us-west-1-AMAZON-ipv4 address=150.222.234.116/31
+add list=us-west-1-AMAZON-ipv4 address=173.83.221.0/24
 add list=us-west-1-AMAZON-ipv4 address=52.93.178.151/32
 add list=us-west-1-AMAZON-ipv4 address=150.222.234.40/31
 add list=us-west-1-AMAZON-ipv4 address=52.93.92.0/24
