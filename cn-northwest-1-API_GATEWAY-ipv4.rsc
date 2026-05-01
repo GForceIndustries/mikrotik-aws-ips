@@ -1,4 +1,4 @@
-# Generated on Thu Apr 30 06:20:47 2026 UTC
+# Generated on Fri May  1 06:28:10 2026 UTC
 /ip firewall address-list
 add list=cn-northwest-1-API_GATEWAY-ipv4 address=161.189.148.0/23
 add list=cn-northwest-1-API_GATEWAY-ipv4 address=52.82.127.0/24

@@ -1,4 +1,4 @@
-# Generated on Thu Apr 30 06:20:47 2026 UTC
+# Generated on Fri May  1 06:28:10 2026 UTC
 /ipv6 firewall address-list
 add list=us-west-2-WORKSPACES_GATEWAYS-ipv6 address=2600:1f32:4000::/39
 add list=us-west-2-WORKSPACES_GATEWAYS-ipv6 address=2600:1f24:34::/48
