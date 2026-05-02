@@ -1,4 +1,4 @@
-# Generated on Fri May  1 06:28:10 2026 UTC
+# Generated on Sat May  2 06:16:54 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-S3-ipv6 address=2600:9000:a310::/48
 add list=GLOBAL-S3-ipv6 address=2600:9000:a211::/48
