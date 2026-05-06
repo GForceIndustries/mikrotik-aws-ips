@@ -1,4 +1,4 @@
-# Generated on Tue May  5 06:18:08 2026 UTC
+# Generated on Wed May  6 06:21:49 2026 UTC
 /ip firewall address-list
 add list=us-east-1-AMAZON-ipv4 address=15.230.221.0/24
 add list=us-east-1-AMAZON-ipv4 address=69.107.10.200/29
@@ -196,6 +196,7 @@ add list=us-east-1-AMAZON-ipv4 address=52.46.168.0/23
 add list=us-east-1-AMAZON-ipv4 address=52.93.91.115/32
 add list=us-east-1-AMAZON-ipv4 address=64.252.64.0/24
 add list=us-east-1-AMAZON-ipv4 address=3.4.1.0/24
+add list=us-east-1-AMAZON-ipv4 address=15.129.57.0/24
 add list=us-east-1-AMAZON-ipv4 address=15.220.184.0/21
 add list=us-east-1-AMAZON-ipv4 address=32.192.0.0/13
 add list=us-east-1-AMAZON-ipv4 address=72.21.192.0/19
@@ -316,6 +317,7 @@ add list=us-east-1-AMAZON-ipv4 address=198.41.98.0/24
 add list=us-east-1-AMAZON-ipv4 address=35.96.253.0/24
 add list=us-east-1-AMAZON-ipv4 address=63.246.119.0/24
 add list=us-east-1-AMAZON-ipv4 address=155.146.208.0/20
+add list=us-east-1-AMAZON-ipv4 address=15.129.58.0/23
 add list=us-east-1-AMAZON-ipv4 address=50.19.0.0/16
 add list=us-east-1-AMAZON-ipv4 address=150.222.73.0/24
 add list=us-east-1-AMAZON-ipv4 address=69.107.12.152/29
@@ -628,6 +630,7 @@ add list=us-east-1-AMAZON-ipv4 address=52.93.4.0/24
 add list=us-east-1-AMAZON-ipv4 address=52.93.59.0/24
 add list=us-east-1-AMAZON-ipv4 address=54.224.0.0/15
 add list=us-east-1-AMAZON-ipv4 address=69.107.10.184/29
+add list=us-east-1-AMAZON-ipv4 address=15.201.1.0/24
 add list=us-east-1-AMAZON-ipv4 address=15.220.234.0/23
 add list=us-east-1-AMAZON-ipv4 address=52.93.37.0/24
 add list=us-east-1-AMAZON-ipv4 address=99.82.165.0/24
@@ -787,6 +790,7 @@ add list=us-east-1-AMAZON-ipv4 address=3.239.232.0/24
 add list=us-east-1-AMAZON-ipv4 address=3.83.168.0/22
 add list=us-east-1-AMAZON-ipv4 address=3.91.171.128/25
 add list=us-east-1-AMAZON-ipv4 address=32.194.144.0/23
+add list=us-east-1-AMAZON-ipv4 address=32.197.52.0/23
 add list=us-east-1-AMAZON-ipv4 address=44.199.180.0/23
 add list=us-east-1-AMAZON-ipv4 address=44.199.222.128/26
 add list=us-east-1-AMAZON-ipv4 address=44.202.79.128/25

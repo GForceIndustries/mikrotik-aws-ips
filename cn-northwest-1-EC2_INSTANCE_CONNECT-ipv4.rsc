@@ -1,3 +1,3 @@
-# Generated on Tue May  5 06:18:08 2026 UTC
+# Generated on Wed May  6 06:21:49 2026 UTC
 /ip firewall address-list
 add list=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv4 address=43.192.155.8/29
