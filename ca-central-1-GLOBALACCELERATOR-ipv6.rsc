@@ -1,3 +1,3 @@
-# Generated on Thu May  7 06:25:53 2026 UTC
+# Generated on Fri May  8 06:09:53 2026 UTC
 /ipv6 firewall address-list
 add list=ca-central-1-GLOBALACCELERATOR-ipv6 address=2600:1f01:48c0::/47
