@@ -1,4 +1,4 @@
-# Generated on Mon May 11 06:46:43 2026 UTC
+# Generated on Tue May 12 06:28:02 2026 UTC
 /ip firewall address-list
 add list=eu-south-2-KINESIS_VIDEO_STREAMS-ipv4 address=18.101.90.56/31
 add list=eu-south-2-KINESIS_VIDEO_STREAMS-ipv4 address=18.101.90.58/31

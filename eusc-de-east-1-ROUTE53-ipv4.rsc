@@ -1,4 +1,4 @@
-# Generated on Mon May 11 06:46:43 2026 UTC
+# Generated on Tue May 12 06:28:02 2026 UTC
 /ip firewall address-list
 add list=eusc-de-east-1-ROUTE53-ipv4 address=51.0.140.0/23
 add list=eusc-de-east-1-ROUTE53-ipv4 address=51.0.142.0/23
