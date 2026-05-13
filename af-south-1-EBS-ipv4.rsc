@@ -1,4 +1,4 @@
-# Generated on Tue May 12 06:28:02 2026 UTC
+# Generated on Wed May 13 06:36:03 2026 UTC
 /ip firewall address-list
 add list=af-south-1-EBS-ipv4 address=13.245.93.140/30
 add list=af-south-1-EBS-ipv4 address=13.245.93.160/29
