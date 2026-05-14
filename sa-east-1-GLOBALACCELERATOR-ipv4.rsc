@@ -1,4 +1,4 @@
-# Generated on Wed May 13 06:36:03 2026 UTC
+# Generated on Thu May 14 06:35:05 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-GLOBALACCELERATOR-ipv4 address=3.2.49.0/24
 add list=sa-east-1-GLOBALACCELERATOR-ipv4 address=99.82.164.0/24

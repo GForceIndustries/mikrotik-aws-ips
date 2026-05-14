@@ -1,4 +1,4 @@
-# Generated on Wed May 13 06:36:03 2026 UTC
+# Generated on Thu May 14 06:35:05 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-CLOUD9-ipv4 address=18.230.46.0/27
 add list=sa-east-1-CLOUD9-ipv4 address=18.230.46.32/27
