@@ -1,4 +1,4 @@
-# Generated on Fri May 15 06:41:02 2026 UTC
+# Generated on Sat May 16 06:19:02 2026 UTC
 /ip firewall address-list
 add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=161.189.23.0/27
 add list=cn-northwest-1-ROUTE53_RESOLVER-ipv4 address=161.189.23.32/27

@@ -1,4 +1,4 @@
-# Generated on Fri May 15 06:41:02 2026 UTC
+# Generated on Sat May 16 06:19:02 2026 UTC
 /ip firewall address-list
 add list=me-central-1-EC2-ipv4 address=40.172.0.0/16
 add list=me-central-1-EC2-ipv4 address=35.71.104.0/24
