@@ -1,3 +1,3 @@
 # Generated on Sun May 17 06:34:07 2026 UTC
 /ip firewall address-list
-add list=mx-central-1-EC2_INSTANCE_CONNECT-ipv4 address=78.12.207.8/29
+add list=us-south-1-DYNAMODB-ipv4 address=13.248.82.0/24

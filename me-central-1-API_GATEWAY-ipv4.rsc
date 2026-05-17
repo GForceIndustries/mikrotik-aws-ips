@@ -1,4 +1,4 @@
-# Generated on Sat May 16 06:19:02 2026 UTC
+# Generated on Sun May 17 06:34:07 2026 UTC
 /ip firewall address-list
 add list=me-central-1-API_GATEWAY-ipv4 address=3.28.64.0/24
 add list=me-central-1-API_GATEWAY-ipv4 address=3.29.89.0/24
