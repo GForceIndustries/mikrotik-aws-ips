@@ -1,4 +1,4 @@
-# Generated on Sun May 17 06:34:07 2026 UTC
+# Generated on Mon May 18 06:49:55 2026 UTC
 /ipv6 firewall address-list
 add list=ca-central-1-WORKSPACES_GATEWAYS-ipv6 address=2600:1f32:1000::/40
 add list=ca-central-1-WORKSPACES_GATEWAYS-ipv6 address=2600:1f21:8::/48
