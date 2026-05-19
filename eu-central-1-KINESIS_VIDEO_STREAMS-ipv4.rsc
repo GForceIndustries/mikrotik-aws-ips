@@ -1,4 +1,4 @@
-# Generated on Mon May 18 06:49:55 2026 UTC
+# Generated on Tue May 19 06:48:40 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-KINESIS_VIDEO_STREAMS-ipv4 address=18.153.184.142/31
 add list=eu-central-1-KINESIS_VIDEO_STREAMS-ipv4 address=18.153.184.148/30
