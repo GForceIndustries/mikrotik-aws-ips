@@ -1,4 +1,4 @@
-# Generated on Tue May 19 06:48:40 2026 UTC
+# Generated on Wed May 20 06:48:52 2026 UTC
 /ip firewall address-list
 add list=cn-north-1-S3-ipv4 address=54.222.100.0/22
 add list=cn-north-1-S3-ipv4 address=54.222.52.0/22
