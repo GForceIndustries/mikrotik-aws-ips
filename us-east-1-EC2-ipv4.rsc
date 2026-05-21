@@ -1,4 +1,4 @@
-# Generated on Wed May 20 06:48:52 2026 UTC
+# Generated on Thu May 21 06:49:29 2026 UTC
 /ip firewall address-list
 add list=us-east-1-EC2-ipv4 address=15.181.232.0/21
 add list=us-east-1-EC2-ipv4 address=216.244.7.0/24
@@ -34,7 +34,6 @@ add list=us-east-1-EC2-ipv4 address=155.146.176.0/20
 add list=us-east-1-EC2-ipv4 address=16.15.172.0/22
 add list=us-east-1-EC2-ipv4 address=54.25.15.0/24
 add list=us-east-1-EC2-ipv4 address=64.73.197.0/24
-add list=us-east-1-EC2-ipv4 address=64.73.199.0/24
 add list=us-east-1-EC2-ipv4 address=54.144.0.0/14
 add list=us-east-1-EC2-ipv4 address=35.50.139.0/24
 add list=us-east-1-EC2-ipv4 address=75.101.128.0/17
@@ -52,7 +51,6 @@ add list=us-east-1-EC2-ipv4 address=64.187.128.0/20
 add list=us-east-1-EC2-ipv4 address=64.252.125.0/24
 add list=us-east-1-EC2-ipv4 address=3.224.0.0/12
 add list=us-east-1-EC2-ipv4 address=54.221.0.0/16
-add list=us-east-1-EC2-ipv4 address=64.73.200.0/24
 add list=us-east-1-EC2-ipv4 address=15.193.128.0/22
 add list=us-east-1-EC2-ipv4 address=15.181.112.0/22
 add list=us-east-1-EC2-ipv4 address=68.66.112.0/20
@@ -93,10 +91,8 @@ add list=us-east-1-EC2-ipv4 address=139.56.20.0/23
 add list=us-east-1-EC2-ipv4 address=15.220.176.0/21
 add list=us-east-1-EC2-ipv4 address=52.0.0.0/15
 add list=us-east-1-EC2-ipv4 address=208.110.48.0/20
-add list=us-east-1-EC2-ipv4 address=64.73.195.0/24
 add list=us-east-1-EC2-ipv4 address=151.148.36.0/24
 add list=us-east-1-EC2-ipv4 address=52.54.0.0/15
-add list=us-east-1-EC2-ipv4 address=64.73.198.0/24
 add list=us-east-1-EC2-ipv4 address=16.56.64.0/18
 add list=us-east-1-EC2-ipv4 address=136.18.160.0/23
 add list=us-east-1-EC2-ipv4 address=173.83.222.0/24
@@ -223,6 +219,7 @@ add list=us-east-1-EC2-ipv4 address=136.18.254.0/23
 add list=us-east-1-EC2-ipv4 address=54.204.0.0/15
 add list=us-east-1-EC2-ipv4 address=35.55.32.0/24
 add list=us-east-1-EC2-ipv4 address=54.196.0.0/15
+add list=us-east-1-EC2-ipv4 address=184.192.0.0/12
 add list=us-east-1-EC2-ipv4 address=54.26.166.0/24
 add list=us-east-1-EC2-ipv4 address=155.146.32.0/20
 add list=us-east-1-EC2-ipv4 address=15.220.220.0/23
@@ -291,7 +288,6 @@ add list=us-east-1-EC2-ipv4 address=15.181.243.0/24
 add list=us-east-1-EC2-ipv4 address=31.220.220.0/22
 add list=us-east-1-EC2-ipv4 address=96.0.92.0/23
 add list=us-east-1-EC2-ipv4 address=1.178.5.0/24
-add list=us-east-1-EC2-ipv4 address=64.73.201.0/24
 add list=us-east-1-EC2-ipv4 address=161.188.64.0/20
 add list=us-east-1-EC2-ipv4 address=3.3.2.0/24
 add list=us-east-1-EC2-ipv4 address=16.214.0.0/22
