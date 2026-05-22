@@ -1,4 +1,4 @@
-# Generated on Thu May 21 06:49:29 2026 UTC
+# Generated on Fri May 22 06:48:56 2026 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-1-WORKSPACES_GATEWAYS-ipv6 address=2406:da32:8000::/40
 add list=ap-southeast-1-WORKSPACES_GATEWAYS-ipv6 address=2406:da28:28::/48

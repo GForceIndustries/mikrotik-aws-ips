@@ -1,3 +1,3 @@
-# Generated on Thu May 21 06:49:29 2026 UTC
+# Generated on Fri May 22 06:48:56 2026 UTC
 /ip firewall address-list
 add list=eu-central-2-ROUTE53_HEALTHCHECKS_PUBLISHING-ipv4 address=15.177.98.0/24
