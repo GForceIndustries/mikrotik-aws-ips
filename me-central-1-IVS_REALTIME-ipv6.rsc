@@ -1,4 +1,4 @@
-# Generated on Fri May 22 06:48:56 2026 UTC
+# Generated on Sat May 23 06:25:10 2026 UTC
 /ipv6 firewall address-list
 add list=me-central-1-IVS_REALTIME-ipv6 address=2600:f0f0:5530::/48
 add list=me-central-1-IVS_REALTIME-ipv6 address=2600:f0f0:5531::/48

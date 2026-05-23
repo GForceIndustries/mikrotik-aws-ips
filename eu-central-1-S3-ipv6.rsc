@@ -1,4 +1,4 @@
-# Generated on Fri May 22 06:48:56 2026 UTC
+# Generated on Sat May 23 06:25:10 2026 UTC
 /ipv6 firewall address-list
 add list=eu-central-1-S3-ipv6 address=2a05:d070:b000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d070:4000::/40
@@ -8,6 +8,7 @@ add list=eu-central-1-S3-ipv6 address=2a05:d079:b000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d074:b000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d06f:4000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d030:4000::/40
+add list=eu-central-1-S3-ipv6 address=2a05:d031:b000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d078:b000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d079:4000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d030:b000::/40
@@ -18,6 +19,7 @@ add list=eu-central-1-S3-ipv6 address=2a05:d078:4000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d050:b000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d050:4000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d06f:b000::/40
+add list=eu-central-1-S3-ipv6 address=2a05:d031:4000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d059:b000::/40
 add list=eu-central-1-S3-ipv6 address=2a05:d074:4000::/40
 add list=eu-central-1-S3-ipv6 address=2600:f0f0:6106::/48

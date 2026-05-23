@@ -1,10 +1,11 @@
-# Generated on Fri May 22 06:48:56 2026 UTC
+# Generated on Sat May 23 06:25:10 2026 UTC
 /ipv6 firewall address-list
 add list=us-west-1-S3-ipv6 address=2600:1ff8:c000::/40
 add list=us-west-1-S3-ipv6 address=2600:1fb9:c000::/40
 add list=us-west-1-S3-ipv6 address=2600:1ff9:c000::/40
 add list=us-west-1-S3-ipv6 address=2600:1fef:c000::/40
 add list=us-west-1-S3-ipv6 address=2600:1ffa:c000::/40
+add list=us-west-1-S3-ipv6 address=2600:1f61:c000::/40
 add list=us-west-1-S3-ipv6 address=2600:1ff4:c000::/40
 add list=us-west-1-S3-ipv6 address=2600:1fa0:c000::/40
 add list=us-west-1-S3-ipv6 address=2600:1ff0:c000::/40
