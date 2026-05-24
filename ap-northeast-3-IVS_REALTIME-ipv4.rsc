@@ -1,4 +1,4 @@
-# Generated on Sat May 23 06:25:10 2026 UTC
+# Generated on Sun May 24 06:44:17 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-3-IVS_REALTIME-ipv4 address=35.50.229.0/24
 add list=ap-northeast-3-IVS_REALTIME-ipv4 address=35.50.228.0/24

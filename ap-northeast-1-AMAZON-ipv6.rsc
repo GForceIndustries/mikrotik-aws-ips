@@ -1,4 +1,4 @@
-# Generated on Sat May 23 06:25:10 2026 UTC
+# Generated on Sun May 24 06:44:17 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-1-AMAZON-ipv6 address=2600:f0f0:5536::/48
 add list=ap-northeast-1-AMAZON-ipv6 address=2600:9000:5207::/48

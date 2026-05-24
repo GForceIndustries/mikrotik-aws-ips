@@ -1,4 +1,4 @@
-# Generated on Sat May 23 06:25:10 2026 UTC
+# Generated on Sun May 24 06:44:17 2026 UTC
 /ip firewall address-list
 add list=af-south-1-CLOUD9-ipv4 address=13.245.155.128/27
 add list=af-south-1-CLOUD9-ipv4 address=13.245.155.224/27
