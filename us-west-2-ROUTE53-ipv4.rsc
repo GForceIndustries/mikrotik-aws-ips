@@ -1,4 +1,4 @@
-# Generated on Sun May 24 06:44:17 2026 UTC
+# Generated on Mon May 25 06:56:28 2026 UTC
 /ip firewall address-list
 add list=us-west-2-ROUTE53-ipv4 address=34.217.143.0/24
 add list=us-west-2-ROUTE53-ipv4 address=34.217.142.0/24
