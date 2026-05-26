@@ -1,4 +1,4 @@
-# Generated on Mon May 25 06:56:28 2026 UTC
+# Generated on Tue May 26 06:48:24 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-AMAZON_CONNECT-ipv4 address=15.193.4.0/24
 add list=eu-central-1-AMAZON_CONNECT-ipv4 address=18.184.2.128/25

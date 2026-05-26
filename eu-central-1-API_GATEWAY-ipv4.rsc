@@ -1,4 +1,4 @@
-# Generated on Mon May 25 06:56:28 2026 UTC
+# Generated on Tue May 26 06:48:24 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-API_GATEWAY-ipv4 address=18.153.168.0/23
 add list=eu-central-1-API_GATEWAY-ipv4 address=3.123.14.0/24
