@@ -1,4 +1,4 @@
-# Generated on Tue May 26 06:48:24 2026 UTC
+# Generated on Wed May 27 06:51:13 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-GLOBALACCELERATOR-ipv4 address=3.2.53.0/24
 add list=eu-central-1-GLOBALACCELERATOR-ipv4 address=13.248.97.0/24
