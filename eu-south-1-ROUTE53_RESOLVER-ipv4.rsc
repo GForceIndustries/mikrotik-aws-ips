@@ -1,4 +1,4 @@
-# Generated on Thu May 28 06:49:37 2026 UTC
+# Generated on Fri May 29 06:49:41 2026 UTC
 /ip firewall address-list
 add list=eu-south-1-ROUTE53_RESOLVER-ipv4 address=15.161.247.128/27
 add list=eu-south-1-ROUTE53_RESOLVER-ipv4 address=15.161.247.64/27

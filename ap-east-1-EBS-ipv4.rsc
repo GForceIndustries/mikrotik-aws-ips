@@ -1,4 +1,4 @@
-# Generated on Thu May 28 06:49:37 2026 UTC
+# Generated on Fri May 29 06:49:41 2026 UTC
 /ip firewall address-list
 add list=ap-east-1-EBS-ipv4 address=18.167.88.72/29
 add list=ap-east-1-EBS-ipv4 address=18.167.88.80/30
