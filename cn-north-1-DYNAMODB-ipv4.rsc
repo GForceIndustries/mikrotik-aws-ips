@@ -1,4 +1,4 @@
-# Generated on Fri May 29 06:49:41 2026 UTC
+# Generated on Sat May 30 06:34:22 2026 UTC
 /ip firewall address-list
 add list=cn-north-1-DYNAMODB-ipv4 address=54.222.64.0/24
 add list=cn-north-1-DYNAMODB-ipv4 address=54.222.57.0/24

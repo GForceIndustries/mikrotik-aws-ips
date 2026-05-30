@@ -1,3 +1,3 @@
-# Generated on Fri May 29 06:49:41 2026 UTC
+# Generated on Sat May 30 06:34:22 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-3-AURORA_DSQL-ipv6 address=2406:da16:c46:6600::/56
