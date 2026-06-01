@@ -1,3 +1,3 @@
-# Generated on Sun May 31 06:50:18 2026 UTC
+# Generated on Mon Jun  1 07:15:48 2026 UTC
 /ip firewall address-list
 add list=GLOBAL-AMAZON_CONNECT-ipv4 address=15.193.0.0/19
