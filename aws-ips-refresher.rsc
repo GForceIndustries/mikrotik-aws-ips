@@ -1,4 +1,4 @@
-# Generated on Mon Jun  1 07:15:48 2026 UTC
+# Generated on Tue Jun  2 07:05:38 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -458,6 +458,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-EC2_INSTANCE_CONNECT-ipv4.rsc\" mode=https dst-path=ap-southeast-3-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-EC2_INSTANCE_CONNECT-ipv4.rsc\" mode=https dst-path=ap-southeast-4-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-EC2_INSTANCE_CONNECT-ipv4.rsc\" mode=https dst-path=ap-southeast-5-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-EC2_INSTANCE_CONNECT-ipv4.rsc\" mode=https dst-path=ap-southeast-6-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-EC2_INSTANCE_CONNECT-ipv4.rsc\" mode=https dst-path=ap-southeast-7-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-EC2_INSTANCE_CONNECT-ipv4.rsc\" mode=https dst-path=ca-central-1-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-EC2_INSTANCE_CONNECT-ipv4.rsc\" mode=https dst-path=ca-west-1-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
@@ -861,6 +862,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=ap-southeast-3-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=ap-southeast-4-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=ap-southeast-5-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=ap-southeast-6-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=ap-southeast-7-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=ca-central-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-EC2_INSTANCE_CONNECT-ipv6.rsc\" mode=https dst-path=ca-west-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
@@ -1361,6 +1363,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-southeast-3-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-4-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-5-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-6-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-7-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/import file-name=ca-central-1-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
     \n/import file-name=ca-west-1-EC2_INSTANCE_CONNECT-ipv4.rsc;\r\
@@ -1764,6 +1767,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-southeast-3-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-4-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-5-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
+    \n/import file-name=ap-southeast-6-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-7-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ca-central-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
     \n/import file-name=ca-west-1-EC2_INSTANCE_CONNECT-ipv6.rsc;\r\
