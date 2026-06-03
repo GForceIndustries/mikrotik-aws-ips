@@ -1,4 +1,4 @@
-# Generated on Tue Jun  2 07:05:38 2026 UTC
+# Generated on Wed Jun  3 07:11:39 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-AMAZON-ipv4 address=69.107.12.24/29
 add list=ap-northeast-1-AMAZON-ipv4 address=15.221.34.0/24
@@ -125,6 +125,7 @@ add list=ap-northeast-1-AMAZON-ipv4 address=52.93.127.175/32
 add list=ap-northeast-1-AMAZON-ipv4 address=15.230.59.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=18.180.0.0/15
 add list=ap-northeast-1-AMAZON-ipv4 address=3.2.66.0/24
+add list=ap-northeast-1-AMAZON-ipv4 address=15.129.98.0/23
 add list=ap-northeast-1-AMAZON-ipv4 address=176.32.64.0/19
 add list=ap-northeast-1-AMAZON-ipv4 address=15.230.99.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=52.93.127.255/32

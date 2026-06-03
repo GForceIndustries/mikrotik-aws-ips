@@ -1,4 +1,4 @@
-# Generated on Tue Jun  2 07:05:38 2026 UTC
+# Generated on Wed Jun  3 07:11:39 2026 UTC
 /ip firewall address-list
 add list=cn-northwest-1-S3-ipv4 address=52.82.184.0/23
 add list=cn-northwest-1-S3-ipv4 address=43.194.16.0/24

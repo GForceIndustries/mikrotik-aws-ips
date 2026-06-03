@@ -1,4 +1,4 @@
-# Generated on Tue Jun  2 07:05:38 2026 UTC
+# Generated on Wed Jun  3 07:11:39 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -207,9 +207,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-north-1-EC2-ipv4.rsc\" mode=https dst-path=eu-north-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-EC2-ipv4.rsc\" mode=https dst-path=ap-southeast-4-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-south-1-EC2-ipv4.rsc\" mode=https dst-path=us-south-1-EC2-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-EC2-ipv4.rsc\" mode=https dst-path=ca-central-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-EC2-ipv4.rsc\" mode=https dst-path=ap-south-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-EC2-ipv4.rsc\" mode=https dst-path=eusc-de-east-1-EC2-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-EC2-ipv4.rsc\" mode=https dst-path=ca-central-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-ROUTE53-ipv4.rsc\" mode=https dst-path=GLOBAL-ROUTE53-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-ROUTE53-ipv4.rsc\" mode=https dst-path=us-gov-west-1-ROUTE53-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-ROUTE53-ipv4.rsc\" mode=https dst-path=us-west-2-ROUTE53-ipv4.rsc;\r\
@@ -1112,9 +1112,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-north-1-EC2-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-4-EC2-ipv4.rsc;\r\
     \n/import file-name=us-south-1-EC2-ipv4.rsc;\r\
+    \n/import file-name=ca-central-1-EC2-ipv4.rsc;\r\
     \n/import file-name=ap-south-2-EC2-ipv4.rsc;\r\
     \n/import file-name=eusc-de-east-1-EC2-ipv4.rsc;\r\
-    \n/import file-name=ca-central-1-EC2-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-ROUTE53-ipv4.rsc;\r\
     \n/import file-name=us-gov-west-1-ROUTE53-ipv4.rsc;\r\
     \n/import file-name=us-west-2-ROUTE53-ipv4.rsc;\r\

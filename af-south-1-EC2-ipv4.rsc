@@ -1,4 +1,4 @@
-# Generated on Tue Jun  2 07:05:38 2026 UTC
+# Generated on Wed Jun  3 07:11:39 2026 UTC
 /ip firewall address-list
 add list=af-south-1-EC2-ipv4 address=15.103.0.0/16
 add list=af-south-1-EC2-ipv4 address=18.99.144.0/20
