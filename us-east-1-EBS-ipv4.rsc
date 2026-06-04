@@ -1,4 +1,4 @@
-# Generated on Wed Jun  3 07:11:39 2026 UTC
+# Generated on Thu Jun  4 07:03:57 2026 UTC
 /ip firewall address-list
 add list=us-east-1-EBS-ipv4 address=32.192.104.4/30
 add list=us-east-1-EBS-ipv4 address=44.192.140.112/28

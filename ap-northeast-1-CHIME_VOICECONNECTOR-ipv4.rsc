@@ -1,3 +1,3 @@
-# Generated on Wed Jun  3 07:11:39 2026 UTC
+# Generated on Thu Jun  4 07:03:57 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-CHIME_VOICECONNECTOR-ipv4 address=99.77.244.0/24
