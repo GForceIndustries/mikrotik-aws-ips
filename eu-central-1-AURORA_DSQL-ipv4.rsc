@@ -1,3 +1,3 @@
-# Generated on Thu Jun  4 07:03:57 2026 UTC
+# Generated on Fri Jun  5 06:53:50 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-AURORA_DSQL-ipv4 address=18.96.39.128/25

@@ -1,4 +1,4 @@
-# Generated on Thu Jun  4 07:03:57 2026 UTC
+# Generated on Fri Jun  5 06:53:50 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-EC2-ipv4 address=15.129.72.0/23
 add list=ca-central-1-EC2-ipv4 address=15.222.0.0/15
