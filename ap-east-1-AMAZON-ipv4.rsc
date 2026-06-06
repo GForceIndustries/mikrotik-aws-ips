@@ -1,4 +1,4 @@
-# Generated on Fri Jun  5 06:53:50 2026 UTC
+# Generated on Sat Jun  6 06:39:30 2026 UTC
 /ip firewall address-list
 add list=ap-east-1-AMAZON-ipv4 address=216.244.32.0/22
 add list=ap-east-1-AMAZON-ipv4 address=18.99.176.0/20
@@ -17,6 +17,8 @@ add list=ap-east-1-AMAZON-ipv4 address=15.129.62.0/23
 add list=ap-east-1-AMAZON-ipv4 address=43.249.47.0/24
 add list=ap-east-1-AMAZON-ipv4 address=52.119.248.0/24
 add list=ap-east-1-AMAZON-ipv4 address=216.244.6.0/24
+add list=ap-east-1-AMAZON-ipv4 address=3.4.12.67/32
+add list=ap-east-1-AMAZON-ipv4 address=3.4.15.224/29
 add list=ap-east-1-AMAZON-ipv4 address=150.222.47.192/26
 add list=ap-east-1-AMAZON-ipv4 address=52.144.225.0/26
 add list=ap-east-1-AMAZON-ipv4 address=15.177.86.0/24
@@ -27,8 +29,10 @@ add list=ap-east-1-AMAZON-ipv4 address=3.5.214.0/23
 add list=ap-east-1-AMAZON-ipv4 address=18.163.0.0/16
 add list=ap-east-1-AMAZON-ipv4 address=52.95.162.0/24
 add list=ap-east-1-AMAZON-ipv4 address=16.106.0.0/16
+add list=ap-east-1-AMAZON-ipv4 address=3.4.15.232/29
 add list=ap-east-1-AMAZON-ipv4 address=99.77.142.0/24
 add list=ap-east-1-AMAZON-ipv4 address=99.77.241.0/24
+add list=ap-east-1-AMAZON-ipv4 address=3.4.12.69/32
 add list=ap-east-1-AMAZON-ipv4 address=54.239.1.80/28
 add list=ap-east-1-AMAZON-ipv4 address=69.107.12.72/29
 add list=ap-east-1-AMAZON-ipv4 address=159.248.133.0/24
@@ -36,6 +40,7 @@ add list=ap-east-1-AMAZON-ipv4 address=16.12.8.0/24
 add list=ap-east-1-AMAZON-ipv4 address=54.240.241.0/24
 add list=ap-east-1-AMAZON-ipv4 address=54.46.0.0/17
 add list=ap-east-1-AMAZON-ipv4 address=76.162.0.0/15
+add list=ap-east-1-AMAZON-ipv4 address=3.4.12.68/32
 add list=ap-east-1-AMAZON-ipv4 address=52.93.156.0/22
 add list=ap-east-1-AMAZON-ipv4 address=150.222.48.0/26
 add list=ap-east-1-AMAZON-ipv4 address=69.107.12.64/29
@@ -55,6 +60,7 @@ add list=ap-east-1-AMAZON-ipv4 address=18.162.0.0/16
 add list=ap-east-1-AMAZON-ipv4 address=99.83.96.0/24
 add list=ap-east-1-AMAZON-ipv4 address=15.230.74.64/26
 add list=ap-east-1-AMAZON-ipv4 address=95.40.0.0/15
+add list=ap-east-1-AMAZON-ipv4 address=3.4.12.70/32
 add list=ap-east-1-AMAZON-ipv4 address=15.177.85.0/24
 add list=ap-east-1-AMAZON-ipv4 address=151.148.19.0/24
 add list=ap-east-1-AMAZON-ipv4 address=16.162.0.0/15
