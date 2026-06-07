@@ -1,4 +1,4 @@
-# Generated on Sat Jun  6 06:39:30 2026 UTC
+# Generated on Sun Jun  7 06:52:56 2026 UTC
 /ip firewall address-list
 add list=me-west-1-EC2-ipv4 address=51.168.0.0/15
 add list=me-west-1-EC2-ipv4 address=52.94.250.160/28

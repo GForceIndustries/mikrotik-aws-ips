@@ -1,4 +1,4 @@
-# Generated on Sat Jun  6 06:39:30 2026 UTC
+# Generated on Sun Jun  7 06:52:56 2026 UTC
 /ip firewall address-list
 add list=eu-west-1-ROUTE53_HEALTHCHECKS-ipv4 address=176.34.159.192/26
 add list=eu-west-1-ROUTE53_HEALTHCHECKS-ipv4 address=54.228.16.0/26

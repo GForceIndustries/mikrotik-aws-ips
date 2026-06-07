@@ -1,3 +1,3 @@
-# Generated on Sat Jun  6 06:39:30 2026 UTC
+# Generated on Sun Jun  7 06:52:56 2026 UTC
 /ip firewall address-list
 add list=me-south-1-GLOBALACCELERATOR-ipv4 address=3.2.56.0/24
