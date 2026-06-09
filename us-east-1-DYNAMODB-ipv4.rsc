@@ -1,4 +1,4 @@
-# Generated on Mon Jun  8 07:08:38 2026 UTC
+# Generated on Tue Jun  9 06:48:53 2026 UTC
 /ip firewall address-list
 add list=us-east-1-DYNAMODB-ipv4 address=3.218.180.0/22
 add list=us-east-1-DYNAMODB-ipv4 address=52.119.232.0/21
