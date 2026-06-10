@@ -1,4 +1,4 @@
-# Generated on Tue Jun  9 06:48:53 2026 UTC
+# Generated on Wed Jun 10 06:53:10 2026 UTC
 /ip firewall address-list
 add list=eu-south-1-EBS-ipv4 address=18.102.189.204/31
 add list=eu-south-1-EBS-ipv4 address=18.102.189.208/30
