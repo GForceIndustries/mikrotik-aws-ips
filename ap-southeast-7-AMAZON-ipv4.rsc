@@ -1,4 +1,4 @@
-# Generated on Wed Jun 10 06:53:10 2026 UTC
+# Generated on Thu Jun 11 07:09:12 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-7-AMAZON-ipv4 address=65.178.0.0/15
 add list=ap-southeast-7-AMAZON-ipv4 address=3.5.60.0/22

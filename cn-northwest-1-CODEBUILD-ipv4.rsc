@@ -1,4 +1,4 @@
-# Generated on Wed Jun 10 06:53:10 2026 UTC
+# Generated on Thu Jun 11 07:09:12 2026 UTC
 /ip firewall address-list
 add list=cn-northwest-1-CODEBUILD-ipv4 address=52.82.1.0/29
 add list=cn-northwest-1-CODEBUILD-ipv4 address=69.234.197.72/29
