@@ -1,4 +1,4 @@
-# Generated on Thu Jun 11 07:09:12 2026 UTC
+# Generated on Fri Jun 12 07:03:49 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -755,7 +755,10 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=ca-central-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-2-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=eu-west-2-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=cn-northwest-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=ap-northeast-3-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=ap-southeast-5-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=ca-west-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-2-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=eu-central-2-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=eu-south-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-2-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=eu-south-2-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-central-1-WORKSPACES_GATEWAYS-ipv6.rsc\" mode=https dst-path=me-central-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
@@ -1660,7 +1663,10 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ca-central-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=eu-west-2-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=cn-northwest-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
+    \n/import file-name=ap-northeast-3-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-5-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
+    \n/import file-name=ca-west-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
+    \n/import file-name=eu-central-2-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=eu-south-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=eu-south-2-WORKSPACES_GATEWAYS-ipv6.rsc;\r\
     \n/import file-name=me-central-1-WORKSPACES_GATEWAYS-ipv6.rsc;\r\

@@ -1,4 +1,4 @@
-# Generated on Thu Jun 11 07:09:12 2026 UTC
+# Generated on Fri Jun 12 07:03:49 2026 UTC
 /ip firewall address-list
 add list=us-east-2-API_GATEWAY-ipv4 address=3.12.216.0/22
 add list=us-east-2-API_GATEWAY-ipv4 address=3.144.141.192/26
