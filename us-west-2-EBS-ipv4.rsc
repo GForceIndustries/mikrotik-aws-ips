@@ -1,4 +1,4 @@
-# Generated on Fri Jun 12 07:03:49 2026 UTC
+# Generated on Sat Jun 13 06:50:12 2026 UTC
 /ip firewall address-list
 add list=us-west-2-EBS-ipv4 address=18.246.224.18/32
 add list=us-west-2-EBS-ipv4 address=18.246.224.24/29
