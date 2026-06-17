@@ -1,4 +1,4 @@
-# Generated on Tue Jun 16 07:20:21 2026 UTC
+# Generated on Wed Jun 17 07:17:53 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-AMAZON-ipv4 address=69.107.12.24/29
 add list=ap-northeast-1-AMAZON-ipv4 address=15.221.34.0/24
@@ -17,6 +17,7 @@ add list=ap-northeast-1-AMAZON-ipv4 address=35.71.114.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=52.219.68.0/22
 add list=ap-northeast-1-AMAZON-ipv4 address=54.250.0.0/16
 add list=ap-northeast-1-AMAZON-ipv4 address=69.107.11.128/29
+add list=ap-northeast-1-AMAZON-ipv4 address=63.249.186.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=15.230.123.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=52.93.95.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=35.50.226.0/24
@@ -44,6 +45,7 @@ add list=ap-northeast-1-AMAZON-ipv4 address=52.93.127.174/32
 add list=ap-northeast-1-AMAZON-ipv4 address=52.219.195.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=13.193.0.0/16
 add list=ap-northeast-1-AMAZON-ipv4 address=216.39.160.0/21
+add list=ap-northeast-1-AMAZON-ipv4 address=63.249.188.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=3.5.152.0/21
 add list=ap-northeast-1-AMAZON-ipv4 address=52.93.127.248/32
 add list=ap-northeast-1-AMAZON-ipv4 address=52.93.121.195/32
@@ -82,6 +84,7 @@ add list=ap-northeast-1-AMAZON-ipv4 address=52.94.152.3/32
 add list=ap-northeast-1-AMAZON-ipv4 address=173.83.210.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=3.44.128.0/18
 add list=ap-northeast-1-AMAZON-ipv4 address=13.194.0.0/15
+add list=ap-northeast-1-AMAZON-ipv4 address=63.249.187.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=99.83.84.0/22
 add list=ap-northeast-1-AMAZON-ipv4 address=1.178.64.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=35.96.38.0/24
@@ -192,6 +195,7 @@ add list=ap-northeast-1-AMAZON-ipv4 address=3.4.12.30/32
 add list=ap-northeast-1-AMAZON-ipv4 address=54.178.0.0/16
 add list=ap-northeast-1-AMAZON-ipv4 address=104.255.59.137/32
 add list=ap-northeast-1-AMAZON-ipv4 address=16.77.0.0/16
+add list=ap-northeast-1-AMAZON-ipv4 address=63.249.185.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=52.144.230.0/26
 add list=ap-northeast-1-AMAZON-ipv4 address=216.198.192.0/24
 add list=ap-northeast-1-AMAZON-ipv4 address=13.248.69.0/24
