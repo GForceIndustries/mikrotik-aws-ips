@@ -1,4 +1,4 @@
-# Generated on Wed Jun 17 07:17:53 2026 UTC
+# Generated on Thu Jun 18 07:10:11 2026 UTC
 /ip firewall address-list
 add list=ap-east-1-ROUTE53_RESOLVER-ipv4 address=18.162.127.0/27
 add list=ap-east-1-ROUTE53_RESOLVER-ipv4 address=18.162.127.32/27

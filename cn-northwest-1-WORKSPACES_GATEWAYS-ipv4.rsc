@@ -1,4 +1,4 @@
-# Generated on Wed Jun 17 07:17:53 2026 UTC
+# Generated on Thu Jun 18 07:10:11 2026 UTC
 /ip firewall address-list
 add list=cn-northwest-1-WORKSPACES_GATEWAYS-ipv4 address=43.192.144.0/22
 add list=cn-northwest-1-WORKSPACES_GATEWAYS-ipv4 address=52.83.58.0/24

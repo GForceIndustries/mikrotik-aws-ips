@@ -1,4 +1,4 @@
-# Generated on Wed Jun 17 07:17:53 2026 UTC
+# Generated on Thu Jun 18 07:10:11 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-API_GATEWAY-ipv4 address=15.223.52.0/23
 add list=ca-central-1-API_GATEWAY-ipv4 address=3.97.49.128/25
