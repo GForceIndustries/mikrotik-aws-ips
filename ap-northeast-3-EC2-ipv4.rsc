@@ -1,9 +1,11 @@
-# Generated on Thu Jun 18 07:10:11 2026 UTC
+# Generated on Fri Jun 19 07:17:41 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-3-EC2-ipv4 address=15.193.11.0/24
 add list=ap-northeast-3-EC2-ipv4 address=13.208.0.0/16
 add list=ap-northeast-3-EC2-ipv4 address=35.50.229.0/24
+add list=ap-northeast-3-EC2-ipv4 address=63.249.171.0/24
 add list=ap-northeast-3-EC2-ipv4 address=15.168.0.0/16
+add list=ap-northeast-3-EC2-ipv4 address=63.249.170.0/24
 add list=ap-northeast-3-EC2-ipv4 address=18.96.16.0/20
 add list=ap-northeast-3-EC2-ipv4 address=15.177.77.0/24
 add list=ap-northeast-3-EC2-ipv4 address=3.2.82.0/24

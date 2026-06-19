@@ -1,4 +1,4 @@
-# Generated on Thu Jun 18 07:10:11 2026 UTC
+# Generated on Fri Jun 19 07:17:41 2026 UTC
 /ipv6 firewall address-list
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:1800::/40
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc5:8800::/40
@@ -6,6 +6,7 @@ add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:2800::/40
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc6:1::/48
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc4:800::/40
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:5800::/40
+add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:f400::/40
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc7:3000::/40
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:6800::/40
 add list=eusc-de-east-1-EC2-ipv6 address=2001:3fc3:a800::/40
