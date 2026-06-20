@@ -1,4 +1,4 @@
-# Generated on Fri Jun 19 07:17:41 2026 UTC
+# Generated on Sat Jun 20 06:50:45 2026 UTC
 /ip firewall address-list
 add list=ap-south-1-IVS_REALTIME-ipv4 address=35.55.15.0/24
 add list=ap-south-1-IVS_REALTIME-ipv4 address=35.50.233.0/24

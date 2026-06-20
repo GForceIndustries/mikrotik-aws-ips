@@ -1,4 +1,4 @@
-# Generated on Fri Jun 19 07:17:41 2026 UTC
+# Generated on Sat Jun 20 06:50:45 2026 UTC
 /ip firewall address-list
 add list=eu-central-2-DYNAMODB-ipv4 address=13.248.68.0/24
 add list=eu-central-2-DYNAMODB-ipv4 address=35.71.121.0/24
