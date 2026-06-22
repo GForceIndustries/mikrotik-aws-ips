@@ -1,4 +1,4 @@
-# Generated on Sun Jun 21 07:10:07 2026 UTC
+# Generated on Mon Jun 22 07:19:29 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-2-EBS-ipv4 address=3.107.11.160/31
 add list=ap-southeast-2-EBS-ipv4 address=3.107.11.164/30

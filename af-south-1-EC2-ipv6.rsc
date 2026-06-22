@@ -1,4 +1,4 @@
-# Generated on Sun Jun 21 07:10:07 2026 UTC
+# Generated on Mon Jun 22 07:19:29 2026 UTC
 /ipv6 firewall address-list
 add list=af-south-1-EC2-ipv6 address=2406:daba:1000::/40
 add list=af-south-1-EC2-ipv6 address=2406:dabb:1000::/40
