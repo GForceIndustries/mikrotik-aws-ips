@@ -1,4 +1,4 @@
-# Generated on Mon Jun 22 07:19:29 2026 UTC
+# Generated on Tue Jun 23 06:49:11 2026 UTC
 /ip firewall address-list
 add list=me-central-1-DYNAMODB-ipv4 address=35.71.104.0/24
 add list=me-central-1-DYNAMODB-ipv4 address=13.248.66.0/24

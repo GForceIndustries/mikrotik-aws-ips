@@ -1,4 +1,4 @@
-# Generated on Mon Jun 22 07:19:29 2026 UTC
+# Generated on Tue Jun 23 06:49:11 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-4-EC2-ipv4 address=3.5.40.0/22
 add list=ap-southeast-4-EC2-ipv4 address=3.2.92.0/24

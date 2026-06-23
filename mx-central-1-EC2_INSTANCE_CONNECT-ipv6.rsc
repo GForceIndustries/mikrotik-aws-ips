@@ -1,3 +1,3 @@
-# Generated on Mon Jun 22 07:19:29 2026 UTC
+# Generated on Tue Jun 23 06:49:11 2026 UTC
 /ipv6 firewall address-list
 add list=mx-central-1-EC2_INSTANCE_CONNECT-ipv6 address=2600:1f17:4ee0:b800::/56
