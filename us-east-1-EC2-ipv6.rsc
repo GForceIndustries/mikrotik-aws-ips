@@ -1,4 +1,4 @@
-# Generated on Tue Jun 23 06:49:11 2026 UTC
+# Generated on Wed Jun 24 06:48:36 2026 UTC
 /ipv6 firewall address-list
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:2::/48
 add list=us-east-1-EC2-ipv6 address=2600:f0fb:e000::/40
