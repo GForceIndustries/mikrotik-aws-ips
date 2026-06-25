@@ -1,4 +1,4 @@
-# Generated on Wed Jun 24 06:48:36 2026 UTC
+# Generated on Thu Jun 25 06:48:28 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-4-AMAZON-ipv4 address=13.248.67.0/24
 add list=ap-southeast-4-AMAZON-ipv4 address=150.222.51.160/27
@@ -23,6 +23,7 @@ add list=ap-southeast-4-AMAZON-ipv4 address=35.71.112.0/24
 add list=ap-southeast-4-AMAZON-ipv4 address=16.140.0.0/16
 add list=ap-southeast-4-AMAZON-ipv4 address=56.98.0.0/16
 add list=ap-southeast-4-AMAZON-ipv4 address=99.151.72.0/21
+add list=ap-southeast-4-AMAZON-ipv4 address=63.249.181.0/24
 add list=ap-southeast-4-AMAZON-ipv4 address=69.107.12.168/29
 add list=ap-southeast-4-AMAZON-ipv4 address=16.27.0.0/16
 add list=ap-southeast-4-AMAZON-ipv4 address=70.232.64.0/20

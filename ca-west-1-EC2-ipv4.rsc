@@ -1,11 +1,13 @@
-# Generated on Wed Jun 24 06:48:36 2026 UTC
+# Generated on Thu Jun 25 06:48:28 2026 UTC
 /ip firewall address-list
 add list=ca-west-1-EC2-ipv4 address=15.177.100.0/24
 add list=ca-west-1-EC2-ipv4 address=18.99.128.0/20
 add list=ca-west-1-EC2-ipv4 address=40.176.0.0/15
 add list=ca-west-1-EC2-ipv4 address=35.71.123.0/24
 add list=ca-west-1-EC2-ipv4 address=56.112.0.0/16
+add list=ca-west-1-EC2-ipv4 address=63.249.204.0/24
 add list=ca-west-1-EC2-ipv4 address=3.5.172.0/22
+add list=ca-west-1-EC2-ipv4 address=63.249.205.0/24
 add list=ca-west-1-EC2-ipv4 address=35.96.251.0/24
 add list=ca-west-1-EC2-ipv4 address=35.96.44.0/24
 add list=ca-west-1-EC2-ipv4 address=1.178.26.0/24

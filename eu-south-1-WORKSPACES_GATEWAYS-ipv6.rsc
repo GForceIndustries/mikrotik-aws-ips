@@ -1,3 +1,3 @@
-# Generated on Wed Jun 24 06:48:36 2026 UTC
+# Generated on Thu Jun 25 06:48:28 2026 UTC
 /ipv6 firewall address-list
 add list=eu-south-1-WORKSPACES_GATEWAYS-ipv6 address=2a05:d02a:4::/48

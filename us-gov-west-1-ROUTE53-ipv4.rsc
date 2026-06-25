@@ -1,4 +1,4 @@
-# Generated on Wed Jun 24 06:48:36 2026 UTC
+# Generated on Thu Jun 25 06:48:28 2026 UTC
 /ip firewall address-list
 add list=us-gov-west-1-ROUTE53-ipv4 address=52.61.226.0/23
 add list=us-gov-west-1-ROUTE53-ipv4 address=96.127.116.0/23

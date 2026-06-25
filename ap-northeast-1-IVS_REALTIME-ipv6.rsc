@@ -1,4 +1,4 @@
-# Generated on Wed Jun 24 06:48:36 2026 UTC
+# Generated on Thu Jun 25 06:48:28 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-1-IVS_REALTIME-ipv6 address=2600:f0f0:5536::/48
 add list=ap-northeast-1-IVS_REALTIME-ipv6 address=2600:f0f0:5534::/48
