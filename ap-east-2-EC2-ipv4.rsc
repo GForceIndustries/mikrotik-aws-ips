@@ -1,4 +1,4 @@
-# Generated on Thu Jun 25 06:48:28 2026 UTC
+# Generated on Fri Jun 26 06:49:43 2026 UTC
 /ip firewall address-list
 add list=ap-east-2-EC2-ipv4 address=5.60.0.0/20
 add list=ap-east-2-EC2-ipv4 address=63.249.200.0/24

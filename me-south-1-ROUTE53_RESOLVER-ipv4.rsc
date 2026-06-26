@@ -1,4 +1,4 @@
-# Generated on Thu Jun 25 06:48:28 2026 UTC
+# Generated on Fri Jun 26 06:49:43 2026 UTC
 /ip firewall address-list
 add list=me-south-1-ROUTE53_RESOLVER-ipv4 address=15.184.125.0/26
 add list=me-south-1-ROUTE53_RESOLVER-ipv4 address=15.184.125.128/26

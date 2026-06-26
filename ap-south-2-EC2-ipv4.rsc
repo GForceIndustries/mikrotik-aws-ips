@@ -1,5 +1,7 @@
-# Generated on Thu Jun 25 06:48:28 2026 UTC
+# Generated on Fri Jun 26 06:49:43 2026 UTC
 /ip firewall address-list
+add list=ap-south-2-EC2-ipv4 address=63.249.164.0/24
+add list=ap-south-2-EC2-ipv4 address=63.249.165.0/24
 add list=ap-south-2-EC2-ipv4 address=15.177.94.0/24
 add list=ap-south-2-EC2-ipv4 address=52.94.249.208/28
 add list=ap-south-2-EC2-ipv4 address=18.60.0.0/15

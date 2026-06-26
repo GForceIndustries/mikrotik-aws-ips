@@ -1,3 +1,3 @@
-# Generated on Thu Jun 25 06:48:28 2026 UTC
+# Generated on Fri Jun 26 06:49:43 2026 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-EC2_INSTANCE_CONNECT-ipv6 address=2600:1f1e:d1d:e700::/56

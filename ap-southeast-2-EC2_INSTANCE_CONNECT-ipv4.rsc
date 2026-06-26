@@ -1,3 +1,3 @@
-# Generated on Thu Jun 25 06:48:28 2026 UTC
+# Generated on Fri Jun 26 06:49:43 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-2-EC2_INSTANCE_CONNECT-ipv4 address=13.239.158.0/29

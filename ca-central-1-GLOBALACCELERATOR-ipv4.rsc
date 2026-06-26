@@ -1,4 +1,4 @@
-# Generated on Thu Jun 25 06:48:28 2026 UTC
+# Generated on Fri Jun 26 06:49:43 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-GLOBALACCELERATOR-ipv4 address=99.82.174.0/24
 add list=ca-central-1-GLOBALACCELERATOR-ipv4 address=13.248.126.0/24
