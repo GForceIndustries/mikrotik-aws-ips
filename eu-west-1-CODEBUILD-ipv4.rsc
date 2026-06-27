@@ -1,4 +1,4 @@
-# Generated on Fri Jun 26 06:49:43 2026 UTC
+# Generated on Sat Jun 27 06:38:58 2026 UTC
 /ip firewall address-list
 add list=eu-west-1-CODEBUILD-ipv4 address=3.251.148.120/29
 add list=eu-west-1-CODEBUILD-ipv4 address=34.250.63.248/29

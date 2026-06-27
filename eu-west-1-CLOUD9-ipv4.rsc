@@ -1,4 +1,4 @@
-# Generated on Fri Jun 26 06:49:43 2026 UTC
+# Generated on Sat Jun 27 06:38:58 2026 UTC
 /ip firewall address-list
 add list=eu-west-1-CLOUD9-ipv4 address=34.245.205.0/27
 add list=eu-west-1-CLOUD9-ipv4 address=34.245.205.64/27
