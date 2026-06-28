@@ -1,4 +1,4 @@
-# Generated on Sat Jun 27 06:38:58 2026 UTC
+# Generated on Sun Jun 28 06:50:51 2026 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-5-EC2-ipv6 address=2406:dabb:800::/40
 add list=ap-southeast-5-EC2-ipv6 address=2600:f0f0:611b::/48

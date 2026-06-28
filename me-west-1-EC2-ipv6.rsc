@@ -1,4 +1,4 @@
-# Generated on Sat Jun 27 06:38:58 2026 UTC
+# Generated on Sun Jun 28 06:50:51 2026 UTC
 /ipv6 firewall address-list
 add list=me-west-1-EC2-ipv6 address=2a05:d076:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d031:800::/40
