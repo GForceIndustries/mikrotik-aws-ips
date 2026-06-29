@@ -1,4 +1,4 @@
-# Generated on Sun Jun 28 06:50:51 2026 UTC
+# Generated on Mon Jun 29 07:08:38 2026 UTC
 /ip firewall address-list
 add list=us-west-2-ROUTE53_HEALTHCHECKS-ipv4 address=54.244.52.192/26
 add list=us-west-2-ROUTE53_HEALTHCHECKS-ipv4 address=54.245.168.0/26

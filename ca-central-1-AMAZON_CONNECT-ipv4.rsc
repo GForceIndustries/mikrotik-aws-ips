@@ -1,3 +1,3 @@
-# Generated on Sun Jun 28 06:50:51 2026 UTC
+# Generated on Mon Jun 29 07:08:38 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-AMAZON_CONNECT-ipv4 address=15.193.8.0/24

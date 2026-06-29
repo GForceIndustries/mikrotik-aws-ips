@@ -1,3 +1,3 @@
-# Generated on Sun Jun 28 06:50:51 2026 UTC
+# Generated on Mon Jun 29 07:08:38 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-1-AURORA_DSQL-ipv4 address=3.44.5.128/25
