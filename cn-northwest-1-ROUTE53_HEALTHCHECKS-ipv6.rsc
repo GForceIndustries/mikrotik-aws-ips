@@ -1,4 +1,4 @@
-# Generated on Mon Jun 29 07:08:38 2026 UTC
+# Generated on Tue Jun 30 06:49:55 2026 UTC
 /ipv6 firewall address-list
 add list=cn-northwest-1-ROUTE53_HEALTHCHECKS-ipv6 address=2404:c2c0:83cc:cc00::/56
 add list=cn-northwest-1-ROUTE53_HEALTHCHECKS-ipv6 address=2404:c2c0:83cc:cd00::/56

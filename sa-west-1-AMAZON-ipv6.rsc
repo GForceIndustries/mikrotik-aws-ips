@@ -1,4 +1,4 @@
-# Generated on Mon Jun 29 07:08:38 2026 UTC
+# Generated on Tue Jun 30 06:49:55 2026 UTC
 /ipv6 firewall address-list
 add list=sa-west-1-AMAZON-ipv6 address=2600:1f33:ec00::/40
 add list=sa-west-1-AMAZON-ipv6 address=2600:1fe8:ec00::/40
