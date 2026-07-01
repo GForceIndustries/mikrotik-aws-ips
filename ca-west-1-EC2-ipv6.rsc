@@ -1,4 +1,4 @@
-# Generated on Tue Jun 30 06:49:55 2026 UTC
+# Generated on Wed Jul  1 06:57:06 2026 UTC
 /ipv6 firewall address-list
 add list=ca-west-1-EC2-ipv6 address=2600:1feb:a400::/40
 add list=ca-west-1-EC2-ipv6 address=2600:1fe9:a400::/40
