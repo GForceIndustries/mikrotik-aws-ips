@@ -1,4 +1,4 @@
-# Generated on Wed Jul  1 06:57:06 2026 UTC
+# Generated on Thu Jul  2 06:47:21 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-2-DYNAMODB-ipv4 address=52.94.13.0/24
 add list=ap-southeast-2-DYNAMODB-ipv4 address=35.71.97.0/24
