@@ -1,3 +1,3 @@
-# Generated on Thu Jul  2 06:47:21 2026 UTC
+# Generated on Fri Jul  3 06:41:25 2026 UTC
 /ip firewall address-list
 add list=eu-south-2-WORKSPACES_GATEWAYS-ipv4 address=51.48.16.0/22
