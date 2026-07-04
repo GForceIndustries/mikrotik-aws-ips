@@ -1,4 +1,4 @@
-# Generated on Fri Jul  3 06:41:25 2026 UTC
+# Generated on Sat Jul  4 06:33:31 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -236,10 +236,14 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=us-east-2-CLOUDFRONT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=us-west-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=us-west-2-CLOUDFRONT-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=eu-south-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=us-east-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-south-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=GLOBAL-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-3-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=eu-west-3-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=eu-west-1-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-east-1-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-southeast-4-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=us-west-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-north-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=eu-north-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-3-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-southeast-3-GLOBALACCELERATOR-ipv4.rsc;\r\
@@ -252,11 +256,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-northeast-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-central-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ca-central-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-southeast-2-GLOBALACCELERATOR-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-3-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=eu-west-3-GLOBALACCELERATOR-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-east-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=us-west-2-GLOBALACCELERATOR-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=us-east-2-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=ap-northeast-2-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-GLOBALACCELERATOR-ipv4.rsc\" mode=https dst-path=us-east-2-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-AMAZON_CONNECT-ipv4.rsc\" mode=https dst-path=ap-southeast-2-AMAZON_CONNECT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-AMAZON_CONNECT-ipv4.rsc\" mode=https dst-path=ap-northeast-3-AMAZON_CONNECT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-AMAZON_CONNECT-ipv4.rsc\" mode=https dst-path=ap-southeast-1-AMAZON_CONNECT-ipv4.rsc;\r\
@@ -1148,10 +1150,14 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-2-CLOUDFRONT-ipv4.rsc;\r\
     \n/import file-name=us-west-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/import file-name=us-west-2-CLOUDFRONT-ipv4.rsc;\r\
+    \n/import file-name=eu-south-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=us-east-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=ap-south-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/import file-name=eu-west-3-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=eu-west-1-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/import file-name=ap-east-1-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-4-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=us-west-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=eu-north-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-3-GLOBALACCELERATOR-ipv4.rsc;\r\
@@ -1164,11 +1170,9 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-northeast-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=ca-central-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-2-GLOBALACCELERATOR-ipv4.rsc;\r\
-    \n/import file-name=eu-west-3-GLOBALACCELERATOR-ipv4.rsc;\r\
-    \n/import file-name=ap-east-1-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=us-west-2-GLOBALACCELERATOR-ipv4.rsc;\r\
-    \n/import file-name=us-east-2-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-2-GLOBALACCELERATOR-ipv4.rsc;\r\
+    \n/import file-name=us-east-2-GLOBALACCELERATOR-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-2-AMAZON_CONNECT-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-3-AMAZON_CONNECT-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-1-AMAZON_CONNECT-ipv4.rsc;\r\
