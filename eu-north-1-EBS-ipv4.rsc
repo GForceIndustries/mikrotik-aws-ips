@@ -1,4 +1,4 @@
-# Generated on Sat Jul  4 06:33:31 2026 UTC
+# Generated on Sun Jul  5 06:46:55 2026 UTC
 /ip firewall address-list
 add list=eu-north-1-EBS-ipv4 address=13.51.71.152/29
 add list=eu-north-1-EBS-ipv4 address=13.51.71.160/30
