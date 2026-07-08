@@ -1,4 +1,4 @@
-# Generated on Tue Jul  7 06:48:13 2026 UTC
+# Generated on Wed Jul  8 06:20:29 2026 UTC
 /ipv6 firewall address-list
 add list=us-west-2-EC2-ipv6 address=2600:f0f2:7017::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d200::/60
@@ -25,13 +25,13 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:a2d0::/60
 add list=us-west-2-EC2-ipv6 address=2600:1f2c:4000::/36
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:11fe::/48
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:1:ff00::/56
+add list=us-west-2-EC2-ipv6 address=2606:7b40:1a3f:c240::/60
 add list=us-west-2-EC2-ipv6 address=2600:1f1d:c000::/36
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:e0::/59
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b0f:c000::/56
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:60::/44
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a4f:c240::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a4f:c330::/60
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3005:4000::/50
 add list=us-west-2-EC2-ipv6 address=2600:1f1b:c000::/36
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:e01::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10f8::/46
@@ -84,7 +84,6 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:1a1f:c000::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:72e0::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d290::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:9fc::/48
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3006::/50
 add list=us-west-2-EC2-ipv6 address=2606:f40:ffff::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d220::/60
 add list=us-west-2-EC2-ipv6 address=2600:1f2e:8000::/36
@@ -94,13 +93,11 @@ add list=us-west-2-EC2-ipv6 address=2605:b140:9801::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d250::/60
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:1125::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b0f:f100::/56
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3008::/50
 add list=us-west-2-EC2-ipv6 address=2600:1f14::/34
 add list=us-west-2-EC2-ipv6 address=2600:1f61:4000::/39
 add list=us-west-2-EC2-ipv6 address=2606:f40:400::/39
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:a220::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:8000::/56
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3007:c000::/50
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a3f:c330::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:7240::/60
 add list=us-west-2-EC2-ipv6 address=2606:8140:400::/40
@@ -108,13 +105,11 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:f000:1700::/56
 add list=us-west-2-EC2-ipv6 address=2606:f40:4400::/39
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b0f:c200::/56
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:e03::/48
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3005:c000::/50
 add list=us-west-2-EC2-ipv6 address=2600:1f14:8000::/36
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:2000::/56
 add list=us-west-2-EC2-ipv6 address=2600:1f38:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:410d::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1042:3200::/60
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3006:8000::/50
 add list=us-west-2-EC2-ipv6 address=2606:f40:4200::/40
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:d280::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:3004:c000::/50
@@ -127,7 +122,6 @@ add list=us-west-2-EC2-ipv6 address=2600:1fe8:4000::/39
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a4f:c320::/60
 add list=us-west-2-EC2-ipv6 address=2600:1f00:4000::/40
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:5514::/48
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3005::/50
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:a240::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:901::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1000:7270::/60
@@ -149,7 +143,6 @@ add list=us-west-2-EC2-ipv6 address=2606:7b40:1a4f:c310::/60
 add list=us-west-2-EC2-ipv6 address=2600:1f13::/36
 add list=us-west-2-EC2-ipv6 address=2600:1fea:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:1f24:8000::/36
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3007:8000::/50
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:810e::/48
 add list=us-west-2-EC2-ipv6 address=2600:1fff:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:f00c:8000::/39
@@ -193,7 +186,6 @@ add list=us-west-2-EC2-ipv6 address=2606:f40:8400::/39
 add list=us-west-2-EC2-ipv6 address=2600:f000:8000::/39
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:a200::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a3f:c340::/60
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3007::/50
 add list=us-west-2-EC2-ipv6 address=2600:f0fb:e400::/40
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:8000::/56
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b0f:f900::/56
@@ -209,7 +201,6 @@ add list=us-west-2-EC2-ipv6 address=2600:f0f0:5502::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:3005:8000::/50
 add list=us-west-2-EC2-ipv6 address=2620:107:4004::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:9fd::/48
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3007:4000::/50
 add list=us-west-2-EC2-ipv6 address=2600:1f33:4000::/39
 add list=us-west-2-EC2-ipv6 address=2606:7b40:a3e:200::/60
 add list=us-west-2-EC2-ipv6 address=2600:f0f0:1126::/48
@@ -227,7 +218,6 @@ add list=us-west-2-EC2-ipv6 address=2600:1ff0:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:f0fb:f101::/48
 add list=us-west-2-EC2-ipv6 address=2606:7b40:10ff:a210::/60
 add list=us-west-2-EC2-ipv6 address=2600:1f2d:c000::/36
-add list=us-west-2-EC2-ipv6 address=2606:7b40:3006:c000::/50
 add list=us-west-2-EC2-ipv6 address=2606:7b40:f000:1600::/56
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1a2f:c320::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b00:700::/56
@@ -264,4 +254,5 @@ add list=us-west-2-EC2-ipv6 address=2600:f0f0:c001::/48
 add list=us-west-2-EC2-ipv6 address=2600:1f36:4000::/39
 add list=us-west-2-EC2-ipv6 address=2600:1ff2:4000::/39
 add list=us-west-2-EC2-ipv6 address=2606:7b40:a3e:270::/60
+add list=us-west-2-EC2-ipv6 address=2606:7b40:1a2f:c240::/60
 add list=us-west-2-EC2-ipv6 address=2606:7b40:1b0f:f300::/56
