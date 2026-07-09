@@ -1,4 +1,4 @@
-# Generated on Wed Jul  8 06:20:29 2026 UTC
+# Generated on Thu Jul  9 06:47:52 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -584,6 +584,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=us-west-1-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=us-west-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-EFS-ipv4.rsc\" mode=https dst-path=eu-south-1-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-EFS-ipv4.rsc\" mode=https dst-path=il-central-1-EFS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-EFS-ipv4.rsc\" mode=https dst-path=us-east-1-EFS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=eu-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=ap-northeast-1-DYNAMODB-ipv4.rsc;\r\
@@ -911,6 +912,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=us-east-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=us-west-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-EFS-ipv6.rsc\" mode=https dst-path=eu-south-1-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-EFS-ipv6.rsc\" mode=https dst-path=il-central-1-EFS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-EFS-ipv6.rsc\" mode=https dst-path=us-east-1-EFS-ipv6.rsc;\r\
     \n\r\
     \n:log info \"Remove current AWS IPs\";\r\
@@ -1498,6 +1500,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-west-1-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/import file-name=us-west-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/import file-name=eu-south-1-EFS-ipv4.rsc;\r\
+    \n/import file-name=il-central-1-EFS-ipv4.rsc;\r\
     \n/import file-name=us-east-1-EFS-ipv4.rsc;\r\
     \n/import file-name=eu-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-1-DYNAMODB-ipv4.rsc;\r\
@@ -1825,4 +1828,5 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=us-west-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=eu-south-1-EFS-ipv6.rsc;\r\
+    \n/import file-name=il-central-1-EFS-ipv6.rsc;\r\
     \n/import file-name=us-east-1-EFS-ipv6.rsc;"
