@@ -1,3 +1,3 @@
-# Generated on Thu Jul  9 06:47:52 2026 UTC
+# Generated on Fri Jul 10 06:47:54 2026 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-AURORA_DSQL-ipv6 address=2600:1f1e:cd1:5100::/56

@@ -1,4 +1,4 @@
-# Generated on Thu Jul  9 06:47:52 2026 UTC
+# Generated on Fri Jul 10 06:47:54 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -171,7 +171,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-west-1-EC2-ipv4.rsc\" mode=https dst-path=sa-west-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-3-EC2-ipv4.rsc\" mode=https dst-path=eu-west-3-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-EC2-ipv4.rsc\" mode=https dst-path=il-central-1-EC2-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-EC2-ipv4.rsc\" mode=https dst-path=us-west-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-west-1-EC2-ipv4.rsc\" mode=https dst-path=me-west-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-EC2-ipv4.rsc\" mode=https dst-path=ap-east-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-EC2-ipv4.rsc\" mode=https dst-path=ap-southeast-6-EC2-ipv4.rsc;\r\
@@ -186,8 +185,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-EC2-ipv4.rsc\" mode=https dst-path=cn-north-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-EC2-ipv4.rsc\" mode=https dst-path=sa-east-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-EC2-ipv4.rsc\" mode=https dst-path=us-east-2-EC2-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-2-EC2-ipv4.rsc\" mode=https dst-path=eu-west-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-EC2-ipv4.rsc\" mode=https dst-path=eu-south-1-EC2-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-EC2-ipv4.rsc\" mode=https dst-path=us-west-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-EC2-ipv4.rsc\" mode=https dst-path=us-gov-east-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-EC2-ipv4.rsc\" mode=https dst-path=af-south-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-EC2-ipv4.rsc\" mode=https dst-path=mx-central-1-EC2-ipv4.rsc;\r\
@@ -201,6 +200,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-EC2-ipv4.rsc\" mode=https dst-path=ap-northeast-3-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-2-EC2-ipv4.rsc\" mode=https dst-path=ap-east-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-EC2-ipv4.rsc\" mode=https dst-path=ap-southeast-1-EC2-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-2-EC2-ipv4.rsc\" mode=https dst-path=eu-west-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-2-EC2-ipv4.rsc\" mode=https dst-path=eu-central-2-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-northwest-1-EC2-ipv4.rsc\" mode=https dst-path=cn-northwest-1-EC2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-central-1-EC2-ipv4.rsc\" mode=https dst-path=me-central-1-EC2-ipv4.rsc;\r\
@@ -562,6 +562,23 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=us-east-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=us-east-2-AURORA_DSQL-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AURORA_DSQL-ipv4.rsc\" mode=https dst-path=us-west-2-AURORA_DSQL-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-EFS-ipv4.rsc\" mode=https dst-path=ap-east-1-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-2-EFS-ipv4.rsc\" mode=https dst-path=ap-east-2-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-EFS-ipv4.rsc\" mode=https dst-path=ap-northeast-2-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-EFS-ipv4.rsc\" mode=https dst-path=ap-south-2-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-EFS-ipv4.rsc\" mode=https dst-path=ap-southeast-2-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-EFS-ipv4.rsc\" mode=https dst-path=ap-southeast-4-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-EFS-ipv4.rsc\" mode=https dst-path=ap-southeast-5-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-EFS-ipv4.rsc\" mode=https dst-path=ap-southeast-6-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-EFS-ipv4.rsc\" mode=https dst-path=ap-southeast-7-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-EFS-ipv4.rsc\" mode=https dst-path=ca-west-1-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-2-EFS-ipv4.rsc\" mode=https dst-path=eu-central-2-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-EFS-ipv4.rsc\" mode=https dst-path=eu-south-1-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-2-EFS-ipv4.rsc\" mode=https dst-path=eu-south-2-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-EFS-ipv4.rsc\" mode=https dst-path=eu-west-1-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-EFS-ipv4.rsc\" mode=https dst-path=il-central-1-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-EFS-ipv4.rsc\" mode=https dst-path=mx-central-1-EFS-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-EFS-ipv4.rsc\" mode=https dst-path=us-east-1-EFS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=ap-northeast-1-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=ap-northeast-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-3-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=ap-northeast-3-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
@@ -583,9 +600,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=us-east-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=us-west-1-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-MEDIA_PACKAGE_V2-ipv4.rsc\" mode=https dst-path=us-west-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-EFS-ipv4.rsc\" mode=https dst-path=eu-south-1-EFS-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-EFS-ipv4.rsc\" mode=https dst-path=il-central-1-EFS-ipv4.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-EFS-ipv4.rsc\" mode=https dst-path=us-east-1-EFS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=eu-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=ap-northeast-1-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/cn-north-1-DYNAMODB-ipv4.rsc\" mode=https dst-path=cn-north-1-DYNAMODB-ipv4.rsc;\r\
@@ -911,8 +925,22 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=us-east-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=us-east-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-AURORA_DSQL-ipv6.rsc\" mode=https dst-path=us-west-2-AURORA_DSQL-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-EFS-ipv6.rsc\" mode=https dst-path=ap-east-1-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-2-EFS-ipv6.rsc\" mode=https dst-path=ap-east-2-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-EFS-ipv6.rsc\" mode=https dst-path=ap-northeast-2-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-EFS-ipv6.rsc\" mode=https dst-path=ap-south-2-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-2-EFS-ipv6.rsc\" mode=https dst-path=ap-southeast-2-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-EFS-ipv6.rsc\" mode=https dst-path=ap-southeast-4-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-5-EFS-ipv6.rsc\" mode=https dst-path=ap-southeast-5-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-6-EFS-ipv6.rsc\" mode=https dst-path=ap-southeast-6-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-7-EFS-ipv6.rsc\" mode=https dst-path=ap-southeast-7-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ca-west-1-EFS-ipv6.rsc\" mode=https dst-path=ca-west-1-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-2-EFS-ipv6.rsc\" mode=https dst-path=eu-central-2-EFS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-1-EFS-ipv6.rsc\" mode=https dst-path=eu-south-1-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-south-2-EFS-ipv6.rsc\" mode=https dst-path=eu-south-2-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-EFS-ipv6.rsc\" mode=https dst-path=eu-west-1-EFS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-EFS-ipv6.rsc\" mode=https dst-path=il-central-1-EFS-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-EFS-ipv6.rsc\" mode=https dst-path=mx-central-1-EFS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-EFS-ipv6.rsc\" mode=https dst-path=us-east-1-EFS-ipv6.rsc;\r\
     \n\r\
     \n:log info \"Remove current AWS IPs\";\r\
@@ -1087,7 +1115,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=sa-west-1-EC2-ipv4.rsc;\r\
     \n/import file-name=eu-west-3-EC2-ipv4.rsc;\r\
     \n/import file-name=il-central-1-EC2-ipv4.rsc;\r\
-    \n/import file-name=us-west-2-EC2-ipv4.rsc;\r\
     \n/import file-name=me-west-1-EC2-ipv4.rsc;\r\
     \n/import file-name=ap-east-1-EC2-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-6-EC2-ipv4.rsc;\r\
@@ -1102,8 +1129,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=cn-north-1-EC2-ipv4.rsc;\r\
     \n/import file-name=sa-east-1-EC2-ipv4.rsc;\r\
     \n/import file-name=us-east-2-EC2-ipv4.rsc;\r\
-    \n/import file-name=eu-west-2-EC2-ipv4.rsc;\r\
     \n/import file-name=eu-south-1-EC2-ipv4.rsc;\r\
+    \n/import file-name=us-west-2-EC2-ipv4.rsc;\r\
     \n/import file-name=us-gov-east-1-EC2-ipv4.rsc;\r\
     \n/import file-name=af-south-1-EC2-ipv4.rsc;\r\
     \n/import file-name=mx-central-1-EC2-ipv4.rsc;\r\
@@ -1117,6 +1144,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-northeast-3-EC2-ipv4.rsc;\r\
     \n/import file-name=ap-east-2-EC2-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-1-EC2-ipv4.rsc;\r\
+    \n/import file-name=eu-west-2-EC2-ipv4.rsc;\r\
     \n/import file-name=eu-central-2-EC2-ipv4.rsc;\r\
     \n/import file-name=cn-northwest-1-EC2-ipv4.rsc;\r\
     \n/import file-name=me-central-1-EC2-ipv4.rsc;\r\
@@ -1478,6 +1506,23 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-1-AURORA_DSQL-ipv4.rsc;\r\
     \n/import file-name=us-east-2-AURORA_DSQL-ipv4.rsc;\r\
     \n/import file-name=us-west-2-AURORA_DSQL-ipv4.rsc;\r\
+    \n/import file-name=ap-east-1-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-east-2-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-northeast-2-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-south-2-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-2-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-4-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-5-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-6-EFS-ipv4.rsc;\r\
+    \n/import file-name=ap-southeast-7-EFS-ipv4.rsc;\r\
+    \n/import file-name=ca-west-1-EFS-ipv4.rsc;\r\
+    \n/import file-name=eu-central-2-EFS-ipv4.rsc;\r\
+    \n/import file-name=eu-south-1-EFS-ipv4.rsc;\r\
+    \n/import file-name=eu-south-2-EFS-ipv4.rsc;\r\
+    \n/import file-name=eu-west-1-EFS-ipv4.rsc;\r\
+    \n/import file-name=il-central-1-EFS-ipv4.rsc;\r\
+    \n/import file-name=mx-central-1-EFS-ipv4.rsc;\r\
+    \n/import file-name=us-east-1-EFS-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-1-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-3-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
@@ -1499,9 +1544,6 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/import file-name=us-west-1-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
     \n/import file-name=us-west-2-MEDIA_PACKAGE_V2-ipv4.rsc;\r\
-    \n/import file-name=eu-south-1-EFS-ipv4.rsc;\r\
-    \n/import file-name=il-central-1-EFS-ipv4.rsc;\r\
-    \n/import file-name=us-east-1-EFS-ipv4.rsc;\r\
     \n/import file-name=eu-west-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-1-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=cn-north-1-DYNAMODB-ipv4.rsc;\r\
@@ -1827,6 +1869,20 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-east-1-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=us-east-2-AURORA_DSQL-ipv6.rsc;\r\
     \n/import file-name=us-west-2-AURORA_DSQL-ipv6.rsc;\r\
+    \n/import file-name=ap-east-1-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-east-2-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-northeast-2-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-south-2-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-southeast-2-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-southeast-4-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-southeast-5-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-southeast-6-EFS-ipv6.rsc;\r\
+    \n/import file-name=ap-southeast-7-EFS-ipv6.rsc;\r\
+    \n/import file-name=ca-west-1-EFS-ipv6.rsc;\r\
+    \n/import file-name=eu-central-2-EFS-ipv6.rsc;\r\
     \n/import file-name=eu-south-1-EFS-ipv6.rsc;\r\
+    \n/import file-name=eu-south-2-EFS-ipv6.rsc;\r\
+    \n/import file-name=eu-west-1-EFS-ipv6.rsc;\r\
     \n/import file-name=il-central-1-EFS-ipv6.rsc;\r\
+    \n/import file-name=mx-central-1-EFS-ipv6.rsc;\r\
     \n/import file-name=us-east-1-EFS-ipv6.rsc;"
