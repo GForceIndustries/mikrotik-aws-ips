@@ -1,4 +1,4 @@
-# Generated on Fri Jul 10 06:47:54 2026 UTC
+# Generated on Sat Jul 11 06:17:34 2026 UTC
 /ip firewall address-list
 add list=us-east-1-GLOBALACCELERATOR-ipv4 address=3.2.58.0/24
 add list=us-east-1-GLOBALACCELERATOR-ipv4 address=99.83.106.0/24
