@@ -1,4 +1,4 @@
-# Generated on Mon Jul 13 06:35:21 2026 UTC
+# Generated on Tue Jul 14 06:17:14 2026 UTC
 /ipv6 firewall address-list
 add list=sa-west-1-EC2-ipv6 address=2600:1f33:ec00::/40
 add list=sa-west-1-EC2-ipv6 address=2600:1fe8:ec00::/40
