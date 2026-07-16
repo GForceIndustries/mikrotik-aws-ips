@@ -1,4 +1,4 @@
-# Generated on Wed Jul 15 06:17:46 2026 UTC
+# Generated on Thu Jul 16 06:18:24 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-IVS_REALTIME-ipv4 address=35.50.192.0/24
 add list=eu-central-1-IVS_REALTIME-ipv4 address=35.55.17.0/24
