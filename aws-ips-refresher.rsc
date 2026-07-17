@@ -1,4 +1,4 @@
-# Generated on Thu Jul 16 06:18:24 2026 UTC
+# Generated on Fri Jul 17 06:18:09 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -644,8 +644,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-2-DYNAMODB-ipv4.rsc\" mode=https dst-path=ap-south-2-DYNAMODB-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-4-AMAZON-ipv6.rsc\" mode=https dst-path=ap-southeast-4-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-southeast-1-AMAZON-ipv6.rsc\" mode=https dst-path=ap-southeast-1-AMAZON-ipv6.rsc;\r\
-    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-AMAZON-ipv6.rsc\" mode=https dst-path=us-east-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-AMAZON-ipv6.rsc\" mode=https dst-path=ap-northeast-2-AMAZON-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-AMAZON-ipv6.rsc\" mode=https dst-path=us-east-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-AMAZON-ipv6.rsc\" mode=https dst-path=us-gov-west-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-AMAZON-ipv6.rsc\" mode=https dst-path=ap-northeast-1-AMAZON-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON-ipv6.rsc\" mode=https dst-path=GLOBAL-AMAZON-ipv6.rsc;\r\
@@ -1588,8 +1588,8 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=ap-south-2-DYNAMODB-ipv4.rsc;\r\
     \n/import file-name=ap-southeast-4-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-southeast-1-AMAZON-ipv6.rsc;\r\
-    \n/import file-name=us-east-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-2-AMAZON-ipv6.rsc;\r\
+    \n/import file-name=us-east-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=us-gov-west-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=ap-northeast-1-AMAZON-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-AMAZON-ipv6.rsc;\r\
