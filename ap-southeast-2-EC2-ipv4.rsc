@@ -1,4 +1,4 @@
-# Generated on Fri Jul 17 06:18:09 2026 UTC
+# Generated on Sat Jul 18 06:14:32 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-2-EC2-ipv4 address=96.0.80.0/22
 add list=ap-southeast-2-EC2-ipv4 address=15.193.3.0/24
@@ -9,6 +9,7 @@ add list=ap-southeast-2-EC2-ipv4 address=35.55.11.0/24
 add list=ap-southeast-2-EC2-ipv4 address=32.236.0.0/15
 add list=ap-southeast-2-EC2-ipv4 address=54.153.128.0/17
 add list=ap-southeast-2-EC2-ipv4 address=52.95.255.16/28
+add list=ap-southeast-2-EC2-ipv4 address=35.50.240.0/24
 add list=ap-southeast-2-EC2-ipv4 address=54.252.0.0/16
 add list=ap-southeast-2-EC2-ipv4 address=122.200.61.0/24
 add list=ap-southeast-2-EC2-ipv4 address=151.148.39.0/24
@@ -18,6 +19,7 @@ add list=ap-southeast-2-EC2-ipv4 address=64.252.108.0/24
 add list=ap-southeast-2-EC2-ipv4 address=15.193.164.0/22
 add list=ap-southeast-2-EC2-ipv4 address=96.0.0.0/21
 add list=ap-southeast-2-EC2-ipv4 address=3.24.0.0/14
+add list=ap-southeast-2-EC2-ipv4 address=35.50.242.0/24
 add list=ap-southeast-2-EC2-ipv4 address=15.129.0.0/22
 add list=ap-southeast-2-EC2-ipv4 address=43.220.0.0/16
 add list=ap-southeast-2-EC2-ipv4 address=3.5.164.0/22
@@ -43,6 +45,7 @@ add list=ap-southeast-2-EC2-ipv4 address=99.77.144.0/24
 add list=ap-southeast-2-EC2-ipv4 address=64.252.106.0/24
 add list=ap-southeast-2-EC2-ipv4 address=3.2.77.0/24
 add list=ap-southeast-2-EC2-ipv4 address=15.129.44.0/23
+add list=ap-southeast-2-EC2-ipv4 address=35.50.241.0/24
 add list=ap-southeast-2-EC2-ipv4 address=16.214.40.0/22
 add list=ap-southeast-2-EC2-ipv4 address=52.64.128.0/17
 add list=ap-southeast-2-EC2-ipv4 address=54.66.0.0/16
