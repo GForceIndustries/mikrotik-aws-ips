@@ -1,3 +1,3 @@
-# Generated on Mon Jul 20 06:32:55 2026 UTC
+# Generated on Tue Jul 21 06:20:42 2026 UTC
 /ipv6 firewall address-list
 add list=ca-west-1-WORKSPACES_GATEWAYS-ipv6 address=2600:1f2a:401c::/48
