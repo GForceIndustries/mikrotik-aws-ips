@@ -1,3 +1,3 @@
-# Generated on Wed Jul 22 06:20:24 2026 UTC
+# Generated on Thu Jul 23 06:21:06 2026 UTC
 /ipv6 firewall address-list
 add list=af-south-1-EC2_INSTANCE_CONNECT-ipv6 address=2406:da11:700:3b00::/56

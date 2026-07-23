@@ -1,4 +1,4 @@
-# Generated on Wed Jul 22 06:20:24 2026 UTC
+# Generated on Thu Jul 23 06:21:06 2026 UTC
 /ipv6 firewall address-list
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:2::/48
 add list=us-east-1-EC2-ipv6 address=2600:f0fb:e000::/40
@@ -10,6 +10,7 @@ add list=us-east-1-EC2-ipv6 address=2600:f0f0:f00:400::/56
 add list=us-east-1-EC2-ipv6 address=2600:f0fb:e100::/40
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:1:fd00::/56
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:111c::/48
+add list=us-east-1-EC2-ipv6 address=2600:f0f3:f010:3400::/56
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:90:1400::/56
 add list=us-east-1-EC2-ipv6 address=2600:1f36:8000::/39
 add list=us-east-1-EC2-ipv6 address=2600:f0f3:f010::/56
@@ -26,6 +27,7 @@ add list=us-east-1-EC2-ipv6 address=2606:7b40:1a2f::/60
 add list=us-east-1-EC2-ipv6 address=2606:8140:500::/40
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:e11::/48
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:700::/44
+add list=us-east-1-EC2-ipv6 address=2600:f0f3:f010:3800::/56
 add list=us-east-1-EC2-ipv6 address=2606:f40:fffe::/48
 add list=us-east-1-EC2-ipv6 address=2600:1fbb:8000::/38
 add list=us-east-1-EC2-ipv6 address=2600:1f21:8000::/36
@@ -52,6 +54,7 @@ add list=us-east-1-EC2-ipv6 address=2600:f0f0:c040::/48
 add list=us-east-1-EC2-ipv6 address=2600:1f12:4000::/36
 add list=us-east-1-EC2-ipv6 address=2600:1ff4:8000::/39
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:1000::/44
+add list=us-east-1-EC2-ipv6 address=2606:7b40:1a4f::/60
 add list=us-east-1-EC2-ipv6 address=2600:1ffd:807b::/48
 add list=us-east-1-EC2-ipv6 address=2600:f0f0:5503::/48
 add list=us-east-1-EC2-ipv6 address=2606:f40:4903::/48
@@ -97,7 +100,6 @@ add list=us-east-1-EC2-ipv6 address=2600:f0f0:8101::/48
 add list=us-east-1-EC2-ipv6 address=2606:f40:fffc::/48
 add list=us-east-1-EC2-ipv6 address=2600:1fe9:8000::/39
 add list=us-east-1-EC2-ipv6 address=2600:f0f2:7010::/48
-add list=us-east-1-EC2-ipv6 address=2600:f0fb:c000::/48
 add list=us-east-1-EC2-ipv6 address=2600:1f24:4000::/36
 add list=us-east-1-EC2-ipv6 address=2600:1f1f:8000::/36
 add list=us-east-1-EC2-ipv6 address=2600:f0f1:14::/47

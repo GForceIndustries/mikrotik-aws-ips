@@ -1,4 +1,4 @@
-# Generated on Wed Jul 22 06:20:24 2026 UTC
+# Generated on Thu Jul 23 06:21:06 2026 UTC
 /ipv6 firewall address-list
 add list=eu-central-1-EC2-ipv6 address=2a05:d05b:b000::/40
 add list=eu-central-1-EC2-ipv6 address=2a05:d07d:4000::/40
@@ -80,6 +80,7 @@ add list=eu-central-1-EC2-ipv6 address=2a05:d040:b000::/40
 add list=eu-central-1-EC2-ipv6 address=2a05:d040:4000::/40
 add list=eu-central-1-EC2-ipv6 address=2a05:d06a:b000::/40
 add list=eu-central-1-EC2-ipv6 address=2a05:d032:4000::/40
+add list=eu-central-1-EC2-ipv6 address=2606:7b40:1a4c::/60
 add list=eu-central-1-EC2-ipv6 address=2a05:d06f:b000::/40
 add list=eu-central-1-EC2-ipv6 address=2600:f0f0:5525::/48
 add list=eu-central-1-EC2-ipv6 address=2600:f0f0:1110::/48
