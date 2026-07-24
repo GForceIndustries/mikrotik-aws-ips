@@ -1,4 +1,4 @@
-# Generated on Thu Jul 23 06:21:06 2026 UTC
+# Generated on Fri Jul 24 06:19:46 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-EBS-ipv4 address=18.153.184.84/31
 add list=eu-central-1-EBS-ipv4 address=18.153.184.88/30

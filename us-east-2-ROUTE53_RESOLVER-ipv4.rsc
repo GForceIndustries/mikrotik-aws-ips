@@ -1,4 +1,4 @@
-# Generated on Thu Jul 23 06:21:06 2026 UTC
+# Generated on Fri Jul 24 06:19:46 2026 UTC
 /ip firewall address-list
 add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.188.9.64/29
 add list=us-east-2-ROUTE53_RESOLVER-ipv4 address=18.188.9.80/29

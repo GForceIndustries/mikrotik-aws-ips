@@ -1,4 +1,4 @@
-# Generated on Thu Jul 23 06:21:06 2026 UTC
+# Generated on Fri Jul 24 06:19:46 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-EC2-ipv4 address=35.50.192.0/24
 add list=eu-central-1-EC2-ipv4 address=18.96.32.0/19
@@ -15,6 +15,7 @@ add list=eu-central-1-EC2-ipv4 address=15.145.2.0/23
 add list=eu-central-1-EC2-ipv4 address=63.180.0.0/14
 add list=eu-central-1-EC2-ipv4 address=63.249.155.0/24
 add list=eu-central-1-EC2-ipv4 address=52.58.0.0/15
+add list=eu-central-1-EC2-ipv4 address=63.249.216.0/24
 add list=eu-central-1-EC2-ipv4 address=15.220.48.0/21
 add list=eu-central-1-EC2-ipv4 address=18.184.0.0/15
 add list=eu-central-1-EC2-ipv4 address=3.5.120.0/22
