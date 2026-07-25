@@ -1,7 +1,8 @@
-# Generated on Fri Jul 24 06:19:46 2026 UTC
+# Generated on Sat Jul 25 06:18:19 2026 UTC
 /ipv6 firewall address-list
 add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:2f00::/40
 add list=cn-north-1-AMAZON-ipv6 address=240f:80fa:8000::/40
+add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:112::/48
 add list=cn-north-1-AMAZON-ipv6 address=240f:80fe:8000::/40
 add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:2100::/40
 add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:2800::/40
@@ -10,6 +11,7 @@ add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:4000::/40
 add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:2e80::/48
 add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:a000::/36
 add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:6000::/40
+add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:111::/48
 add list=cn-north-1-AMAZON-ipv6 address=2400:7fc0:200::/40
 add list=cn-north-1-AMAZON-ipv6 address=240f:80a0:8000::/40
 add list=cn-north-1-AMAZON-ipv6 address=240f:80ff:8000::/40
