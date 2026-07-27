@@ -1,4 +1,4 @@
-# Generated on Sun Jul 26 06:24:21 2026 UTC
+# Generated on Mon Jul 27 06:41:03 2026 UTC
 /ip firewall address-list
 add list=us-west-2-WORKSPACES_GATEWAYS-ipv4 address=34.223.96.0/22
 add list=us-west-2-WORKSPACES_GATEWAYS-ipv4 address=35.80.88.0/22
