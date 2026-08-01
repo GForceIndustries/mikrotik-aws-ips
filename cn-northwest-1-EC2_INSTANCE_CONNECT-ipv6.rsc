@@ -1,3 +1,3 @@
-# Generated on Fri Jul 31 06:31:14 2026 UTC
+# Generated on Sat Aug  1 06:20:07 2026 UTC
 /ipv6 firewall address-list
 add list=cn-northwest-1-EC2_INSTANCE_CONNECT-ipv6 address=2404:c2c0:87aa:4800::/56

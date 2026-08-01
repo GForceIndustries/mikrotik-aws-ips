@@ -1,3 +1,4 @@
-# Generated on Fri Jul 31 06:31:14 2026 UTC
+# Generated on Sat Aug  1 06:20:07 2026 UTC
 /ip firewall address-list
+add list=ca-west-1-EFS-ipv4 address=16.174.136.0/22
 add list=ca-west-1-EFS-ipv4 address=16.174.90.128/25

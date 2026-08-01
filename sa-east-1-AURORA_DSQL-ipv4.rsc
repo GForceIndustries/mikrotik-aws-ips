@@ -1,3 +1,3 @@
-# Generated on Fri Jul 31 06:31:14 2026 UTC
+# Generated on Sat Aug  1 06:20:07 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-AURORA_DSQL-ipv4 address=3.44.193.128/25

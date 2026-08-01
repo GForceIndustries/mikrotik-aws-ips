@@ -1,3 +1,4 @@
-# Generated on Fri Jul 31 06:31:14 2026 UTC
+# Generated on Sat Aug  1 06:20:07 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-7-EFS-ipv4 address=43.210.244.128/25
+add list=ap-southeast-7-EFS-ipv4 address=43.211.44.0/22
