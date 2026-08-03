@@ -1,4 +1,4 @@
-# Generated on Sun Aug  2 06:22:38 2026 UTC
+# Generated on Mon Aug  3 06:39:15 2026 UTC
 /ip firewall address-list
 add list=af-south-1-KINESIS_VIDEO_STREAMS-ipv4 address=13.247.76.100/30
 add list=af-south-1-KINESIS_VIDEO_STREAMS-ipv4 address=13.247.76.96/31
