@@ -1,4 +1,4 @@
-# Generated on Mon Aug  3 06:39:15 2026 UTC
+# Generated on Tue Aug  4 06:19:57 2026 UTC
 /ip firewall address-list
 add list=eu-west-3-AMAZON-ipv4 address=35.180.0.0/16
 add list=eu-west-3-AMAZON-ipv4 address=63.249.138.0/24
@@ -45,6 +45,7 @@ add list=eu-west-3-AMAZON-ipv4 address=3.5.204.0/22
 add list=eu-west-3-AMAZON-ipv4 address=3.4.14.0/29
 add list=eu-west-3-AMAZON-ipv4 address=52.94.16.0/24
 add list=eu-west-3-AMAZON-ipv4 address=150.247.38.112/28
+add list=eu-west-3-AMAZON-ipv4 address=15.129.78.0/24
 add list=eu-west-3-AMAZON-ipv4 address=32.240.0.0/15
 add list=eu-west-3-AMAZON-ipv4 address=52.129.131.0/24
 add list=eu-west-3-AMAZON-ipv4 address=3.4.12.84/32

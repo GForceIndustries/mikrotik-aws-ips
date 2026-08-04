@@ -1,4 +1,4 @@
-# Generated on Mon Aug  3 06:39:15 2026 UTC
+# Generated on Tue Aug  4 06:19:57 2026 UTC
 /ip firewall address-list
 add list=us-east-1-CHIME_VOICECONNECTOR-ipv4 address=99.77.254.0/24
 add list=us-east-1-CHIME_VOICECONNECTOR-ipv4 address=3.80.16.0/23
