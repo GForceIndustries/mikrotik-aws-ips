@@ -1,4 +1,4 @@
-# Generated on Tue Aug  4 06:19:57 2026 UTC
+# Generated on Wed Aug  5 06:20:09 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-2-CLOUDFRONT-ipv4 address=13.124.199.0/24
 add list=ap-northeast-2-CLOUDFRONT-ipv4 address=3.35.130.128/25

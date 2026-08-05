@@ -1,9 +1,10 @@
-# Generated on Tue Aug  4 06:19:57 2026 UTC
+# Generated on Wed Aug  5 06:20:09 2026 UTC
 /ipv6 firewall address-list
 add list=ap-east-2-EC2-ipv6 address=2406:daea:c800::/40
 add list=ap-east-2-EC2-ipv6 address=2406:da32:c800::/40
 add list=ap-east-2-EC2-ipv6 address=2406:da61:c800::/40
 add list=ap-east-2-EC2-ipv6 address=2406:da1c:8000::/36
+add list=ap-east-2-EC2-ipv6 address=2600:f0f0:c125::/48
 add list=ap-east-2-EC2-ipv6 address=2406:da30:c800::/40
 add list=ap-east-2-EC2-ipv6 address=2406:dae9:c800::/40
 add list=ap-east-2-EC2-ipv6 address=2406:daf3:c800::/40
