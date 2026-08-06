@@ -1,4 +1,4 @@
-# Generated on Wed Aug  5 06:20:09 2026 UTC
+# Generated on Thu Aug  6 08:01:20 2026 UTC
 /ip firewall address-list
 add list=eu-south-2-EC2-ipv4 address=18.96.192.0/19
 add list=eu-south-2-EC2-ipv4 address=99.77.55.49/32
