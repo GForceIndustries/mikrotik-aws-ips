@@ -1,3 +1,3 @@
-# Generated on Thu Aug  6 08:01:20 2026 UTC
+# Generated on Fri Aug  7 06:48:55 2026 UTC
 /ip firewall address-list
 add list=us-east-2-WORKSPACES_GATEWAYS-ipv4 address=3.146.84.0/22

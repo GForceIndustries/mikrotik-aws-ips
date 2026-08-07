@@ -1,4 +1,4 @@
-# Generated on Thu Aug  6 08:01:20 2026 UTC
+# Generated on Fri Aug  7 06:48:55 2026 UTC
 /ip firewall address-list
 add list=me-central-1-S3-ipv4 address=52.95.187.0/24
 add list=me-central-1-S3-ipv4 address=3.5.48.0/22

@@ -1,4 +1,4 @@
-# Generated on Thu Aug  6 08:01:20 2026 UTC
+# Generated on Fri Aug  7 06:48:55 2026 UTC
 /ipv6 firewall address-list
 add list=me-central-1-AMAZON-ipv6 address=2406:daba:7000::/40
 add list=me-central-1-AMAZON-ipv6 address=2406:dae9:7000::/40

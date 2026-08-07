@@ -1,4 +1,4 @@
-# Generated on Thu Aug  6 08:01:20 2026 UTC
+# Generated on Fri Aug  7 06:48:55 2026 UTC
 /ip firewall address-list
 add list=sa-west-1-EC2-ipv4 address=23.254.120.0/21
 add list=sa-west-1-EC2-ipv4 address=83.160.0.0/15
