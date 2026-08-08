@@ -1,3 +1,3 @@
-# Generated on Fri Aug  7 06:48:55 2026 UTC
+# Generated on Sat Aug  8 06:07:54 2026 UTC
 /ip firewall address-list
 add list=us-gov-west-1-EC2_INSTANCE_CONNECT-ipv4 address=15.200.28.80/30

@@ -1,3 +1,3 @@
-# Generated on Fri Aug  7 06:48:55 2026 UTC
+# Generated on Sat Aug  8 06:07:54 2026 UTC
 /ip firewall address-list
 add list=us-east-1-EC2_INSTANCE_CONNECT-ipv4 address=18.206.107.24/29
