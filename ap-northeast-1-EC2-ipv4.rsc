@@ -1,4 +1,4 @@
-# Generated on Sun Aug  9 06:09:43 2026 UTC
+# Generated on Mon Aug 10 06:51:56 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-EC2-ipv4 address=16.214.32.0/22
 add list=ap-northeast-1-EC2-ipv4 address=43.206.0.0/15
