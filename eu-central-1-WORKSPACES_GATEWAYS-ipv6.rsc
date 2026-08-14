@@ -1,4 +1,4 @@
-# Generated on Thu Aug 13 06:57:35 2026 UTC
+# Generated on Fri Aug 14 06:54:35 2026 UTC
 /ipv6 firewall address-list
 add list=eu-central-1-WORKSPACES_GATEWAYS-ipv6 address=2a05:d032:4000::/40
 add list=eu-central-1-WORKSPACES_GATEWAYS-ipv6 address=2a05:d024:18::/48

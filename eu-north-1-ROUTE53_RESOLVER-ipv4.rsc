@@ -1,4 +1,4 @@
-# Generated on Thu Aug 13 06:57:35 2026 UTC
+# Generated on Fri Aug 14 06:54:35 2026 UTC
 /ip firewall address-list
 add list=eu-north-1-ROUTE53_RESOLVER-ipv4 address=13.48.4.128/28
 add list=eu-north-1-ROUTE53_RESOLVER-ipv4 address=13.48.4.144/28
