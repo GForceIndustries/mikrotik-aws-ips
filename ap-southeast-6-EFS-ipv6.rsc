@@ -1,4 +1,4 @@
-# Generated on Fri Aug 14 06:54:35 2026 UTC
+# Generated on Sat Aug 15 05:52:16 2026 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-6-EFS-ipv6 address=2406:da12:80a1:3d00::/56
 add list=ap-southeast-6-EFS-ipv6 address=2406:da12:83ba:c500::/56

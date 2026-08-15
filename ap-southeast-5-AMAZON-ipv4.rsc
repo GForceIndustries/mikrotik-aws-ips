@@ -1,4 +1,4 @@
-# Generated on Fri Aug 14 06:54:35 2026 UTC
+# Generated on Sat Aug 15 05:52:16 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-5-AMAZON-ipv4 address=64.66.157.0/24
 add list=ap-southeast-5-AMAZON-ipv4 address=15.190.32.0/20

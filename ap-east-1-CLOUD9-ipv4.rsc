@@ -1,4 +1,4 @@
-# Generated on Fri Aug 14 06:54:35 2026 UTC
+# Generated on Sat Aug 15 05:52:16 2026 UTC
 /ip firewall address-list
 add list=ap-east-1-CLOUD9-ipv4 address=18.163.139.32/27
 add list=ap-east-1-CLOUD9-ipv4 address=18.163.201.96/27
