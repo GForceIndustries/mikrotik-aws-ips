@@ -1,4 +1,4 @@
-# Generated on Sat Aug 15 05:52:16 2026 UTC
+# Generated on Sun Aug 16 05:55:04 2026 UTC
 /ip firewall address-list
 add list=us-east-2-AMAZON_APPFLOW-ipv4 address=18.117.239.68/30
 add list=us-east-2-AMAZON_APPFLOW-ipv4 address=3.12.23.88/30
