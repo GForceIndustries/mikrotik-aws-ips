@@ -1,4 +1,4 @@
-# Generated on Mon Aug 17 06:01:19 2026 UTC
+# Generated on Tue Aug 18 05:55:42 2026 UTC
 /ip firewall address-list
 add list=ca-west-1-DYNAMODB-ipv4 address=35.71.123.0/24
 add list=ca-west-1-DYNAMODB-ipv4 address=13.248.73.0/24
