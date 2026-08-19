@@ -1,4 +1,4 @@
-# Generated on Tue Aug 18 05:55:42 2026 UTC
+# Generated on Wed Aug 19 05:57:02 2026 UTC
 /ip firewall address-list
 add list=us-east-1-AMAZON_CONNECT-ipv4 address=15.193.6.0/24
 add list=us-east-1-AMAZON_CONNECT-ipv4 address=52.55.191.224/27
