@@ -1,4 +1,4 @@
-# Generated on Sat Aug 22 05:54:29 2026 UTC
+# Generated on Sun Aug 23 05:56:05 2026 UTC
 /ip firewall address-list
 add list=GLOBAL-IVS_REALTIME-ipv4 address=99.181.64.0/18
 add list=GLOBAL-IVS_REALTIME-ipv4 address=45.113.128.0/22
