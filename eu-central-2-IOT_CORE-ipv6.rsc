@@ -1,3 +1,3 @@
-# Generated on Sun Aug 23 05:56:05 2026 UTC
+# Generated on Mon Aug 24 06:04:19 2026 UTC
 /ipv6 firewall address-list
 add list=eu-central-2-IOT_CORE-ipv6 address=2a05:d033:9000::/40
