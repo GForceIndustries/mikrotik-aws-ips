@@ -1,3 +1,3 @@
-# Generated on Mon Aug 24 06:04:19 2026 UTC
+# Generated on Tue Aug 25 05:58:39 2026 UTC
 /ip firewall address-list
 add list=af-south-1-EFS-ipv4 address=15.240.196.0/22
