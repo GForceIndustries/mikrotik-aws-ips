@@ -1,4 +1,4 @@
-# Generated on Tue Aug 25 05:58:39 2026 UTC
+# Generated on Wed Aug 26 06:00:41 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-ROUTE53_HEALTHCHECKS_PUBLISHING-ipv4 address=15.177.88.0/24
 add list=sa-east-1-ROUTE53_HEALTHCHECKS_PUBLISHING-ipv4 address=15.177.70.0/23
