@@ -1,4 +1,4 @@
-# Generated on Wed Aug 26 06:00:41 2026 UTC
+# Generated on Thu Aug 27 16:40:00 2026 UTC
 /ip firewall address-list
 add list=eu-north-1-EC2-ipv4 address=96.0.32.0/22
 add list=eu-north-1-EC2-ipv4 address=15.220.168.0/21
@@ -18,7 +18,6 @@ add list=eu-north-1-EC2-ipv4 address=63.246.112.0/24
 add list=eu-north-1-EC2-ipv4 address=13.53.0.0/16
 add list=eu-north-1-EC2-ipv4 address=16.192.0.0/16
 add list=eu-north-1-EC2-ipv4 address=13.51.0.0/16
-add list=eu-north-1-EC2-ipv4 address=63.249.131.0/24
 add list=eu-north-1-EC2-ipv4 address=173.83.220.0/24
 add list=eu-north-1-EC2-ipv4 address=13.48.0.0/15
 add list=eu-north-1-EC2-ipv4 address=18.99.96.0/20
@@ -27,12 +26,10 @@ add list=eu-north-1-EC2-ipv4 address=35.55.42.0/24
 add list=eu-north-1-EC2-ipv4 address=3.5.216.0/22
 add list=eu-north-1-EC2-ipv4 address=16.16.0.0/16
 add list=eu-north-1-EC2-ipv4 address=35.55.40.0/24
-add list=eu-north-1-EC2-ipv4 address=63.249.132.0/24
 add list=eu-north-1-EC2-ipv4 address=15.177.72.0/24
 add list=eu-north-1-EC2-ipv4 address=216.244.11.0/24
 add list=eu-north-1-EC2-ipv4 address=15.220.148.0/22
 add list=eu-north-1-EC2-ipv4 address=35.55.41.0/24
-add list=eu-north-1-EC2-ipv4 address=63.249.133.0/24
 add list=eu-north-1-EC2-ipv4 address=56.228.0.0/16
 add list=eu-north-1-EC2-ipv4 address=64.66.141.0/24
 add list=eu-north-1-EC2-ipv4 address=52.94.249.128/28

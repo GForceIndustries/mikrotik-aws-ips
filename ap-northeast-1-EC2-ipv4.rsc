@@ -1,4 +1,4 @@
-# Generated on Wed Aug 26 06:00:41 2026 UTC
+# Generated on Thu Aug 27 16:40:00 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-EC2-ipv4 address=66.36.6.0/24
 add list=ap-northeast-1-EC2-ipv4 address=16.214.32.0/22
@@ -8,7 +8,6 @@ add list=ap-northeast-1-EC2-ipv4 address=99.77.244.0/24
 add list=ap-northeast-1-EC2-ipv4 address=5.60.128.0/17
 add list=ap-northeast-1-EC2-ipv4 address=35.71.114.0/24
 add list=ap-northeast-1-EC2-ipv4 address=54.250.0.0/16
-add list=ap-northeast-1-EC2-ipv4 address=63.249.186.0/24
 add list=ap-northeast-1-EC2-ipv4 address=35.50.226.0/24
 add list=ap-northeast-1-EC2-ipv4 address=35.55.2.0/24
 add list=ap-northeast-1-EC2-ipv4 address=13.196.0.0/14
@@ -20,7 +19,6 @@ add list=ap-northeast-1-EC2-ipv4 address=64.252.111.0/24
 add list=ap-northeast-1-EC2-ipv4 address=35.50.227.0/24
 add list=ap-northeast-1-EC2-ipv4 address=13.193.0.0/16
 add list=ap-northeast-1-EC2-ipv4 address=216.39.160.0/21
-add list=ap-northeast-1-EC2-ipv4 address=63.249.188.0/24
 add list=ap-northeast-1-EC2-ipv4 address=3.5.152.0/21
 add list=ap-northeast-1-EC2-ipv4 address=15.220.80.0/20
 add list=ap-northeast-1-EC2-ipv4 address=52.94.248.80/28
@@ -77,7 +75,6 @@ add list=ap-northeast-1-EC2-ipv4 address=208.78.130.0/23
 add list=ap-northeast-1-EC2-ipv4 address=15.193.1.0/24
 add list=ap-northeast-1-EC2-ipv4 address=54.150.0.0/16
 add list=ap-northeast-1-EC2-ipv4 address=54.178.0.0/16
-add list=ap-northeast-1-EC2-ipv4 address=63.249.185.0/24
 add list=ap-northeast-1-EC2-ipv4 address=216.198.192.0/24
 add list=ap-northeast-1-EC2-ipv4 address=175.41.192.0/18
 add list=ap-northeast-1-EC2-ipv4 address=35.54.48.0/23

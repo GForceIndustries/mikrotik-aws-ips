@@ -1,4 +1,4 @@
-# Generated on Wed Aug 26 06:00:41 2026 UTC
+# Generated on Thu Aug 27 16:40:00 2026 UTC
 /ip firewall address-list
 add list=ap-east-1-AMAZON-ipv4 address=216.244.32.0/22
 add list=ap-east-1-AMAZON-ipv4 address=18.99.176.0/20
@@ -10,15 +10,12 @@ add list=ap-east-1-AMAZON-ipv4 address=150.222.135.0/24
 add list=ap-east-1-AMAZON-ipv4 address=69.107.7.16/29
 add list=ap-east-1-AMAZON-ipv4 address=35.34.102.0/24
 add list=ap-east-1-AMAZON-ipv4 address=35.54.51.0/24
-add list=ap-east-1-AMAZON-ipv4 address=63.249.161.0/24
 add list=ap-east-1-AMAZON-ipv4 address=150.222.114.0/24
 add list=ap-east-1-AMAZON-ipv4 address=52.94.249.144/28
 add list=ap-east-1-AMAZON-ipv4 address=13.248.32.0/20
 add list=ap-east-1-AMAZON-ipv4 address=15.129.62.0/23
-add list=ap-east-1-AMAZON-ipv4 address=63.249.160.0/24
 add list=ap-east-1-AMAZON-ipv4 address=43.249.47.0/24
 add list=ap-east-1-AMAZON-ipv4 address=52.119.248.0/24
-add list=ap-east-1-AMAZON-ipv4 address=63.249.162.0/24
 add list=ap-east-1-AMAZON-ipv4 address=216.244.6.0/24
 add list=ap-east-1-AMAZON-ipv4 address=3.4.12.67/32
 add list=ap-east-1-AMAZON-ipv4 address=3.4.15.224/29

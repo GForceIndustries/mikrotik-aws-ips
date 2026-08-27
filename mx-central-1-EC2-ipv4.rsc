@@ -1,4 +1,4 @@
-# Generated on Wed Aug 26 06:00:41 2026 UTC
+# Generated on Thu Aug 27 16:40:00 2026 UTC
 /ip firewall address-list
 add list=mx-central-1-EC2-ipv4 address=136.18.152.0/21
 add list=mx-central-1-EC2-ipv4 address=52.94.250.96/28
@@ -7,9 +7,6 @@ add list=mx-central-1-EC2-ipv4 address=64.66.155.0/24
 add list=mx-central-1-EC2-ipv4 address=3.2.94.0/24
 add list=mx-central-1-EC2-ipv4 address=18.97.96.0/20
 add list=mx-central-1-EC2-ipv4 address=1.178.29.0/24
-add list=mx-central-1-EC2-ipv4 address=63.249.189.0/24
-add list=mx-central-1-EC2-ipv4 address=63.249.190.0/24
-add list=mx-central-1-EC2-ipv4 address=63.249.191.0/24
 add list=mx-central-1-EC2-ipv4 address=35.71.125.0/24
 add list=mx-central-1-EC2-ipv4 address=3.5.192.0/22
 add list=mx-central-1-EC2-ipv4 address=78.14.0.0/15
