@@ -1,4 +1,4 @@
-# Generated on Fri Aug 28 17:39:32 2026 UTC
+# Generated on Sat Aug 29 11:45:28 2026 UTC
 /ip firewall address-list
 add list=me-south-1-AMAZON-ipv4 address=99.78.220.128/27
 add list=me-south-1-AMAZON-ipv4 address=15.185.0.0/16
