@@ -1,3 +1,3 @@
-# Generated on Sat Aug 29 11:45:28 2026 UTC
+# Generated on Sun Aug 30 10:37:22 2026 UTC
 /ip firewall address-list
 add list=us-west-2-EC2_INSTANCE_CONNECT-ipv4 address=18.237.140.160/29
