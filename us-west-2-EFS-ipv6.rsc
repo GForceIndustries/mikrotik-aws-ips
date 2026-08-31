@@ -1,4 +1,4 @@
-# Generated on Sun Aug 30 10:37:22 2026 UTC
+# Generated on Mon Aug 31 11:46:08 2026 UTC
 /ipv6 firewall address-list
 add list=us-west-2-EFS-ipv6 address=2600:1f14:139d:3000::/56
 add list=us-west-2-EFS-ipv6 address=2600:1f14:1d67:ef00::/56
