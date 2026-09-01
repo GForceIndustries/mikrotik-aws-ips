@@ -1,4 +1,4 @@
-# Generated on Mon Aug 31 11:46:08 2026 UTC
+# Generated on Tue Sep  1 10:21:50 2026 UTC
 /ipv6 firewall address-list
 add list=us-east-1-S3-ipv6 address=2600:1ff8:2c00::/40
 add list=us-east-1-S3-ipv6 address=2600:1fa0:2c00::/40
@@ -6,6 +6,7 @@ add list=us-east-1-S3-ipv6 address=2600:1f61:8000::/39
 add list=us-east-1-S3-ipv6 address=2600:1ff4:8000::/39
 add list=us-east-1-S3-ipv6 address=2600:1ff0:8000::/39
 add list=us-east-1-S3-ipv6 address=2600:1ff9:2c00::/40
+add list=us-east-1-S3-ipv6 address=2600:f0f0:6127::/48
 add list=us-east-1-S3-ipv6 address=2600:1ff8:8000::/39
 add list=us-east-1-S3-ipv6 address=2600:1f60:8000::/39
 add list=us-east-1-S3-ipv6 address=2600:1ffa:8000::/40
