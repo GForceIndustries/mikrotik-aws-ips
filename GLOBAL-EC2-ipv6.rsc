@@ -1,16 +1,20 @@
-# Generated on Tue Sep  1 10:21:50 2026 UTC
+# Generated on Wed Sep  2 09:50:01 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-EC2-ipv6 address=2605:9cc0:1ff0:6000::/56
+add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf9:d00::/56
+add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf9:e00::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8600::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8500::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01:900::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:900::/56
+add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf9:c00::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8800::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01:800::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f2:7400::/38
 add list=GLOBAL-EC2-ipv6 address=2605:9cc0:1ff0:8200::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:200::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01::/56
+add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf8:900::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8700::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:500::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf8:d00::/56
@@ -19,6 +23,7 @@ add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01:700::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8200::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01:200::/56
+add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf8::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:300::/56
 add list=GLOBAL-EC2-ipv6 address=2605:9cc0:1ff0:4000::/54
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01:100::/56
@@ -28,6 +33,7 @@ add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:400::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8300::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8900::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8400::/56
+add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf8:800::/56
 add list=GLOBAL-EC2-ipv6 address=2605:9cc0:1ff0:2d00::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:700::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01:400::/56
