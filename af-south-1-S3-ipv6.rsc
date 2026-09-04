@@ -1,8 +1,9 @@
-# Generated on Thu Sep  3 10:01:41 2026 UTC
+# Generated on Fri Sep  4 09:52:16 2026 UTC
 /ipv6 firewall address-list
 add list=af-south-1-S3-ipv6 address=2406:dab9:1000::/40
 add list=af-south-1-S3-ipv6 address=2406:daef:1000::/40
 add list=af-south-1-S3-ipv6 address=2406:da61:1000::/40
+add list=af-south-1-S3-ipv6 address=2600:f0f0:6141::/48
 add list=af-south-1-S3-ipv6 address=2406:da60:1000::/40
 add list=af-south-1-S3-ipv6 address=2406:daf0:1000::/40
 add list=af-south-1-S3-ipv6 address=2406:daf4:1000::/40

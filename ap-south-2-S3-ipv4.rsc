@@ -1,5 +1,6 @@
-# Generated on Thu Sep  3 10:01:41 2026 UTC
+# Generated on Fri Sep  4 09:52:16 2026 UTC
 /ip firewall address-list
+add list=ap-south-2-S3-ipv4 address=3.2.117.0/24
 add list=ap-south-2-S3-ipv4 address=3.5.44.0/22
 add list=ap-south-2-S3-ipv4 address=52.95.186.0/24
 add list=ap-south-2-S3-ipv4 address=52.95.184.0/23

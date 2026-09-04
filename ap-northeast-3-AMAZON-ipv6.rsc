@@ -1,4 +1,4 @@
-# Generated on Thu Sep  3 10:01:41 2026 UTC
+# Generated on Fri Sep  4 09:52:16 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-3-AMAZON-ipv6 address=2406:da60:6000::/40
 add list=ap-northeast-3-AMAZON-ipv6 address=2600:f0f1:83::/48
@@ -8,6 +8,7 @@ add list=ap-northeast-3-AMAZON-ipv6 address=2400:6500:0:7600::/56
 add list=ap-northeast-3-AMAZON-ipv6 address=2406:daf9:6000::/40
 add list=ap-northeast-3-AMAZON-ipv6 address=2406:daf2:6000::/40
 add list=ap-northeast-3-AMAZON-ipv6 address=2600:f0f0:5539::/48
+add list=ap-northeast-3-AMAZON-ipv6 address=2600:f0f0:6138::/48
 add list=ap-northeast-3-AMAZON-ipv6 address=2406:dab9:6000::/40
 add list=ap-northeast-3-AMAZON-ipv6 address=2406:da61:6000::/40
 add list=ap-northeast-3-AMAZON-ipv6 address=2605:b140:9a02::/48

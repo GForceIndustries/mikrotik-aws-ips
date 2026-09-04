@@ -1,4 +1,4 @@
-# Generated on Thu Sep  3 10:01:41 2026 UTC
+# Generated on Fri Sep  4 09:52:16 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-EC2-ipv6 address=2605:9cc0:1ff0:6000::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf9:d00::/56
@@ -27,6 +27,7 @@ add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf8::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:300::/56
 add list=GLOBAL-EC2-ipv6 address=2605:9cc0:1ff0:4000::/54
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c01:100::/56
+add list=GLOBAL-EC2-ipv6 address=2600:f0f0:cf9:8c00::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:600::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:8100::/56
 add list=GLOBAL-EC2-ipv6 address=2600:f0f0:c00:400::/56

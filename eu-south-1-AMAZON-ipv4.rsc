@@ -1,4 +1,4 @@
-# Generated on Thu Sep  3 10:01:41 2026 UTC
+# Generated on Fri Sep  4 09:52:16 2026 UTC
 /ip firewall address-list
 add list=eu-south-1-AMAZON-ipv4 address=99.83.109.0/24
 add list=eu-south-1-AMAZON-ipv4 address=52.95.224.0/24
@@ -56,6 +56,7 @@ add list=eu-south-1-AMAZON-ipv4 address=52.93.135.195/32
 add list=eu-south-1-AMAZON-ipv4 address=3.2.93.0/24
 add list=eu-south-1-AMAZON-ipv4 address=3.4.12.65/32
 add list=eu-south-1-AMAZON-ipv4 address=52.93.134.181/32
+add list=eu-south-1-AMAZON-ipv4 address=3.2.114.0/24
 add list=eu-south-1-AMAZON-ipv4 address=54.240.236.2/32
 add list=eu-south-1-AMAZON-ipv4 address=15.221.51.0/24
 add list=eu-south-1-AMAZON-ipv4 address=52.93.126.199/32

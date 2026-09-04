@@ -1,4 +1,4 @@
-# Generated on Thu Sep  3 10:01:41 2026 UTC
+# Generated on Fri Sep  4 09:52:16 2026 UTC
 /ip firewall address-list
 add list=il-central-1-EC2-ipv4 address=51.85.0.0/16
 add list=il-central-1-EC2-ipv4 address=18.96.160.0/19
@@ -9,6 +9,7 @@ add list=il-central-1-EC2-ipv4 address=51.84.0.0/16
 add list=il-central-1-EC2-ipv4 address=1.178.25.0/24
 add list=il-central-1-EC2-ipv4 address=3.2.95.0/24
 add list=il-central-1-EC2-ipv4 address=64.66.148.0/24
+add list=il-central-1-EC2-ipv4 address=3.2.127.0/24
 add list=il-central-1-EC2-ipv4 address=99.77.163.0/24
 add list=il-central-1-EC2-ipv4 address=52.94.250.32/28
 add list=il-central-1-EC2-ipv4 address=16.164.0.0/16
