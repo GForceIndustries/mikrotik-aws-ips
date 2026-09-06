@@ -1,4 +1,4 @@
-# Generated on Sat Sep  5 09:14:49 2026 UTC
+# Generated on Sun Sep  6 09:36:23 2026 UTC
 /ip firewall address-list
 add list=cn-north-1-KINESIS_VIDEO_STREAMS-ipv4 address=43.196.24.4/31
 add list=cn-north-1-KINESIS_VIDEO_STREAMS-ipv4 address=43.196.24.8/30

@@ -1,3 +1,3 @@
-# Generated on Sat Sep  5 09:14:49 2026 UTC
+# Generated on Sun Sep  6 09:36:23 2026 UTC
 /ip firewall address-list
 add list=ca-west-1-API_GATEWAY-ipv4 address=40.176.65.0/24

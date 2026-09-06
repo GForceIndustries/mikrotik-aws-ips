@@ -1,3 +1,3 @@
-# Generated on Sat Sep  5 09:14:49 2026 UTC
+# Generated on Sun Sep  6 09:36:23 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-2-IOT_CORE-ipv6 address=2406:da33:2000::/40
