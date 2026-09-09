@@ -1,4 +1,4 @@
-# Generated on Tue Sep  8 10:00:12 2026 UTC
+# Generated on Wed Sep  9 10:02:19 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-2-EFS-ipv6 address=2406:da12:a2e:9b00::/56
 add list=ap-northeast-2-EFS-ipv6 address=2406:da12:ab7:7200::/56

@@ -1,4 +1,4 @@
-# Generated on Tue Sep  8 10:00:12 2026 UTC
+# Generated on Wed Sep  9 10:02:19 2026 UTC
 /ip firewall address-list
 add list=ap-east-1-GLOBALACCELERATOR-ipv4 address=35.34.102.0/24
 add list=ap-east-1-GLOBALACCELERATOR-ipv4 address=159.248.133.0/24

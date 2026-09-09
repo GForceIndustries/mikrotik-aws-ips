@@ -1,4 +1,4 @@
-# Generated on Tue Sep  8 10:00:12 2026 UTC
+# Generated on Wed Sep  9 10:02:19 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-CLOUD9-ipv4 address=18.179.48.128/27
 add list=ap-northeast-1-CLOUD9-ipv4 address=18.179.48.96/27
