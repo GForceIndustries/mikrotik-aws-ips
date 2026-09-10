@@ -1,6 +1,7 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=me-west-1-EC2-ipv6 address=2a05:d076:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d039:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d031:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d06b:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d06a:800::/40
@@ -18,6 +19,7 @@ add list=me-west-1-EC2-ipv6 address=2a05:d05b:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d059:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d073:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d06f:800::/40
+add list=me-west-1-EC2-ipv6 address=2a05:d069:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d040:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d030:800::/40
 add list=me-west-1-EC2-ipv6 address=2a05:d072:800::/40

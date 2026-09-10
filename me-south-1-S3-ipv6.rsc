@@ -1,4 +1,4 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=me-south-1-S3-ipv6 address=2a05:d070:e000::/40
 add list=me-south-1-S3-ipv6 address=2a05:d059:e000::/40
@@ -9,6 +9,8 @@ add list=me-south-1-S3-ipv6 address=2a05:d074:e000::/40
 add list=me-south-1-S3-ipv6 address=2600:f0f0:613e::/48
 add list=me-south-1-S3-ipv6 address=2a05:d06f:e000::/40
 add list=me-south-1-S3-ipv6 address=2a05:d050:e000::/40
+add list=me-south-1-S3-ipv6 address=2a05:d039:e000::/40
+add list=me-south-1-S3-ipv6 address=2a05:d069:e000::/40
 add list=me-south-1-S3-ipv6 address=2a05:d079:e000::/40
 add list=me-south-1-S3-ipv6 address=2a05:d030:e000::/40
 add list=me-south-1-S3-ipv6 address=2600:f0f0:6111::/48

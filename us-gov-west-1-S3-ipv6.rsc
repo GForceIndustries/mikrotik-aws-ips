@@ -1,4 +1,4 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=us-gov-west-1-S3-ipv6 address=2600:1fa0:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1f60:2000::/40
@@ -7,7 +7,9 @@ add list=us-gov-west-1-S3-ipv6 address=2600:1ff0:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1fef:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1ff8:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1ff9:2000::/40
+add list=us-gov-west-1-S3-ipv6 address=2600:1f62:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1ff4:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1ffa:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1fb9:2000::/40
+add list=us-gov-west-1-S3-ipv6 address=2600:1fe7:2000::/40
 add list=us-gov-west-1-S3-ipv6 address=2600:1f61:2000::/40

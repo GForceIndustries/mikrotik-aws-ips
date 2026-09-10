@@ -1,4 +1,4 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:f0f0:70::/45
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1ff6:2000::/40
@@ -25,6 +25,7 @@ add list=us-gov-west-1-AMAZON-ipv6 address=2600:1f00:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1fef:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1ff8:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1ff9:2000::/40
+add list=us-gov-west-1-AMAZON-ipv6 address=2600:1f62:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1fe8:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:f0f0:4140::/48
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1ff4:2000::/40
@@ -40,6 +41,7 @@ add list=us-gov-west-1-AMAZON-ipv6 address=2600:1ffa:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2620:107:4000:5::/64
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1fb9:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1fe9:2000::/40
+add list=us-gov-west-1-AMAZON-ipv6 address=2600:1fe7:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1f61:2000::/40
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:f0f2:7029::/48
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1ffe:2000::/40

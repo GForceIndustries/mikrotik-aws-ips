@@ -1,4 +1,4 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:610e::/48
 add list=ap-southeast-1-EC2-ipv6 address=2406:da70:8800::/40
@@ -17,6 +17,7 @@ add list=ap-southeast-1-EC2-ipv6 address=2406:da18::/35
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:e2e::/48
 add list=ap-southeast-1-EC2-ipv6 address=2406:da2a:8000::/36
 add list=ap-southeast-1-EC2-ipv6 address=2406:dabb:8000::/40
+add list=ap-southeast-1-EC2-ipv6 address=2406:da62:8800::/40
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:1108::/48
 add list=ap-southeast-1-EC2-ipv6 address=2406:daf4:8800::/40
 add list=ap-southeast-1-EC2-ipv6 address=2406:da33:8000::/40
@@ -30,6 +31,7 @@ add list=ap-southeast-1-EC2-ipv6 address=2406:daea:8000::/40
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:4105::/48
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0fb:f026::/48
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:e30::/48
+add list=ap-southeast-1-EC2-ipv6 address=2406:da62:8000::/40
 add list=ap-southeast-1-EC2-ipv6 address=2606:7b40:1b07::/56
 add list=ap-southeast-1-EC2-ipv6 address=2406:daba:8000::/40
 add list=ap-southeast-1-EC2-ipv6 address=2606:f40:ffe2::/48
@@ -77,6 +79,7 @@ add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:c048::/48
 add list=ap-southeast-1-EC2-ipv6 address=2406:dae8:8800::/40
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:731::/48
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0fb:f105::/48
+add list=ap-southeast-1-EC2-ipv6 address=2406:dae7:8800::/40
 add list=ap-southeast-1-EC2-ipv6 address=2600:1ffd:85b2::/48
 add list=ap-southeast-1-EC2-ipv6 address=2406:daeb:8000::/40
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:c122::/48
@@ -90,6 +93,7 @@ add list=ap-southeast-1-EC2-ipv6 address=2406:dab9:8800::/40
 add list=ap-southeast-1-EC2-ipv6 address=2406:daf0:8800::/40
 add list=ap-southeast-1-EC2-ipv6 address=2600:f0f0:553d::/48
 add list=ap-southeast-1-EC2-ipv6 address=2600:9000:5208::/48
+add list=ap-southeast-1-EC2-ipv6 address=2406:dae7:8000::/40
 add list=ap-southeast-1-EC2-ipv6 address=2406:dae8:8000::/40
 add list=ap-southeast-1-EC2-ipv6 address=2406:da30:8000::/40
 add list=ap-southeast-1-EC2-ipv6 address=2406:daf3:8800::/40

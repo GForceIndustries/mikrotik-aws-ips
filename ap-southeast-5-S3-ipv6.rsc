@@ -1,4 +1,4 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=ap-southeast-5-S3-ipv6 address=2406:daef:800::/40
 add list=ap-southeast-5-S3-ipv6 address=2406:da61:800::/40
@@ -9,6 +9,8 @@ add list=ap-southeast-5-S3-ipv6 address=2406:daf0:800::/40
 add list=ap-southeast-5-S3-ipv6 address=2406:da60:800::/40
 add list=ap-southeast-5-S3-ipv6 address=2406:daa0:800::/40
 add list=ap-southeast-5-S3-ipv6 address=2406:daf9:800::/40
+add list=ap-southeast-5-S3-ipv6 address=2406:da62:800::/40
+add list=ap-southeast-5-S3-ipv6 address=2406:dae7:800::/40
 add list=ap-southeast-5-S3-ipv6 address=2406:daf4:800::/40
 add list=ap-southeast-5-S3-ipv6 address=2600:f0f0:611b::/48
 add list=ap-southeast-5-S3-ipv6 address=2600:f0f1:84::/48

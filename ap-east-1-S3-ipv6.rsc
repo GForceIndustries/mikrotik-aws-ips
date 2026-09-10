@@ -1,9 +1,11 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=ap-east-1-S3-ipv6 address=2406:daef:e000::/40
 add list=ap-east-1-S3-ipv6 address=2406:daf8:e000::/40
 add list=ap-east-1-S3-ipv6 address=2406:da61:e000::/40
 add list=ap-east-1-S3-ipv6 address=2406:daf9:e000::/40
+add list=ap-east-1-S3-ipv6 address=2406:dae7:e000::/40
+add list=ap-east-1-S3-ipv6 address=2406:da62:e000::/40
 add list=ap-east-1-S3-ipv6 address=2406:dab9:e000::/40
 add list=ap-east-1-S3-ipv6 address=2406:daf4:e000::/40
 add list=ap-east-1-S3-ipv6 address=2406:da60:e000::/40

@@ -1,3 +1,3 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-4-GLOBALACCELERATOR-ipv4 address=35.34.104.0/24

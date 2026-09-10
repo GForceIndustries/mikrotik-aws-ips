@@ -1,4 +1,4 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:5536::/48
 add list=ap-northeast-1-EC2-ipv6 address=2600:9000:5207::/48
@@ -6,14 +6,17 @@ add list=ap-northeast-1-EC2-ipv6 address=2406:da61:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2406:daf3:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2406:da70:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:8184::/48
+add list=ap-northeast-1-EC2-ipv6 address=2406:da6a:d000::/46
 add list=ap-northeast-1-EC2-ipv6 address=2400:6700:ff00::/48
 add list=ap-northeast-1-EC2-ipv6 address=2606:f40:a200::/40
 add list=ap-northeast-1-EC2-ipv6 address=2406:daeb:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:6136::/48
 add list=ap-northeast-1-EC2-ipv6 address=2406:da14::/35
+add list=ap-northeast-1-EC2-ipv6 address=2406:dae7:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:1:f00::/56
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:5534::/48
 add list=ap-northeast-1-EC2-ipv6 address=2606:7b40:1a45:c340::/60
+add list=ap-northeast-1-EC2-ipv6 address=2406:da62:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2406:daf6:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2606:f40:fff6::/48
 add list=ap-northeast-1-EC2-ipv6 address=2600:1ffd:8149::/48
@@ -51,6 +54,7 @@ add list=ap-northeast-1-EC2-ipv6 address=2406:daf0:4000::/40
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:8130::/48
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0fb:f104::/48
 add list=ap-northeast-1-EC2-ipv6 address=2406:daf2:4000::/40
+add list=ap-northeast-1-EC2-ipv6 address=2406:da6a:3000::/46
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:e27::/48
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f0:1100::/48
 add list=ap-northeast-1-EC2-ipv6 address=2600:f0f1:4440::/42

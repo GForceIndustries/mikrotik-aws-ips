@@ -1,5 +1,6 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:c800::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:2::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:e000::/40
 add list=us-east-1-AMAZON-ipv6 address=2605:9cc0:1ff0:500::/56
@@ -16,6 +17,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:e100::/40
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:9002::/64
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:1:fd00::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:111c::/48
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:a800::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:1ff8:2c00::/40
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f3:f010:3400::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4944::/47
@@ -24,11 +26,13 @@ add list=us-east-1-AMAZON-ipv6 address=2600:1f36:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f3:f010::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:1f10:c000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:500::/48
+add list=us-east-1-AMAZON-ipv6 address=2600:1f20:2000::/36
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:9016::/64
 add list=us-east-1-AMAZON-ipv6 address=2600:1f25:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:6000::/44
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4946::/47
 add list=us-east-1-AMAZON-ipv6 address=2600:1f18::/33
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:1400::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:1fea:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:1f2f:8000::/36
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:8004::/64
@@ -44,8 +48,10 @@ add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:7000::/56
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:901b::/64
 add list=us-east-1-AMAZON-ipv6 address=2600:1fbb:8000::/38
 add list=us-east-1-AMAZON-ipv6 address=2600:1f21:8000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:1fe7:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:1ffd:807f::/48
 add list=us-east-1-AMAZON-ipv6 address=2606:7b40:1b0f:100::/56
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:3800::/46
 add list=us-east-1-AMAZON-ipv6 address=2606:7b40:1b0f:200::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:a0::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:c12a::/48
@@ -57,6 +63,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:1f22:c000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:42c0::/42
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:9013::/64
 add list=us-east-1-AMAZON-ipv6 address=2600:1f1a:8000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:cc00::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:0:100::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:600:200::/55
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:ff::/64
@@ -65,10 +72,13 @@ add list=us-east-1-AMAZON-ipv6 address=2600:1f19:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f61:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:111f::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f2:7101::/48
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:1800::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:ca00:1000::/52
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:4000::/59
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:9005::/64
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:d400::/46
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000::/64
+add list=us-east-1-AMAZON-ipv6 address=2600:1f62:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:551c::/48
 add list=us-east-1-AMAZON-ipv6 address=2606:7b40:1b0f:300::/56
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:900d::/64
@@ -109,6 +119,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:700::/48
 add list=us-east-1-AMAZON-ipv6 address=2605:9cc0:1ff0:800::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:0:204::/62
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f2:7012::/48
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:f800::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:0:21c::/62
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f3:f010:300::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:1feb:8000::/39
@@ -130,10 +141,12 @@ add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:f00:500::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:f00::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:8101::/48
 add list=us-east-1-AMAZON-ipv6 address=2606:f40:fffc::/48
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:7c00::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:1fe9:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f2:7010::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:c000::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:1f24:4000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:5c00::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4850::/47
 add list=us-east-1-AMAZON-ipv6 address=2600:1f1f:8000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:14::/47
@@ -143,6 +156,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:1f1d:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:5518::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4900:100::/56
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:2000::/64
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:8800::/46
 add list=us-east-1-AMAZON-ipv6 address=2605:9cc0:1ff0:700::/56
 add list=us-east-1-AMAZON-ipv6 address=2605:9cc0:1fff:fc00::/54
 add list=us-east-1-AMAZON-ipv6 address=2600:1ff8:8000::/39
@@ -154,14 +168,17 @@ add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:8a00::/44
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4890::/47
 add list=us-east-1-AMAZON-ipv6 address=2600:1f38:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:1f13:8000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:200::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:f00:100::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:1f1c:8000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:ac00::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:8b00::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:0:208::/62
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:c12b::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:c900::/52
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:eb00::/40
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:b400::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:1f12:c000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f14:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1ffd:803f::/48
@@ -175,6 +192,8 @@ add list=us-east-1-AMAZON-ipv6 address=2600:1f27:c000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f2c:8000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f15:8000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:480c::/47
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:5400::/46
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:7800::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:6101::/48
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:12::/47
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:8002::/64
@@ -198,6 +217,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:0:218::/62
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:493e::/47
 add list=us-east-1-AMAZON-ipv6 address=2600:1f2c:c000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f01:4900:200::/56
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:9800::/46
 add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:9009::/64
 add list=us-east-1-AMAZON-ipv6 address=2600:1f2b:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:701::/48
@@ -209,6 +229,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:1f19:c000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:e300::/40
 add list=us-east-1-AMAZON-ipv6 address=2605:9cc0:1ff0:8000::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:1f60:8000::/39
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:9400::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f1:18::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:e800::/40
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:f024::/48
@@ -231,6 +252,7 @@ add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:600::/55
 add list=us-east-1-AMAZON-ipv6 address=2600:f0f0:f00:300::/56
 add list=us-east-1-AMAZON-ipv6 address=2606:f40:8000::/39
 add list=us-east-1-AMAZON-ipv6 address=2600:1f29:c000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:5800::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:1f1f:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f29:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2606:7b40:1a4f:340::/60
@@ -260,6 +282,7 @@ add list=us-east-1-AMAZON-ipv6 address=2620:107:4000:9017::/64
 add list=us-east-1-AMAZON-ipv6 address=2600:f0fb:c900:2000::/52
 add list=us-east-1-AMAZON-ipv6 address=2605:9cc0:1ff0:f800::/56
 add list=us-east-1-AMAZON-ipv6 address=2600:1f29:8000::/36
+add list=us-east-1-AMAZON-ipv6 address=2600:1f6a:f400::/46
 add list=us-east-1-AMAZON-ipv6 address=2600:1f21:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f2d:4000::/36
 add list=us-east-1-AMAZON-ipv6 address=2600:1f70:8000::/39

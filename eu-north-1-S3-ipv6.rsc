@@ -1,17 +1,28 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
+add list=eu-north-1-S3-ipv6 address=2a05:d069:6000::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d050:8800::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d059:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d07a:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d050:6000::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d074:8800::/40
 add list=eu-north-1-S3-ipv6 address=2600:f0f0:6131::/48
+add list=eu-north-1-S3-ipv6 address=2a05:d039:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d030:8800::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d031:6000::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d059:8800::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d078:8800::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d079:8800::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d079:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d070:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d074:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d030:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d070:8800::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d069:8800::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d06f:8800::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d039:8800::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d06f:6000::/40
 add list=eu-north-1-S3-ipv6 address=2a05:d078:6000::/40
+add list=eu-north-1-S3-ipv6 address=2a05:d031:8800::/40
 add list=eu-north-1-S3-ipv6 address=2600:f0f0:6107::/48
 add list=eu-north-1-S3-ipv6 address=2600:f0f2:701f::/48

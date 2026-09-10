@@ -1,5 +1,7 @@
-# Generated on Wed Sep  9 10:02:19 2026 UTC
+# Generated on Thu Sep 10 09:58:33 2026 UTC
 /ipv6 firewall address-list
+add list=ca-west-1-S3-ipv6 address=2600:1f62:a400::/40
+add list=ca-west-1-S3-ipv6 address=2600:1fe7:a400::/40
 add list=ca-west-1-S3-ipv6 address=2600:1f61:a400::/40
 add list=ca-west-1-S3-ipv6 address=2600:1ff4:a400::/40
 add list=ca-west-1-S3-ipv6 address=2600:1ff8:a400::/40
