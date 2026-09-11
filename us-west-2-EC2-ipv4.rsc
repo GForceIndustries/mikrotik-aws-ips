@@ -1,4 +1,4 @@
-# Generated on Thu Sep 10 09:58:33 2026 UTC
+# Generated on Fri Sep 11 09:56:40 2026 UTC
 /ip firewall address-list
 add list=us-west-2-EC2-ipv4 address=139.56.16.0/23
 add list=us-west-2-EC2-ipv4 address=43.226.27.0/24
@@ -21,7 +21,6 @@ add list=us-west-2-EC2-ipv4 address=1.178.65.0/24
 add list=us-west-2-EC2-ipv4 address=3.4.3.0/24
 add list=us-west-2-EC2-ipv4 address=52.94.249.64/28
 add list=us-west-2-EC2-ipv4 address=15.181.253.0/24
-add list=us-west-2-EC2-ipv4 address=64.73.213.0/24
 add list=us-west-2-EC2-ipv4 address=35.50.132.0/24
 add list=us-west-2-EC2-ipv4 address=70.224.192.0/18
 add list=us-west-2-EC2-ipv4 address=15.220.32.0/21
@@ -57,13 +56,11 @@ add list=us-west-2-EC2-ipv4 address=52.12.0.0/15
 add list=us-west-2-EC2-ipv4 address=15.129.48.0/23
 add list=us-west-2-EC2-ipv4 address=35.54.40.0/22
 add list=us-west-2-EC2-ipv4 address=52.75.0.0/16
-add list=us-west-2-EC2-ipv4 address=64.73.203.0/24
 add list=us-west-2-EC2-ipv4 address=54.218.0.0/16
 add list=us-west-2-EC2-ipv4 address=3.5.76.0/22
 add list=us-west-2-EC2-ipv4 address=15.181.0.0/20
 add list=us-west-2-EC2-ipv4 address=155.146.160.0/20
 add list=us-west-2-EC2-ipv4 address=54.244.0.0/16
-add list=us-west-2-EC2-ipv4 address=64.73.205.0/24
 add list=us-west-2-EC2-ipv4 address=44.224.0.0/11
 add list=us-west-2-EC2-ipv4 address=35.55.38.0/24
 add list=us-west-2-EC2-ipv4 address=64.252.73.0/24
@@ -148,7 +145,6 @@ add list=us-west-2-EC2-ipv4 address=54.184.0.0/13
 add list=us-west-2-EC2-ipv4 address=16.147.0.0/16
 add list=us-west-2-EC2-ipv4 address=173.83.204.0/23
 add list=us-west-2-EC2-ipv4 address=35.54.62.0/24
-add list=us-west-2-EC2-ipv4 address=64.73.206.0/24
 add list=us-west-2-EC2-ipv4 address=15.181.251.0/24
 add list=us-west-2-EC2-ipv4 address=173.83.224.0/22
 add list=us-west-2-EC2-ipv4 address=64.252.71.0/24
@@ -168,4 +164,3 @@ add list=us-west-2-EC2-ipv4 address=52.94.248.96/28
 add list=us-west-2-EC2-ipv4 address=35.55.39.0/24
 add list=us-west-2-EC2-ipv4 address=99.77.186.0/24
 add list=us-west-2-EC2-ipv4 address=35.55.127.0/24
-add list=us-west-2-EC2-ipv4 address=64.73.204.0/24
