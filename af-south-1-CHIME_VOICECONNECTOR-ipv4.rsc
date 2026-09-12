@@ -1,3 +1,3 @@
-# Generated on Fri Sep 11 09:56:40 2026 UTC
+# Generated on Sat Sep 12 09:31:33 2026 UTC
 /ip firewall address-list
 add list=af-south-1-CHIME_VOICECONNECTOR-ipv4 address=99.77.235.0/24
