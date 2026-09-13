@@ -1,4 +1,4 @@
-# Generated on Sat Sep 12 09:31:33 2026 UTC
+# Generated on Sun Sep 13 10:31:56 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-API_GATEWAY-ipv4 address=15.228.129.0/24
 add list=sa-east-1-API_GATEWAY-ipv4 address=15.228.144.0/24

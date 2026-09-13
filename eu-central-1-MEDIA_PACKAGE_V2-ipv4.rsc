@@ -1,4 +1,4 @@
-# Generated on Sat Sep 12 09:31:33 2026 UTC
+# Generated on Sun Sep 13 10:31:56 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-MEDIA_PACKAGE_V2-ipv4 address=3.77.79.224/29
 add list=eu-central-1-MEDIA_PACKAGE_V2-ipv4 address=3.77.79.232/29

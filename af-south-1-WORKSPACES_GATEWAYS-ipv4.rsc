@@ -1,4 +1,4 @@
-# Generated on Sat Sep 12 09:31:33 2026 UTC
+# Generated on Sun Sep 13 10:31:56 2026 UTC
 /ip firewall address-list
 add list=af-south-1-WORKSPACES_GATEWAYS-ipv4 address=13.246.108.0/22
 add list=af-south-1-WORKSPACES_GATEWAYS-ipv4 address=13.246.120.0/22
