@@ -1,4 +1,4 @@
-# Generated on Sun Sep 13 10:31:56 2026 UTC
+# Generated on Mon Sep 14 10:54:58 2026 UTC
 /ipv6 firewall address-list
 add list=cn-northwest-1-AMAZON-ipv6 address=240f:80ff:4000::/40
 add list=cn-northwest-1-AMAZON-ipv6 address=240f:80f8:4000::/40
