@@ -1,4 +1,4 @@
-# Generated on Mon Sep 14 10:54:58 2026 UTC
+# Generated on Tue Sep 15 10:20:52 2026 UTC
 /ip firewall address-list
 add list=us-south-1-EC2-ipv4 address=52.94.250.192/28
 add list=us-south-1-EC2-ipv4 address=16.15.60.0/22
