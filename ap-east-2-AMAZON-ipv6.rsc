@@ -1,4 +1,4 @@
-# Generated on Thu Sep 17 10:19:23 2026 UTC
+# Generated on Fri Sep 18 09:59:30 2026 UTC
 /ipv6 firewall address-list
 add list=ap-east-2-AMAZON-ipv6 address=2406:daea:c800::/40
 add list=ap-east-2-AMAZON-ipv6 address=2406:da32:c800::/40

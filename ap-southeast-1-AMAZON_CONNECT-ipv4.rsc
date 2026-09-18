@@ -1,3 +1,3 @@
-# Generated on Thu Sep 17 10:19:23 2026 UTC
+# Generated on Fri Sep 18 09:59:30 2026 UTC
 /ip firewall address-list
 add list=ap-southeast-1-AMAZON_CONNECT-ipv4 address=15.193.2.0/24

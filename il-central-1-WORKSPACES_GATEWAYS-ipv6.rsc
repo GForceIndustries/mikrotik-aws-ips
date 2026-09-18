@@ -1,4 +1,4 @@
-# Generated on Thu Sep 17 10:19:23 2026 UTC
+# Generated on Fri Sep 18 09:59:30 2026 UTC
 /ipv6 firewall address-list
 add list=il-central-1-WORKSPACES_GATEWAYS-ipv6 address=2a05:d032:5000::/40
 add list=il-central-1-WORKSPACES_GATEWAYS-ipv6 address=2a05:d025:1000::/48
