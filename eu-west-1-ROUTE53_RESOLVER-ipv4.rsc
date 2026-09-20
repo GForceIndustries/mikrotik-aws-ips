@@ -1,4 +1,4 @@
-# Generated on Sat Sep 19 09:41:00 2026 UTC
+# Generated on Sun Sep 20 10:00:37 2026 UTC
 /ip firewall address-list
 add list=eu-west-1-ROUTE53_RESOLVER-ipv4 address=3.248.180.128/25
 add list=eu-west-1-ROUTE53_RESOLVER-ipv4 address=3.248.180.40/29
