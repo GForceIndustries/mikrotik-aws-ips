@@ -1,4 +1,4 @@
-# Generated on Fri Sep 25 10:27:10 2026 UTC
+# Generated on Sat Sep 26 10:07:28 2026 UTC
 /ipv6 firewall address-list
 add list=cn-northwest-1-EFS-ipv6 address=2404:c2c0:8834:a400::/56
 add list=cn-northwest-1-EFS-ipv6 address=2404:c2c0:8b03:e600::/56
