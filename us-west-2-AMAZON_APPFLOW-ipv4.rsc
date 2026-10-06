@@ -1,4 +1,4 @@
-# Generated on Mon Oct  5 12:32:35 2026 UTC
+# Generated on Tue Oct  6 12:10:28 2026 UTC
 /ip firewall address-list
 add list=us-west-2-AMAZON_APPFLOW-ipv4 address=35.84.36.0/30
 add list=us-west-2-AMAZON_APPFLOW-ipv4 address=44.234.73.116/30
