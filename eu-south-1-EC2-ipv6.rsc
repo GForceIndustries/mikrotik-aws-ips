@@ -1,4 +1,4 @@
-# Generated on Tue Oct  6 12:10:28 2026 UTC
+# Generated on Wed Oct  7 11:56:27 2026 UTC
 /ipv6 firewall address-list
 add list=eu-south-1-EC2-ipv6 address=2600:f0f3:f010:2100::/56
 add list=eu-south-1-EC2-ipv6 address=2a05:d000:a000::/40
