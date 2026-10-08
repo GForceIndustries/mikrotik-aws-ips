@@ -1,4 +1,4 @@
-# Generated on Wed Oct  7 11:56:27 2026 UTC
+# Generated on Thu Oct  8 12:11:21 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -383,6 +383,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/il-central-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=il-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-central-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=me-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-south-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=me-south-1-API_GATEWAY-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-west-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=me-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=mx-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=sa-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=us-east-1-API_GATEWAY-ipv4.rsc;\r\
@@ -1402,6 +1403,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=il-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=me-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=me-south-1-API_GATEWAY-ipv4.rsc;\r\
+    \n/import file-name=me-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=mx-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=sa-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=us-east-1-API_GATEWAY-ipv4.rsc;\r\
