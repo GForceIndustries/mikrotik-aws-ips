@@ -1,4 +1,4 @@
-# Generated on Thu Oct  8 12:11:21 2026 UTC
+# Generated on Fri Oct  9 12:02:53 2026 UTC
 /ipv6 firewall address-list
 add list=mx-central-1-EFS-ipv6 address=2600:1f17:4cae:a000::/56
 add list=mx-central-1-EFS-ipv6 address=2600:1f17:4ce9:6400::/56
