@@ -1,4 +1,4 @@
-# Generated on Fri Oct  9 12:02:53 2026 UTC
+# Generated on Sat Oct 10 11:19:22 2026 UTC
 /ip firewall address-list
 add list=sa-east-1-AMAZON_APPFLOW-ipv4 address=15.228.126.72/30
 add list=sa-east-1-AMAZON_APPFLOW-ipv4 address=18.229.100.112/30
