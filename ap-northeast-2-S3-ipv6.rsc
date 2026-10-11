@@ -1,4 +1,4 @@
-# Generated on Sat Oct 10 11:19:22 2026 UTC
+# Generated on Sun Oct 11 11:32:17 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-2-S3-ipv6 address=2406:daf0:2000::/40
 add list=ap-northeast-2-S3-ipv6 address=2406:dafa:2000::/40
