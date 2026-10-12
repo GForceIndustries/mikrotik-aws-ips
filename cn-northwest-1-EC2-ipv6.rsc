@@ -1,4 +1,4 @@
-# Generated on Sun Oct 11 11:32:17 2026 UTC
+# Generated on Mon Oct 12 13:25:33 2026 UTC
 /ipv6 firewall address-list
 add list=cn-northwest-1-EC2-ipv6 address=240f:80ff:4000::/40
 add list=cn-northwest-1-EC2-ipv6 address=2404:c2c0:111::/48
