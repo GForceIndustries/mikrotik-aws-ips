@@ -1,4 +1,4 @@
-# Generated on Thu Oct 15 10:13:13 2026 UTC
+# Generated on Fri Oct 16 10:02:43 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -220,6 +220,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-ROUTE53-ipv4.rsc\" mode=https dst-path=eusc-de-east-1-ROUTE53-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-ROUTE53-ipv4.rsc\" mode=https dst-path=eu-central-1-ROUTE53-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=eusc-de-east-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-1-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=ap-northeast-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=ap-northeast-2-CLOUDFRONT-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-south-1-CLOUDFRONT-ipv4.rsc\" mode=https dst-path=ap-south-1-CLOUDFRONT-ipv4.rsc;\r\
@@ -311,6 +312,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-central-1-ROUTE53_HEALTHCHECKS_PUBLISHING-ipv4.rsc\" mode=https dst-path=eu-central-1-ROUTE53_HEALTHCHECKS_PUBLISHING-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CHIME_MEETINGS-ipv4.rsc\" mode=https dst-path=GLOBAL-CHIME_MEETINGS-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc\" mode=https dst-path=eusc-de-east-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-northeast-2-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc\" mode=https dst-path=ap-northeast-2-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-central-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc\" mode=https dst-path=me-central-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-IVS_LOW_LATENCY-ipv4.rsc\" mode=https dst-path=GLOBAL-IVS_LOW_LATENCY-ipv4.rsc;\r\
@@ -854,6 +856,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-east-1-ROUTE53-ipv6.rsc\" mode=https dst-path=us-gov-east-1-ROUTE53-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-gov-west-1-ROUTE53-ipv6.rsc\" mode=https dst-path=us-gov-west-1-ROUTE53-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT-ipv6.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-CLOUDFRONT-ipv6.rsc\" mode=https dst-path=eusc-de-east-1-CLOUDFRONT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-2-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=us-west-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eu-west-1-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=eu-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-GLOBALACCELERATOR-ipv6.rsc\" mode=https dst-path=us-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
@@ -893,6 +896,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-AMAZON_CONNECT-ipv6.rsc\" mode=https dst-path=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CHIME_MEETINGS-ipv6.rsc\" mode=https dst-path=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc\" mode=https dst-path=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/eusc-de-east-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc\" mode=https dst-path=eusc-de-east-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/af-south-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc\" mode=https dst-path=af-south-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc\" mode=https dst-path=ap-east-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/ap-east-2-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc\" mode=https dst-path=ap-east-2-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
@@ -1242,6 +1246,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eusc-de-east-1-ROUTE53-ipv4.rsc;\r\
     \n/import file-name=eu-central-1-ROUTE53-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT-ipv4.rsc;\r\
+    \n/import file-name=eusc-de-east-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-1-CLOUDFRONT-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-2-CLOUDFRONT-ipv4.rsc;\r\
     \n/import file-name=ap-south-1-CLOUDFRONT-ipv4.rsc;\r\
@@ -1333,6 +1338,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=eu-central-1-ROUTE53_HEALTHCHECKS_PUBLISHING-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-CHIME_MEETINGS-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
+    \n/import file-name=eusc-de-east-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/import file-name=ap-northeast-2-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/import file-name=me-central-1-CLOUDFRONT_ORIGIN_FACING-ipv4.rsc;\r\
     \n/import file-name=GLOBAL-IVS_LOW_LATENCY-ipv4.rsc;\r\
@@ -1876,6 +1882,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=us-gov-east-1-ROUTE53-ipv6.rsc;\r\
     \n/import file-name=us-gov-west-1-ROUTE53-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT-ipv6.rsc;\r\
+    \n/import file-name=eusc-de-east-1-CLOUDFRONT-ipv6.rsc;\r\
     \n/import file-name=us-west-2-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=eu-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
     \n/import file-name=us-west-1-GLOBALACCELERATOR-ipv6.rsc;\r\
@@ -1915,6 +1922,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=GLOBAL-AMAZON_CONNECT-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CHIME_MEETINGS-ipv6.rsc;\r\
     \n/import file-name=GLOBAL-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
+    \n/import file-name=eusc-de-east-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/import file-name=af-south-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/import file-name=ap-east-1-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\
     \n/import file-name=ap-east-2-CLOUDFRONT_ORIGIN_FACING-ipv6.rsc;\r\

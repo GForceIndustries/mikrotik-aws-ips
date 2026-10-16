@@ -1,4 +1,4 @@
-# Generated on Thu Oct 15 10:13:13 2026 UTC
+# Generated on Fri Oct 16 10:02:43 2026 UTC
 /ipv6 firewall address-list
 add list=ca-west-1-EFS-ipv6 address=2600:1f1a:41c6:700::/56
 add list=ca-west-1-EFS-ipv6 address=2600:1f1a:4bd9:d100::/56

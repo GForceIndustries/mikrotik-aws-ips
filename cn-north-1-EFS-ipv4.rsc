@@ -1,4 +1,4 @@
-# Generated on Thu Oct 15 10:13:13 2026 UTC
+# Generated on Fri Oct 16 10:02:43 2026 UTC
 /ip firewall address-list
 add list=cn-north-1-EFS-ipv4 address=43.196.168.0/25
 add list=cn-north-1-EFS-ipv4 address=43.196.172.0/22

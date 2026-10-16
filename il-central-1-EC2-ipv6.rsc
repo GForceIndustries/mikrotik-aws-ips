@@ -1,4 +1,4 @@
-# Generated on Thu Oct 15 10:13:13 2026 UTC
+# Generated on Fri Oct 16 10:02:43 2026 UTC
 /ipv6 firewall address-list
 add list=il-central-1-EC2-ipv6 address=2a05:d05b:5000::/40
 add list=il-central-1-EC2-ipv6 address=2a05:d059:5000::/40
