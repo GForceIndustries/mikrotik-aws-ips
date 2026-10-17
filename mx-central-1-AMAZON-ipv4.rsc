@@ -1,4 +1,4 @@
-# Generated on Fri Oct 16 10:02:43 2026 UTC
+# Generated on Sat Oct 17 09:36:15 2026 UTC
 /ip firewall address-list
 add list=mx-central-1-AMAZON-ipv4 address=150.222.53.160/27
 add list=mx-central-1-AMAZON-ipv4 address=136.18.152.0/21
@@ -7,6 +7,7 @@ add list=mx-central-1-AMAZON-ipv4 address=52.94.250.96/28
 add list=mx-central-1-AMAZON-ipv4 address=104.255.57.103/32
 add list=mx-central-1-AMAZON-ipv4 address=15.177.102.0/24
 add list=mx-central-1-AMAZON-ipv4 address=35.60.0.0/15
+add list=mx-central-1-AMAZON-ipv4 address=191.166.0.0/16
 add list=mx-central-1-AMAZON-ipv4 address=64.66.155.0/24
 add list=mx-central-1-AMAZON-ipv4 address=15.248.120.0/21
 add list=mx-central-1-AMAZON-ipv4 address=15.190.96.0/20

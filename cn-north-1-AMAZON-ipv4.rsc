@@ -1,4 +1,4 @@
-# Generated on Fri Oct 16 10:02:43 2026 UTC
+# Generated on Sat Oct 17 09:36:15 2026 UTC
 /ip firewall address-list
 add list=cn-north-1-AMAZON-ipv4 address=54.222.88.0/24
 add list=cn-north-1-AMAZON-ipv4 address=54.222.64.0/24
@@ -59,3 +59,4 @@ add list=cn-north-1-AMAZON-ipv4 address=52.81.167.128/27
 add list=cn-north-1-AMAZON-ipv4 address=52.81.167.192/26
 add list=cn-north-1-AMAZON-ipv4 address=52.81.232.0/26
 add list=cn-north-1-AMAZON-ipv4 address=71.131.196.128/26
+add list=cn-north-1-AMAZON-ipv4 address=71.137.18.0/23
