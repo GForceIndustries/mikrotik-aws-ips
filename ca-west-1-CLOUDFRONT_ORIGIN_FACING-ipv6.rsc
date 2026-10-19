@@ -1,3 +1,3 @@
-# Generated on Sun Oct 18 09:48:30 2026 UTC
+# Generated on Mon Oct 19 11:07:02 2026 UTC
 /ipv6 firewall address-list
 add list=ca-west-1-CLOUDFRONT_ORIGIN_FACING-ipv6 address=2600:1f1a:4568:b500::/56
