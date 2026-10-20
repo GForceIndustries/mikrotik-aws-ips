@@ -1,6 +1,8 @@
-# Generated on Mon Oct 19 11:07:02 2026 UTC
+# Generated on Tue Oct 20 10:19:53 2026 UTC
 /ip firewall address-list
 add list=us-west-2-MEDIA_PACKAGE_V2-ipv4 address=16.146.161.48/29
 add list=us-west-2-MEDIA_PACKAGE_V2-ipv4 address=16.146.161.56/29
 add list=us-west-2-MEDIA_PACKAGE_V2-ipv4 address=18.246.107.128/29
 add list=us-west-2-MEDIA_PACKAGE_V2-ipv4 address=18.246.107.8/29
+add list=us-west-2-MEDIA_PACKAGE_V2-ipv4 address=32.184.79.16/29
+add list=us-west-2-MEDIA_PACKAGE_V2-ipv4 address=32.190.211.224/29

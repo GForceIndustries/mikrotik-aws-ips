@@ -1,7 +1,8 @@
-# Generated on Mon Oct 19 11:07:02 2026 UTC
+# Generated on Tue Oct 20 10:19:53 2026 UTC
 /ip firewall address-list
 add list=us-gov-east-1-EC2-ipv4 address=35.71.115.0/24
 add list=us-gov-east-1-EC2-ipv4 address=99.77.183.0/24
+add list=us-gov-east-1-EC2-ipv4 address=64.66.163.0/24
 add list=us-gov-east-1-EC2-ipv4 address=182.30.0.0/16
 add list=us-gov-east-1-EC2-ipv4 address=108.175.60.0/22
 add list=us-gov-east-1-EC2-ipv4 address=16.65.0.0/16
