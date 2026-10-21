@@ -1,4 +1,4 @@
-# Generated on Tue Oct 20 10:19:53 2026 UTC
+# Generated on Wed Oct 21 10:29:26 2026 UTC
 file remove [find name~"^aws.*ipv..rsc"]
 /system script
 remove [find name="aws-ips-refresher"]
@@ -388,6 +388,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/me-west-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=me-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/mx-central-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=mx-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-east-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=sa-east-1-API_GATEWAY-ipv4.rsc;\r\
+    \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/sa-west-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=sa-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=us-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-east-2-API_GATEWAY-ipv4.rsc\" mode=https dst-path=us-east-2-API_GATEWAY-ipv4.rsc;\r\
     \n/tool fetch url=\"https://raw.githubusercontent.com/GForceIndustries/mikrotik-aws-ips/refs/heads/main/us-west-1-API_GATEWAY-ipv4.rsc\" mode=https dst-path=us-west-1-API_GATEWAY-ipv4.rsc;\r\
@@ -1414,6 +1415,7 @@ add dont-require-permissions=yes name=aws-ips-refresher owner=admin policy=ftp,r
     \n/import file-name=me-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=mx-central-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=sa-east-1-API_GATEWAY-ipv4.rsc;\r\
+    \n/import file-name=sa-west-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=us-east-1-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=us-east-2-API_GATEWAY-ipv4.rsc;\r\
     \n/import file-name=us-west-1-API_GATEWAY-ipv4.rsc;\r\
