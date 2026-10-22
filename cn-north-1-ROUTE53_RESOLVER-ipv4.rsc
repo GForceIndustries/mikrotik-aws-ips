@@ -1,4 +1,4 @@
-# Generated on Wed Oct 21 10:29:26 2026 UTC
+# Generated on Thu Oct 22 10:30:12 2026 UTC
 /ip firewall address-list
 add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.36.16/29
 add list=cn-north-1-ROUTE53_RESOLVER-ipv4 address=140.179.36.32/27

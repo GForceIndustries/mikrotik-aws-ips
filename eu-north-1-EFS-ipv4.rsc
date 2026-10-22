@@ -1,3 +1,3 @@
-# Generated on Wed Oct 21 10:29:26 2026 UTC
+# Generated on Thu Oct 22 10:30:12 2026 UTC
 /ip firewall address-list
 add list=eu-north-1-EFS-ipv4 address=16.192.180.0/22
