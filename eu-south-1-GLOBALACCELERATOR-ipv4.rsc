@@ -1,4 +1,4 @@
-# Generated on Thu Oct 22 10:30:12 2026 UTC
+# Generated on Fri Oct 23 10:25:07 2026 UTC
 /ip firewall address-list
 add list=eu-south-1-GLOBALACCELERATOR-ipv4 address=99.83.109.0/24
 add list=eu-south-1-GLOBALACCELERATOR-ipv4 address=99.83.108.0/24
