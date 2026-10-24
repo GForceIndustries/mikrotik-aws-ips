@@ -1,4 +1,4 @@
-# Generated on Fri Oct 23 10:25:07 2026 UTC
+# Generated on Sat Oct 24 09:44:15 2026 UTC
 /ip firewall address-list
 add list=us-east-1-EFS-ipv4 address=100.59.224.0/25
 add list=us-east-1-EFS-ipv4 address=100.62.24.0/22
@@ -13,3 +13,4 @@ add list=us-east-1-EFS-ipv4 address=100.62.56.0/22
 add list=us-east-1-EFS-ipv4 address=100.62.60.0/22
 add list=us-east-1-EFS-ipv4 address=100.62.64.0/22
 add list=us-east-1-EFS-ipv4 address=100.62.68.0/22
+add list=us-east-1-EFS-ipv4 address=184.198.80.0/25

@@ -1,4 +1,4 @@
-# Generated on Fri Oct 23 10:25:07 2026 UTC
+# Generated on Sat Oct 24 09:44:15 2026 UTC
 /ipv6 firewall address-list
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:1feb:5000::/40
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:1f15::/36
@@ -29,6 +29,7 @@ add list=us-gov-east-1-AMAZON-ipv6 address=2620:107:4000:7a00::/56
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:f0f0:78::/45
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:1fe9:5000::/40
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:1fa0:5000::/40
+add list=us-gov-east-1-AMAZON-ipv6 address=2600:f0f3:f010:2400::/56
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:1f25::/36
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:1ffe:5000::/40
 add list=us-gov-east-1-AMAZON-ipv6 address=2600:1ff6:5000::/40
