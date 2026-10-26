@@ -1,4 +1,4 @@
-# Generated on Sun Oct 25 10:03:28 2026 UTC
+# Generated on Mon Oct 26 11:26:24 2026 UTC
 /ipv6 firewall address-list
 add list=eu-central-2-EFS-ipv6 address=2a05:d019:5aa:1200::/56
 add list=eu-central-2-EFS-ipv6 address=2a05:d019:84f:800::/56
