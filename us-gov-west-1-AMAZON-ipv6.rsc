@@ -1,4 +1,4 @@
-# Generated on Tue Oct 27 10:49:27 2026 UTC
+# Generated on Wed Oct 28 11:31:04 2026 UTC
 /ipv6 firewall address-list
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:f0f0:70::/45
 add list=us-gov-west-1-AMAZON-ipv6 address=2600:1ff6:2000::/40

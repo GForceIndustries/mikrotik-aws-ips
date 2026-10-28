@@ -1,3 +1,3 @@
-# Generated on Tue Oct 27 10:49:27 2026 UTC
+# Generated on Wed Oct 28 11:31:04 2026 UTC
 /ipv6 firewall address-list
 add list=ca-central-1-AMAZON_CONNECT-ipv6 address=2600:f0f2:7104::/48
