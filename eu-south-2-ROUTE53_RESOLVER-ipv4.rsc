@@ -1,4 +1,4 @@
-# Generated on Thu Oct 29 11:40:50 2026 UTC
+# Generated on Fri Oct 30 11:32:21 2026 UTC
 /ip firewall address-list
 add list=eu-south-2-ROUTE53_RESOLVER-ipv4 address=18.100.64.128/26
 add list=eu-south-2-ROUTE53_RESOLVER-ipv4 address=18.100.64.192/26
