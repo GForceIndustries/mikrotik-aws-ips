@@ -1,4 +1,4 @@
-# Generated on Fri Oct 30 11:32:21 2026 UTC
+# Generated on Sat Oct 31 11:06:25 2026 UTC
 /ip firewall address-list
 add list=eusc-de-east-1-EC2-ipv4 address=51.0.31.0/24
 add list=eusc-de-east-1-EC2-ipv4 address=35.71.94.0/24
@@ -7,6 +7,7 @@ add list=eusc-de-east-1-EC2-ipv4 address=51.74.16.0/24
 add list=eusc-de-east-1-EC2-ipv4 address=51.0.128.0/21
 add list=eusc-de-east-1-EC2-ipv4 address=51.72.0.0/15
 add list=eusc-de-east-1-EC2-ipv4 address=51.0.140.0/23
+add list=eusc-de-east-1-EC2-ipv4 address=51.74.64.0/18
 add list=eusc-de-east-1-EC2-ipv4 address=51.224.0.0/15
 add list=eusc-de-east-1-EC2-ipv4 address=51.0.252.0/24
 add list=eusc-de-east-1-EC2-ipv4 address=51.0.142.0/23
