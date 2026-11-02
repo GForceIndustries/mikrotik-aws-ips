@@ -1,4 +1,4 @@
-# Generated on Sun Nov  1 11:58:38 2026 UTC
+# Generated on Mon Nov  2 13:45:49 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-GLOBALACCELERATOR-ipv4 address=99.82.170.0/24
 add list=ap-northeast-1-GLOBALACCELERATOR-ipv4 address=13.248.98.0/24
