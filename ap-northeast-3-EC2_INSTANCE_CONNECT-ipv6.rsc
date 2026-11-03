@@ -1,3 +1,3 @@
-# Generated on Mon Nov  2 13:45:49 2026 UTC
+# Generated on Tue Nov  3 12:57:16 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-3-EC2_INSTANCE_CONNECT-ipv6 address=2406:da16:856:a500::/56
