@@ -1,4 +1,4 @@
-# Generated on Tue Nov  3 12:57:16 2026 UTC
+# Generated on Wed Nov  4 13:12:02 2026 UTC
 /ipv6 firewall address-list
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:3000::/36
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:f600::/39
@@ -16,6 +16,7 @@ add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:1000::/36
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:2000::/36
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2400:7fc0:500::/40
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2001:3fc6:20::/43
+add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:f0f0:9::/48
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:4000::/36
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2600:9000:fff::/48
 add list=GLOBAL-CLOUDFRONT-ipv6 address=2409:8c00:2421:400::/56
