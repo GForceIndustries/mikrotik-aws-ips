@@ -1,4 +1,4 @@
-# Generated on Thu Nov  5 13:26:07 2026 UTC
+# Generated on Fri Nov  6 13:09:19 2026 UTC
 /ip firewall address-list
 add list=GLOBAL-GLOBALACCELERATOR-ipv4 address=15.197.34.0/23
 add list=GLOBAL-GLOBALACCELERATOR-ipv4 address=15.197.36.0/22

@@ -1,4 +1,4 @@
-# Generated on Thu Nov  5 13:26:07 2026 UTC
+# Generated on Fri Nov  6 13:09:19 2026 UTC
 /ip firewall address-list
 add list=us-gov-west-1-EC2-ipv4 address=15.205.0.0/16
 add list=us-gov-west-1-EC2-ipv4 address=108.175.56.0/22
@@ -15,6 +15,7 @@ add list=us-gov-west-1-EC2-ipv4 address=1.178.30.0/24
 add list=us-gov-west-1-EC2-ipv4 address=3.45.64.0/18
 add list=us-gov-west-1-EC2-ipv4 address=40.39.0.0/16
 add list=us-gov-west-1-EC2-ipv4 address=52.94.248.224/28
+add list=us-gov-west-1-EC2-ipv4 address=13.166.0.0/15
 add list=us-gov-west-1-EC2-ipv4 address=18.99.240.0/20
 add list=us-gov-west-1-EC2-ipv4 address=99.77.184.0/24
 add list=us-gov-west-1-EC2-ipv4 address=3.2.99.0/24
