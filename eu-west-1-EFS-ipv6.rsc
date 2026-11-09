@@ -1,4 +1,4 @@
-# Generated on Sun Nov  8 12:06:46 2026 UTC
+# Generated on Mon Nov  9 14:13:45 2026 UTC
 /ipv6 firewall address-list
 add list=eu-west-1-EFS-ipv6 address=2a05:d018:12e5:5a00::/56
 add list=eu-west-1-EFS-ipv6 address=2a05:d018:1505:aa00::/56
