@@ -1,4 +1,4 @@
-# Generated on Mon Nov  9 14:13:45 2026 UTC
+# Generated on Tue Nov 10 13:42:05 2026 UTC
 /ipv6 firewall address-list
 add list=il-central-1-EFS-ipv6 address=2a05:d025:4c1:4700::/56
 add list=il-central-1-EFS-ipv6 address=2a05:d025:9d2:eb00::/56
