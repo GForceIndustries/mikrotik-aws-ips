@@ -1,4 +1,4 @@
-# Generated on Tue Nov 10 13:42:05 2026 UTC
+# Generated on Wed Nov 11 12:54:06 2026 UTC
 /ip firewall address-list
 add list=ap-northeast-1-EFS-ipv4 address=13.196.148.0/22
 add list=ap-northeast-1-EFS-ipv4 address=13.196.152.0/22

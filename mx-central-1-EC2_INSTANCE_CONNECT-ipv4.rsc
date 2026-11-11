@@ -1,3 +1,3 @@
-# Generated on Tue Nov 10 13:42:05 2026 UTC
+# Generated on Wed Nov 11 12:54:06 2026 UTC
 /ip firewall address-list
 add list=mx-central-1-EC2_INSTANCE_CONNECT-ipv4 address=78.12.207.8/29
