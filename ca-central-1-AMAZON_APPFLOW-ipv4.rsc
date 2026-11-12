@@ -1,4 +1,4 @@
-# Generated on Wed Nov 11 12:54:06 2026 UTC
+# Generated on Thu Nov 12 13:56:11 2026 UTC
 /ip firewall address-list
 add list=ca-central-1-AMAZON_APPFLOW-ipv4 address=3.96.2.68/30
 add list=ca-central-1-AMAZON_APPFLOW-ipv4 address=3.96.2.72/30

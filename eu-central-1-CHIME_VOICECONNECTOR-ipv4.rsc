@@ -1,3 +1,3 @@
-# Generated on Wed Nov 11 12:54:06 2026 UTC
+# Generated on Thu Nov 12 13:56:11 2026 UTC
 /ip firewall address-list
 add list=eu-central-1-CHIME_VOICECONNECTOR-ipv4 address=99.77.247.0/24
