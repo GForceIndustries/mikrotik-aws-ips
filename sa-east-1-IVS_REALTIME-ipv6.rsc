@@ -1,4 +1,4 @@
-# Generated on Thu Nov 12 13:56:11 2026 UTC
+# Generated on Fri Nov 13 13:21:15 2026 UTC
 /ipv6 firewall address-list
 add list=sa-east-1-IVS_REALTIME-ipv6 address=2600:f0f0:5523::/48
 add list=sa-east-1-IVS_REALTIME-ipv6 address=2600:f0f0:1118::/48
