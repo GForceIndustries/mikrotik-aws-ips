@@ -1,4 +1,4 @@
-# Generated on Fri Nov 13 13:21:15 2026 UTC
+# Generated on Sat Nov 14 12:25:37 2026 UTC
 /ipv6 firewall address-list
 add list=eu-south-2-EFS-ipv6 address=2a05:d011:ab7:bb00::/56
 add list=eu-south-2-EFS-ipv6 address=2a05:d011:fbb:2500::/56
