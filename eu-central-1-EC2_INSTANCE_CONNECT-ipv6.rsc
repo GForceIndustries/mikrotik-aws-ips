@@ -1,3 +1,3 @@
-# Generated on Sat Nov 14 12:25:37 2026 UTC
+# Generated on Sun Nov 15 12:54:48 2026 UTC
 /ipv6 firewall address-list
 add list=eu-central-1-EC2_INSTANCE_CONNECT-ipv6 address=2a05:d014:17a8:8b00::/56
