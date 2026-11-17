@@ -1,4 +1,4 @@
-# Generated on Mon Nov 16 13:55:28 2026 UTC
+# Generated on Tue Nov 17 14:47:49 2026 UTC
 /ip firewall address-list
 add list=af-south-1-ROUTE53_RESOLVER-ipv4 address=13.244.244.192/27
 add list=af-south-1-ROUTE53_RESOLVER-ipv4 address=13.244.244.224/27

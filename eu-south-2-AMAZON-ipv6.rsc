@@ -1,4 +1,4 @@
-# Generated on Mon Nov 16 13:55:28 2026 UTC
+# Generated on Tue Nov 17 14:47:49 2026 UTC
 /ipv6 firewall address-list
 add list=eu-south-2-AMAZON-ipv6 address=2606:f40:e100::/40
 add list=eu-south-2-AMAZON-ipv6 address=2600:f0f0:6133::/48
