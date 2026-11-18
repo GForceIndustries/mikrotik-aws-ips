@@ -1,3 +1,3 @@
-# Generated on Tue Nov 17 14:47:49 2026 UTC
+# Generated on Wed Nov 18 14:27:59 2026 UTC
 /ipv6 firewall address-list
 add list=me-central-1-EC2_INSTANCE_CONNECT-ipv6 address=2406:da17:1db:b00::/56
