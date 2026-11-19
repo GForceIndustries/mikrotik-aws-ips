@@ -1,8 +1,9 @@
-# Generated on Wed Nov 18 14:27:59 2026 UTC
+# Generated on Thu Nov 19 14:38:42 2026 UTC
 /ip firewall address-list
 add list=eusc-de-east-1-CLOUDFRONT-ipv4 address=51.74.21.0/24
 add list=eusc-de-east-1-CLOUDFRONT-ipv4 address=51.74.22.0/24
 add list=eusc-de-east-1-CLOUDFRONT-ipv4 address=51.74.20.0/24
+add list=eusc-de-east-1-CLOUDFRONT-ipv4 address=51.74.192.0/18
 add list=eusc-de-east-1-CLOUDFRONT-ipv4 address=51.72.40.128/28
 add list=eusc-de-east-1-CLOUDFRONT-ipv4 address=51.72.40.144/28
 add list=eusc-de-east-1-CLOUDFRONT-ipv4 address=51.72.96.0/23

@@ -1,3 +1,3 @@
-# Generated on Wed Nov 18 14:27:59 2026 UTC
+# Generated on Thu Nov 19 14:38:42 2026 UTC
 /ipv6 firewall address-list
 add list=ap-northeast-3-WORKSPACES_GATEWAYS-ipv6 address=2406:da26:1c::/48
