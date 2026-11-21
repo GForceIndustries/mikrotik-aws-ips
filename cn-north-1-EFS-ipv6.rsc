@@ -1,4 +1,4 @@
-# Generated on Fri Nov 20 14:16:55 2026 UTC
+# Generated on Sat Nov 21 13:39:30 2026 UTC
 /ipv6 firewall address-list
 add list=cn-north-1-EFS-ipv6 address=2400:7fc0:833b:f400::/56
 add list=cn-north-1-EFS-ipv6 address=2400:7fc0:86dd:2300::/56

@@ -1,4 +1,4 @@
-# Generated on Fri Nov 20 14:16:55 2026 UTC
+# Generated on Sat Nov 21 13:39:30 2026 UTC
 /ipv6 firewall address-list
 add list=us-east-1-EFS-ipv6 address=2600:1f10:4a47:1300::/56
 add list=us-east-1-EFS-ipv6 address=2600:1f10:4d24:2400::/56
@@ -13,3 +13,4 @@ add list=us-east-1-EFS-ipv6 address=2600:1f18:54fd:f300::/56
 add list=us-east-1-EFS-ipv6 address=2600:1f18:5914:9100::/56
 add list=us-east-1-EFS-ipv6 address=2600:1f18:759e:7a00::/56
 add list=us-east-1-EFS-ipv6 address=2600:1f18:7a7b:c400::/56
+add list=us-east-1-EFS-ipv6 address=2600:1f18:7cdd:1a00::/56
