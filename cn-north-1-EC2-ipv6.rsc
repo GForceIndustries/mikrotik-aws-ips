@@ -1,4 +1,4 @@
-# Generated on Sat Nov 21 13:39:30 2026 UTC
+# Generated on Sun Nov 22 13:31:52 2026 UTC
 /ipv6 firewall address-list
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:2f00::/40
 add list=cn-north-1-EC2-ipv6 address=2400:7fc0:112::/48

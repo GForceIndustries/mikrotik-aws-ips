@@ -1,4 +1,4 @@
-# Generated on Sat Nov 21 13:39:30 2026 UTC
+# Generated on Sun Nov 22 13:31:52 2026 UTC
 /ip firewall address-list
 add list=eu-south-1-API_GATEWAY-ipv4 address=15.161.140.0/23
 add list=eu-south-1-API_GATEWAY-ipv4 address=18.102.2.0/23
