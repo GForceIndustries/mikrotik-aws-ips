@@ -1,4 +1,4 @@
-# Generated on Sun Nov 22 13:31:52 2026 UTC
+# Generated on Mon Nov 23 16:22:14 2026 UTC
 /ip firewall address-list
 add list=sa-west-1-DYNAMODB-ipv4 address=35.71.91.0/24
 add list=sa-west-1-DYNAMODB-ipv4 address=13.248.81.0/24
