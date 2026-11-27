@@ -1,4 +1,4 @@
-# Generated on Thu Nov 26 15:38:57 2026 UTC
+# Generated on Fri Nov 27 15:29:04 2026 UTC
 /ip firewall address-list
 add list=eu-west-1-DYNAMODB-ipv4 address=52.94.24.0/23
 add list=eu-west-1-DYNAMODB-ipv4 address=52.94.26.0/23

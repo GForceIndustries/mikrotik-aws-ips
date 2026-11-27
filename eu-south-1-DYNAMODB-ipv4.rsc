@@ -1,4 +1,4 @@
-# Generated on Thu Nov 26 15:38:57 2026 UTC
+# Generated on Fri Nov 27 15:29:04 2026 UTC
 /ip firewall address-list
 add list=eu-south-1-DYNAMODB-ipv4 address=35.71.113.0/24
 add list=eu-south-1-DYNAMODB-ipv4 address=52.94.18.0/24
